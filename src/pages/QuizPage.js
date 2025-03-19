@@ -48,7 +48,8 @@ function QuizPage() {
                 setUserAnswers(Array(limitedQuestions.length).fill(null));
             })
             .catch((err) => console.error("Lỗi fetch dữ liệu:", err));
-    }, []);
+    }, [courseId, lessonId]);
+    
 
     const totalQuestions = questions.length;
     const currentQuestion = questions[currentQuestionIndex] || {};
