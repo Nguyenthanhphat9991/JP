@@ -1,32 +1,31 @@
-name: Deploy React App to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - gh-pages  # Hoặc nhánh bạn muốn lắng nghe
+      - gh-pages # hoặc branch bạn muốn deploy
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
-    steps:
-      - name: Check out the repository
-        uses: actions/checkout@v3
 
-      - name: Set up Node
-        uses: actions/setup-node@v3
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
         with:
-          node-version: '20'  # Hoặc 14, 18... tùy theo dự án
+          node-version: '20' # hoặc phiên bản Node.js bạn sử dụng
 
       - name: Install dependencies
         run: npm install
 
-      - name: Build
+      - name: Build app
         run: npm run build
 
-      # Dùng action peaceiris/actions-gh-pages để deploy thư mục build lên gh-pages
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          # Mặc định sẽ deploy vào nhánh gh-pages
+          branch: gh-pages # Branch deploy
+          folder: build # Thư mục build
