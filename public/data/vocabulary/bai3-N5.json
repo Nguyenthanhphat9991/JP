@@ -1,0 +1,290 @@
+[
+    {
+        "index": 1,
+        "word": "あなた",
+        "kanji": "",
+        "meaning": "Bạn",
+        "example": "あなたは<ruby>学生<rt>がくせい</rt></ruby>ですか？ (Bạn là học sinh phải không?)",
+        "image": "anata_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "わたし",
+        "kanji": "私",
+        "meaning": "Tôi",
+        "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。 (Tôi là học sinh.)",
+        "image": "watashi.jpg"
+    },
+    {
+        "index": 3,
+        "word": "かのじょ",
+        "kanji": "彼女",
+        "meaning": "Cô ấy",
+        "example": "<ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>です。 (Cô ấy là giáo viên.)",
+        "image": "kanojo.jpg"
+    },
+    {
+        "index": 4,
+        "word": "かれ",
+        "kanji": "彼",
+        "meaning": "Anh ấy",
+        "example": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>医者<rt>いしゃ</rt></ruby>です。 (Anh ấy là bác sĩ.)",
+        "image": "kare.jpg"
+    },
+    {
+        "index": 5,
+        "word": "あのひと/あのかた",
+        "kanji": "人/方",
+        "meaning": "Người kia",
+        "example": "あの<ruby>人<rt>ひと</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか？ (Người kia là ai?)",
+        "image": "ano_hito.jpg"
+    },
+    {
+        "index": 6,
+        "word": "~さん",
+        "kanji": "",
+        "meaning": "~(hậu tố đặt sau tên)",
+        "example": "<ruby>田中<rt>たなか</rt></ruby>さん (Tanaka-san)",
+        "image": "san.jpg"
+    },
+    {
+        "index": 7,
+        "word": "だれ/どなた",
+        "kanji": "誰",
+        "meaning": "Ai",
+        "example": "あれは<ruby>誰<rt>だれ</rt></ruby>ですか？ (Kia là ai?)",
+        "image": "dare.jpg"
+    },
+    {
+        "index": 8,
+        "word": "いしゃ",
+        "kanji": "医者",
+        "meaning": "Bác sĩ",
+        "example": "<ruby>医者<rt>いしゃ</rt></ruby>ではありません。 (Không phải là bác sĩ.)",
+        "image": "isha.jpg"
+    },
+    {
+        "index": 9,
+        "word": "かしゅ",
+        "kanji": "歌手",
+        "meaning": "Ca sĩ",
+        "example": "<ruby>歌手<rt>かしゅ</rt></ruby>ですか？ (Là ca sĩ phải không?)",
+        "image": "kashu.jpg"
+    },
+    {
+        "index": 10,
+        "word": "がくせい",
+        "kanji": "学生",
+        "meaning": "Học sinh",
+        "example": "<ruby>大学生<rt>だいがくせい</rt></ruby>です。 (Là sinh viên đại học.)",
+        "image": "gakusei.jpg"
+    },
+    {
+        "index": 11,
+        "word": "せんせい",
+        "kanji": "先生",
+        "meaning": "Giáo viên (xưng hô)",
+        "example": "<ruby>先生<rt>せんせい</rt></ruby>、おはようございます。 (Chào buổi sáng thầy/cô giáo.)",
+        "image": "sensei.jpg"
+    },
+    {
+        "index": 12,
+        "word": "きょうし",
+        "kanji": "教師",
+        "meaning": "Giáo viên",
+        "example": "<ruby>教師<rt>きょうし</rt></ruby>をしています。 (Tôi đang làm giáo viên.)",
+        "image": "kyoushi.jpg"
+    },
+    {
+        "index": 13,
+        "word": "ぎんこういん",
+        "kanji": "銀行員",
+        "meaning": "Nhân viên ngân hàng",
+        "example": "<ruby>銀行員<rt>ぎんこういん</rt></ruby>です。 (Tôi là nhân viên ngân hàng.)",
+        "image": "ginkouin.jpg"
+    },
+    {
+        "index": 14,
+        "word": "けいさつかん",
+        "kanji": "警察官",
+        "meaning": "Cảnh sát",
+        "example": "<ruby>警察官<rt>けいさつかん</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>な<ruby>仕事<rt>しごと</rt></ruby>です。 (Cảnh sát là một công việc vất vả.)",
+        "image": "keisatsukan.jpg"
+    },
+    {
+        "index": 15,
+        "word": "かいしゃいん",
+        "kanji": "会社員",
+        "meaning": "Nhân viên công ty",
+        "example": "<ruby>会社員<rt>かいしゃいん</rt></ruby>をしています。 (Tôi đang làm nhân viên công ty.)",
+        "image": "kaishain.jpg"
+    },
+    {
+        "index": 16,
+        "word": "~のしゃいん",
+        "kanji": "社員",
+        "meaning": "Nhân viên ~ (công ty)",
+        "example": "トヨタの<ruby>社員<rt>しゃいん</rt></ruby>です。 (Tôi là nhân viên của công ty Toyota.)",
+        "image": "shain.jpg"
+    },
+    {
+        "index": 17,
+        "word": "りゅうがくせい",
+        "kanji": "留学生",
+        "meaning": "Du học sinh",
+        "example": "<ruby>留学生<rt>りゅうがくせい</rt></ruby>です。 (Tôi là du học sinh.)",
+        "image": "ryuugakusei.jpg"
+    },
+    {
+        "index": 18,
+        "word": "ベトナム",
+        "kanji": "",
+        "meaning": "Việt Nam",
+        "example": "ベトナムから<ruby>来<rt>き</rt></ruby>ました。 (Tôi đến từ Việt Nam.)",
+        "image": "betonamu.jpg"
+    },
+    {
+        "index": 19,
+        "word": "にほん",
+        "kanji": "日本",
+        "meaning": "Nhật Bản",
+        "example": "<ruby>日本<rt>にほん</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。 (Tôi thích Nhật Bản.)",
+        "image": "nihon.jpg"
+    },
+    {
+        "index": 20,
+        "word": "ちゅうごく",
+        "kanji": "中国",
+        "meaning": "Trung Quốc",
+        "example": "<ruby>中国<rt>ちゅうごく</rt></ruby><ruby>語<rt>ご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しています。 (Tôi đang học tiếng Trung Quốc.)",
+        "image": "chuugoku.jpg"
+    },
+    {
+        "index": 21,
+        "word": "かんこく",
+        "kanji": "韓国",
+        "meaning": "Hàn Quốc",
+        "example": "<ruby>韓国<rt>かんこく</rt></ruby>のドラマを<ruby>見<rt>み</rt></ruby>ます。 (Tôi xem phim truyền hình Hàn Quốc.)",
+        "image": "kankoku.jpg"
+    },
+    {
+        "index": 22,
+        "word": "アメリカ",
+        "kanji": "",
+        "meaning": "Mỹ",
+        "example": "アメリカへ<ruby>行<rt>い</rt></ruby>ったことがあります。 (Tôi đã từng đến Mỹ.)",
+        "image": "amerika.jpg"
+    },
+    {
+        "index": 23,
+        "word": "くに",
+        "kanji": "国",
+        "meaning": "Đất nước",
+        "example": "あなたの<ruby>国<rt>くに</rt></ruby>はどこですか？ (Đất nước của bạn ở đâu?)",
+        "image": "kuni.jpg"
+    },
+    {
+        "index": 24,
+        "word": "~じん",
+        "kanji": "人",
+        "meaning": "Người nước ~",
+        "example": "アメリカ<ruby>人<rt>じん</rt></ruby>です。 (Tôi là người Mỹ.)",
+        "image": "jin.jpg"
+    },
+    {
+        "index": 25,
+        "word": "かいしゃ",
+        "kanji": "会社",
+        "meaning": "Công ty",
+        "example": "<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>いています。 (Tôi đang làm việc ở công ty.)",
+        "image": "kaisha.jpg"
+    },
+    {
+        "index": 26,
+        "word": "がっこう",
+        "kanji": "学校",
+        "meaning": "Trường",
+        "example": "<ruby>学校<rt>がっこう</rt></ruby>はどこですか？ (Trường học ở đâu?)",
+        "image": "gakkou.jpg"
+    },
+    {
+        "index": 27,
+        "word": "だいがく",
+        "kanji": "大学",
+        "meaning": "Đại học",
+        "example": "<ruby>大学<rt>だいがく</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>しています。 (Tôi đang học ở trường đại học.)",
+        "image": "daigaku.jpg"
+    },
+    {
+        "index": 28,
+        "word": "びょういん",
+        "kanji": "病院",
+        "meaning": "Bệnh viện",
+        "example": "<ruby>病院<rt>びょういん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi sẽ đi đến bệnh viện.)",
+        "image": "byouin.jpg"
+    },
+    {
+        "index": 29,
+        "word": "はじめまして",
+        "kanji": "",
+        "meaning": "Rất vui được gặp anh (chị)",
+        "example": "はじめまして。 (Rất vui được gặp anh/chị.)",
+        "image": "hajimemashite.jpg"
+    },
+    {
+        "index": 30,
+        "word": "~からきました",
+        "kanji": "",
+        "meaning": "Tôi đến từ ...",
+        "example": "ベトナムから<ruby>来<rt>き</rt></ruby>ました。 (Tôi đến từ Việt Nam.)",
+        "image": "kara_kimashita.jpg"
+    },
+    {
+        "index": 31,
+        "word": "(どうぞ) よろしくおねがいします",
+        "kanji": "",
+        "meaning": "Rất mong được anh (chị) giúp đỡ.",
+        "example": "どうぞよろしくおねがいします。 (Rất mong được anh/chị giúp đỡ.)",
+        "image": "yoroshiku_onegaishimasu.jpg"
+    },
+    {
+        "index": 32,
+        "word": "しつれいですが、･･･",
+        "kanji": "",
+        "meaning": "Xin lỗi anh (chị) / Làm phiền anh (chị)",
+        "example": "しつれいですが、お<ruby>名前<rt>なまえ</rt></ruby>は？ (Xin lỗi, tên anh/chị là gì?)",
+        "image": "shitsurei_desu_ga.jpg"
+    },
+    {
+        "index": 33,
+        "word": "おなまえは",
+        "kanji": "",
+        "meaning": "Tên anh (chị) là?",
+        "example": "お<ruby>名前<rt>なまえ</rt></ruby>は？ (Tên anh/chị là gì?)",
+        "image": "onamae_wa.jpg"
+    },
+    {
+        "index": 34,
+        "word": "おしごとは",
+        "kanji": "",
+        "meaning": "Nghề nghiệp anh (chị) là?",
+        "example": "お<ruby>仕事<rt>しごと</rt></ruby>は？ (Nghề nghiệp của anh/chị là gì?)",
+        "image": "oshigoto_wa.jpg"
+    },
+    {
+        "index": 35,
+        "word": "はい、そうです",
+        "kanji": "",
+        "meaning": "Vâng, đúng vậy.",
+        "example": "はい、そうです。 (Vâng, đúng vậy.)",
+        "image": "hai_sou_desu.jpg"
+    },
+    {
+        "index": 36,
+        "word": "いいえ、ちがいます",
+        "kanji": "",
+        "meaning": "Không, không phải.",
+        "example": "いいえ、ちがいます。 (Không, không phải.)",
+        "image": "iie_chigaimasu.jpg"
+    }
+]

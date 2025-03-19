@@ -1,0 +1,141 @@
+/* Khung kết quả với gradient + animation popIn */
+.quiz-result {
+  background: linear-gradient(135deg, #FFDCE5 0%, #FFF0F5 100%);
+  border-radius: 16px;
+  border: none;
+  animation: popIn 0.6s ease forwards;
+}
+
+.result-title {
+  color: #D45A6F;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+.result-icon {
+  font-size: 1.5rem;
+}
+
+.incorrect-list {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Luôn 2 cột */
+  gap: 20px;
+}
+
+.incorrect-item {
+  background-color: #ffffffcc;
+  border: 1px solid #fab8c4;
+  border-radius: 8px;
+  padding: 12px;
+  transition: transform 0.3s ease;
+}
+
+.incorrect-item:hover {
+  transform: scale(1.02);
+}
+
+/* Responsive: màn hình dưới 768px sẽ về 1 cột */
+@media (max-width: 768px) {
+  .incorrect-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Các style pastel hồng khác (giữ nguyên nếu bạn đã có) */
+.quiz-container {
+  background-color: #FFF0F5;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+.quiz-inner {
+  max-width: 800px;
+  width: 100%;
+}
+
+.quiz-title {
+  color: #D45A6F;
+  font-weight: 600;
+}
+
+.quiz-card {
+  background-color: #ffeaf0;
+  border-radius: 16px;
+  border: none;
+}
+
+.form-check-input:checked {
+  background-color: #f78fb3;
+  border-color: #f78fb3;
+}
+
+.btn-primary {
+  background-color: #f78fb3;
+  border-color: #f78fb3;
+}
+
+.btn-primary:hover {
+  background-color: #d45a6f;
+  border-color: #d45a6f;
+}
+
+.btn-secondary {
+  background-color: #c8c8c8;
+  border-color: #c8c8c8;
+}
+
+.btn-secondary:hover {
+  background-color: #a9a9a9;
+  border-color: #a9a9a9;
+}
+
+.btn-success {
+  background-color: #a5d6a7;
+  border-color: #a5d6a7;
+}
+
+.btn-success:hover {
+  background-color: #81c784;
+  border-color: #81c784;
+}
+
+/* Animation popIn */
+@keyframes popIn {
+  0% {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+
+  60% {
+    transform: scale(1.03);
+    opacity: 1;
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+
+.quiz-result-buttons {
+  display: flex;
+  justify-content: center; /* canh giữa */
+  gap: 20px;               /* khoảng cách giữa các nút */
+}
+
+/* Định dạng Furigana */
+ruby {
+  font-size: 24px;
+  font-weight: bold;
+}
+rt {
+  font-weight: bold; /* Làm đậm chữ chú thích */
+  font-size: 14px; /* Điều chỉnh kích thước Furigana */
+  position: relative;
+  top: -2px; /* Tạo khoảng cách giữa Kanji và Furigana */
+}

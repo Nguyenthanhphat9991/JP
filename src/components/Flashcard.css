@@ -1,0 +1,167 @@
+/* Đặt font chữ (tuỳ chọn) */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    /* Màu nền tổng thể pastel hồng nhạt */
+    background-color: #FFF0F5;
+    /* LavenderBlush hoặc bạn có thể dùng #FFEFF3, #FFE4E4... */
+}
+
+/* Tiêu đề h2 cho phần "Từ vựng" */
+h2 {
+    color: #D45A6F;
+    /* Tông hồng đậm hơn để tạo điểm nhấn */
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+/* Khung chứa các flashcard (grid) */
+.flashcard-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 20px;
+    justify-items: center;
+    margin-bottom: 120px;
+    /* Tạo khoảng trống tránh bị che bởi nút cố định */
+}
+
+/* Từng flashcard */
+.flashcard {
+    width: 220px;
+    height: 320px;
+    perspective: 1000px;
+    cursor: pointer;
+    border-radius: 16px;
+    margin: 10px;
+    /* Hiệu ứng bóng nhẹ */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Khi hover thẻ, hơi phóng to và tăng bóng đổ */
+.flashcard:hover {
+    transform: scale(1.03);
+    box-shadow: 0 10px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Phần bên trong cho hiệu ứng lật 3D */
+.flashcard-inner {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.8s ease;
+}
+
+/* Nếu muốn click mới lật, ta dùng class "flipped".
+   Nếu muốn lật khi hover, có thể bỏ qua và thay bằng .flashcard:hover .flashcard-inner { transform: rotateY(180deg); } */
+.flipped .flashcard-inner {
+    transform: rotateY(180deg);
+}
+
+/* Mặt trước và mặt sau */
+.flashcard-front,
+.flashcard-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 16px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #333;
+    /* Nền hồng nhạt */
+    background: #FFEAF0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+/* Mặt sau lật 180 độ */
+.flashcard-back {
+    transform: rotateY(180deg);
+}
+
+/* Ảnh ở mặt sau */
+.flashcard-back img {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease;
+}
+
+.flashcard-back img:hover {
+    transform: scale(1.05);
+}
+
+/* Tiêu đề (từ vựng) */
+.flashcard-front h3 {
+    margin-bottom: 0.5rem;
+    color: #B53B5A;
+    /* Màu hồng đậm hơn chữ thường */
+    font-weight: 600;
+}
+
+/* Phần ví dụ */
+.example {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* Nút điều hướng cố định ở cuối trang */
+.flashcard-nav {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(255, 234, 240, 0.95);
+    /* Tông hồng nhạt trong suốt */
+    padding: 10px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    z-index: 1000;
+}
+
+/* Style cho button */
+.flashcard-nav .btn {
+    background-color: #F78FB3;
+    /* Hồng đậm */
+    border: none;
+    font-weight: 600;
+}
+
+.flashcard-nav .btn:hover {
+    background-color: #D45A6F;
+    /* Hồng đậm hơn khi hover */
+}
+
+/* Responsive: màn hình nhỏ hơn 768px */
+@media (max-width: 768px) {
+    .flashcard {
+        width: 180px;
+        height: 260px;
+    }
+}
+
+.flashcard:hover .flashcard-inner {
+    transform: rotateY(180deg);
+}
+
+/* Định dạng Furigana */
+ruby {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  rt {
+    font-weight: bold; /* Làm đậm chữ chú thích */
+    font-size: 14px; /* Điều chỉnh kích thước Furigana */
+    position: relative;
+    top: -2px; /* Tạo khoảng cách giữa Kanji và Furigana */
+  }

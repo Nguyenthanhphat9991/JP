@@ -1,0 +1,35 @@
+name: Build React App
+
+# Chạy workflow khi có push lên nhánh main (bạn có thể đổi nhánh khác tuỳ ý)
+on:
+  push:
+    branches: [ gh-pages ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Bước 1: Checkout code
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Bước 2: Cài đặt Node.js
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'  # Hoặc 14, 18 tuỳ theo yêu cầu dự án
+
+      # Bước 3: Cài đặt dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Bước 4: Build project
+      - name: Build
+        run: npm run build
+
+      # (Tuỳ chọn) Bước 5: Upload artifact (nếu bạn muốn lưu thư mục build)
+      - name: Upload build artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: react-build
+          path: build
