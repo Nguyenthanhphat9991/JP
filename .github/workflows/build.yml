@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - gh-pages # hoặc branch bạn muốn deploy
+      - main  # Trigger khi push lên nhánh chính
 
 jobs:
   deploy:
@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: '20' # hoặc phiên bản Node.js bạn sử dụng
+          node-version: '20' # Hoặc phiên bản Node.js bạn sử dụng
 
       - name: Install dependencies
         run: npm install
@@ -27,5 +27,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages # Branch deploy
-          folder: build # Thư mục build
+          branch: main  # Branch deploy
+          folder: build     # Thư mục build
+          # Nếu cần, sử dụng PAT để có đủ quyền:
