@@ -19,7 +19,10 @@ const CourseDetail = () => {
 
   // Fetch dữ liệu từ /public/data/courses.json khi component mount
   useEffect(() => {
-    fetch("/data/courses.json")
+    const fileName = '/data/courses.json';
+    console.log('fileName', fileName);
+
+    fetch(`${fileName}`)
       .then((res) => {
         console.log('res', res);
         if (!res.ok) {

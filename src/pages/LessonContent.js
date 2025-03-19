@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import { Tab, Tabs, Table } from "react-bootstrap";
+import { Tab, Tabs } from "react-bootstrap";
 import VocabularyFlashcards from "../components/VocabularyFlashcards";
 import './style.css';
 

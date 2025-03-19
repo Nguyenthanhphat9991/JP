@@ -1,5 +1,5 @@
 // Flashcard.jsx (hoặc đặt chung trong file)
-import React, { useState } from "react";
+import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Flashcard.css";
 
