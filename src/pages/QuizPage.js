@@ -38,7 +38,7 @@ function QuizPage() {
   const [selectedQuestionIndexForReport, setSelectedQuestionIndexForReport] = useState(0);
   const [resultFeedbacks, setResultFeedbacks] = useState([""]);
 
-  const MaxQuestions = 3;
+  const MaxQuestions = 25;
 
   // Fetch dữ liệu
   useEffect(() => {
