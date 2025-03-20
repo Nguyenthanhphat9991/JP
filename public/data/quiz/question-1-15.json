@@ -1,0 +1,769 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>欲しい<rt>ほしい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chơi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Muốn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tắm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Kết hôn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "<ruby>遊びます<rt>あそびます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Muốn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chơi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Kết hôn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đón",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>浴びます<rt>あびます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chơi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tắm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đón",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Dùng bữa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>結婚します<rt>けっこんします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tắm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Kết hôn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Dùng bữa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giờ học",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "<ruby>迎えます<rt>むかえます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Kết hôn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đón",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Giờ học",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ví",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>食事します<rt>しょくじします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đón",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Dùng bữa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ví",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Vòi hoa sen",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "<ruby>授業<rt>じゅぎょう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Dùng bữa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Giờ học",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Vòi hoa sen",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trượt tuyết",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>財布<rt>さいふ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Giờ học",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ví",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trượt tuyết",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tennis",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "シャワー có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ví",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Vòi hoa sen",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tennis",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Câu cá",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "スキー có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Vòi hoa sen",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trượt tuyết",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Câu cá",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Văn hóa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "テニス có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trượt tuyết",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tennis",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Văn hóa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cuộc sống",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "<ruby>釣り<rt>つり</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tennis",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Câu cá",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cuộc sống",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hẹn hò",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>文化<rt>ぶんか</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Câu cá",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Văn hóa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Hẹn hò",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tiếp theo",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>生活<rt>せいかつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Văn hóa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cuộc sống",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tiếp theo",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngọt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "デート có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cuộc sống",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Hẹn hò",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngọt",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỳ soba xào",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>次<rt>つぎ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Hẹn hò",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tiếp theo",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mỳ soba xào",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tôi mệt rồi.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>甘い<rt>あまい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tiếp theo",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ngọt",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tôi mệt rồi.",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tôi khát.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "<ruby>焼きそば<rt>やきそば</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngọt",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mỳ soba xào",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tôi khát.",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tôi đói.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "<ruby>疲れました<rt>つかれました</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mỳ soba xào",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tôi mệt rồi.",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tôi đói.",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tôi no rồi.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>喉が渇きました<rt>のどがかわきました</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tôi mệt rồi.",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tôi khát.",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tôi no rồi.",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Một chút",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "<ruby>お腹が空きました<rt>おなかがすきました</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tôi khát.",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tôi đói.",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Một chút",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hẹn gặp lại lần sau.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "<ruby>お腹がいっぱいです<rt>おなかがいっぱいです</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tôi đói.",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tôi no rồi.",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Hẹn gặp lại lần sau.",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chơi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "ちょっと có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tôi no rồi.",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Một chút",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chơi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tắm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "<ruby>また今度ね<rt>またこんどね</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Một chút",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Hẹn gặp lại lần sau.",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tắm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Kết hôn",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 25,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Muốn = ____",
+        "correct_answer": "ほしい/欲しい"
+    },
+    {
+        "id": 26,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chơi = ____",
+        "correct_answer": "あそびます/遊びます"
+    },
+    {
+        "id": 27,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tắm = ____",
+        "correct_answer": "あびます/浴びます"
+    },
+    {
+        "id": 28,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Kết hôn = ____",
+        "correct_answer": "けっこんします/結婚します"
+    },
+    {
+        "id": 29,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đón = ____",
+        "correct_answer": "むかえます/迎えます"
+    },
+    {
+        "id": 30,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dùng bữa = ____",
+        "correct_answer": "しょくじします/食事します"
+    },
+    {
+        "id": 31,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giờ học = ____",
+        "correct_answer": "じゅぎょう/授業"
+    },
+    {
+        "id": 32,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ví = ____",
+        "correct_answer": "さいふ/財布"
+    },
+    {
+        "id": 33,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vòi hoa sen = ____",
+        "correct_answer": "シャワー"
+    },
+    {
+        "id": 34,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trượt tuyết = ____",
+        "correct_answer": "スキー"
+    },
+    {
+        "id": 35,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tennis = ____",
+        "correct_answer": "テニス"
+    },
+    {
+        "id": 36,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Câu cá = ____",
+        "correct_answer": "つり/釣り"
+    },
+    {
+        "id": 37,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Văn hóa = ____",
+        "correct_answer": "ぶんか/文化"
+    },
+    {
+        "id": 38,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cuộc sống = ____",
+        "correct_answer": "せいかつ/生活"
+    },
+    {
+        "id": 39,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hẹn hò = ____",
+        "correct_answer": "デート"
+    },
+    {
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tiếp theo = ____",
+        "correct_answer": "つぎ/次"
+    },
+    {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngọt = ____",
+        "correct_answer": "あまい/甘い"
+    },
+    {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mỳ soba xào = ____",
+        "correct_answer": "やきそば/焼きそば"
+    },
+    {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tôi mệt rồi. = ____",
+        "correct_answer": "つかれました/疲れました"
+    },
+    {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tôi khát. = ____",
+        "correct_answer": "のどがかわきました/喉が渇きました"
+    },
+    {
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tôi đói. = ____",
+        "correct_answer": "おなかがすきました/お腹が空きました"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tôi no rồi. = ____",
+        "correct_answer": "おなかがいっぱいです/お腹がいっぱいです"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Một chút = ____",
+        "correct_answer": "ちょっと"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hẹn gặp lại lần sau. = ____",
+        "correct_answer": "またこんどね/また今度ね"
+    }
+]

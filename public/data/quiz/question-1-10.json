@@ -1,0 +1,891 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>上げます<rt>あげます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhận",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cho, tặng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chỉ, dạy",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Học tập",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "<ruby>貰います<rt>もらいます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cho, tặng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhận",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chỉ, dạy",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Học tập",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>教えます<rt>おしえます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhận",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chỉ, dạy",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Học tập",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Gọi điện thoại",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>習います<rt>ならいます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chỉ, dạy",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Học tập",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Gọi điện thoại",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Gửi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "<ruby>電話<rt>でんわ</rt></ruby>をかけます có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Học tập",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Gọi điện thoại",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Gửi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cho vay, cho mượn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>送ります<rt>おくります</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Gọi điện thoại",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Gửi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cho vay, cho mượn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Vay, mượn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "<ruby>貸します<rt>かします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Gửi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cho vay, cho mượn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Vay, mượn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bánh kẹo",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>借ります<rt>かります</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cho vay, cho mượn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Vay, mượn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bánh kẹo",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tiền mừng tuổi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>お菓子<rt>おかし</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Vay, mượn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bánh kẹo",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tiền mừng tuổi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Quà (đặc sản)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "<ruby>お年玉<rt>おとしだま</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bánh kẹo",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tiền mừng tuổi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Quà (đặc sản)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thư",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>お土産<rt>おみやげ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tiền mừng tuổi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Quà (đặc sản)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thư",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bóng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "<ruby>手紙<rt>てがみ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Quà (đặc sản)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thư",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bóng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hoa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "ボール có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thư",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bóng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Hoa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mũ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>花<rt>はな</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bóng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Hoa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mũ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Món ăn, sự nấu ăn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "<ruby>帽子<rt>ぼうし</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Hoa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mũ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Món ăn, sự nấu ăn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Máy ảnh",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>料理<rt>りょうり</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mũ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Món ăn, sự nấu ăn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Máy ảnh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Dây chuyền",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "カメラ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Món ăn, sự nấu ăn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Máy ảnh",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Dây chuyền",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Món quà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "ネックレス có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Máy ảnh",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Dây chuyền",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Món quà",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chúc mừng, quà chúc mừng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "プレゼント có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Dây chuyền",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Món quà",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chúc mừng, quà chúc mừng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thăm nom, thăm người ốm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>祝い<rt>いわい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Món quà",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chúc mừng, quà chúc mừng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thăm nom, thăm người ốm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tết dương lịch",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "<ruby>お見舞い<rt>おみまい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chúc mừng, quà chúc mừng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thăm nom, thăm người ốm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tết dương lịch",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Lễ kết hôn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "<ruby>お正月<rt>おしょうがつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thăm nom, thăm người ốm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tết dương lịch",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Lễ kết hôn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giáng sinh",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "<ruby>結婚式<rt>けっこんしき</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tết dương lịch",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Lễ kết hôn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Giáng sinh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngày Valentine",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "クリスマス có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Lễ kết hôn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Giáng sinh",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngày Valentine",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cùng chơi trò chơi nào!",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "バレンタインデー có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Giáng sinh",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ngày Valentine",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cùng chơi trò chơi nào!",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Làm như vậy đi.",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "ゲームをしましょう có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngày Valentine",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cùng chơi trò chơi nào!",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Làm như vậy đi.",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chúc mừng, quà chúc mừng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "そうしましょう có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cùng chơi trò chơi nào!",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Làm như vậy đi.",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chúc mừng, quà chúc mừng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thăm nom, thăm người ốm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question_text": "<ruby>電話<rt>でんわ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Học tập",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Điện thoại",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Gửi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cho vay, cho mượn",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 29,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cho, tặng = ____",
+        "correct_answer": "あげます/上げます"
+    },
+    {
+        "id": 30,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhận = ____",
+        "correct_answer": "もらいます/貰います"
+    },
+    {
+        "id": 31,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chỉ, dạy = ____",
+        "correct_answer": "おしえます/教えます"
+    },
+    {
+        "id": 32,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Học tập = ____",
+        "correct_answer": "ならいます/習います"
+    },
+    {
+        "id": 33,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Gọi điện thoại = ____",
+        "correct_answer": "でんわ/電話/電話をかけます"
+    },
+    {
+        "id": 34,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Gửi = ____",
+        "correct_answer": "おくります/送ります"
+    },
+    {
+        "id": 35,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cho vay, cho mượn = ____",
+        "correct_answer": "かします/貸します"
+    },
+    {
+        "id": 36,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vay, mượn = ____",
+        "correct_answer": "かります/借ります"
+    },
+    {
+        "id": 37,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bánh kẹo = ____",
+        "correct_answer": "おかし/お菓子"
+    },
+    {
+        "id": 38,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tiền mừng tuổi = ____",
+        "correct_answer": "おとしだま/お年玉"
+    },
+    {
+        "id": 39,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quà (đặc sản) = ____",
+        "correct_answer": "おみやげ/お土産"
+    },
+    {
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thư = ____",
+        "correct_answer": "てがみ/手紙"
+    },
+    {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bóng = ____",
+        "correct_answer": "ボール"
+    },
+    {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hoa = ____",
+        "correct_answer": "はな/花"
+    },
+    {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mũ = ____",
+        "correct_answer": "ぼうし/帽子"
+    },
+    {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Món ăn, sự nấu ăn = ____",
+        "correct_answer": "りょうり/料理"
+    },
+    {
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Máy ảnh = ____",
+        "correct_answer": "カメラ"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dây chuyền = ____",
+        "correct_answer": "ネックレス"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Món quà = ____",
+        "correct_answer": "プレゼント"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chúc mừng, quà chúc mừng = ____",
+        "correct_answer": "いわい/祝い"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thăm nom, thăm người ốm = ____",
+        "correct_answer": "おみまい/お見舞い"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tết dương lịch = ____",
+        "correct_answer": "おしょうがつ/お正月"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lễ kết hôn = ____",
+        "correct_answer": "けっこんしき/結婚式"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giáng sinh = ____",
+        "correct_answer": "クリスマス"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngày Valentine = ____",
+        "correct_answer": "バレンタインデー"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cùng chơi trò chơi nào! = ____",
+        "correct_answer": "ゲームをしましょう"
+    },
+    {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Làm như vậy đi. = ____",
+        "correct_answer": "そうしましょう"
+    }
+]

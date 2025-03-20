@@ -1,0 +1,130 @@
+[
+    {
+        "index": 1,
+        "word": "(ドアが)あきます",
+        "kanji": "(ドアが)開きます",
+        "meaning": "(Cửa) mở",
+        "example": "ドアが<ruby>開<rt>あ</rt></ruby>きます。 (Cửa mở.)",
+        "image": "doa_ga_akimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "(でんきが)つきます",
+        "kanji": "(電気が)点きます",
+        "meaning": "(Đèn) sáng",
+        "example": "<ruby>電気<rt>でんき</rt></ruby>が<ruby>点<rt>つ</rt></ruby>きます。 (Đèn sáng.)",
+        "image": "denki_ga_tsukimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "としをとります",
+        "kanji": "年を取ります",
+        "meaning": "Già đi, lớn tuổi",
+        "example": "<ruby>年<rt>とし</rt></ruby>を<ruby>取<rt>と</rt></ruby>ります。 (Tôi già đi.)",
+        "image": "toshi_o_torimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "まわします",
+        "kanji": "回します",
+        "meaning": "Vặn, xoay",
+        "example": "つまみを<ruby>回<rt>まわ</rt></ruby>します。 (Tôi vặn vòi.)",
+        "image": "mawashimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "ふとります",
+        "kanji": "太ります",
+        "meaning": "Béo",
+        "example": "<ruby>太<rt>ふと</rt></ruby>りました。 (Tôi béo lên.)",
+        "image": "futorimasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "やせます",
+        "kanji": "痩せます",
+        "meaning": "Gầy",
+        "example": "<ruby>痩<rt>や</rt></ruby>せました。 (Tôi gầy đi.)",
+        "image": "yasemasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "もどります",
+        "kanji": "戻ります",
+        "meaning": "Quay lại, trở lại",
+        "example": "<ruby>家<rt>いえ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ります。 (Tôi quay lại nhà.)",
+        "image": "modorimasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "かんがえます",
+        "kanji": "考えます",
+        "meaning": "Suy nghĩ",
+        "example": "<ruby>よく<rt>yoku</rt></ruby><ruby>考<rt>かんが</rt></ruby>えます。 (Tôi suy nghĩ kỹ.)",
+        "image": "kangaemasu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "あんしんします",
+        "kanji": "安心します",
+        "meaning": "An tâm",
+        "example": "<ruby>安心<rt>あんしん</rt></ruby>しました。 (Tôi an tâm.)",
+        "image": "anshin_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "じんじゃ",
+        "kanji": "神社",
+        "meaning": "Miếu, đền",
+        "example": "<ruby>神社<rt>じんじゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi đến miếu.)",
+        "image": "jinja_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "こうくうびん",
+        "kanji": "航空便",
+        "meaning": "Đường hàng không",
+        "example": "<ruby>航空便<rt>こうくうびん</rt></ruby>で<ruby>送<rt>おく</rt></ruby>ります。 (Tôi gửi bằng đường hàng không.)",
+        "image": "koukuubin_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "チャンス/きかい",
+        "kanji": "チャンス/機会",
+        "meaning": "Cơ hội",
+        "example": "チャンスを<ruby>逃<rt>にが</rt></ruby>します。 (Tôi bỏ lỡ cơ hội.)",
+        "image": "chansu_kikai_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "おと",
+        "kanji": "音",
+        "meaning": "Âm thanh",
+        "example": "<ruby>音<rt>おと</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。 (Âm thanh lớn.)",
+        "image": "oto_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "つまみ",
+        "kanji": "",
+        "meaning": "Vòi vặn, vòi xoay",
+        "example": "つまみを<ruby>回<rt>まわ</rt></ruby>します。 (Tôi vặn vòi.)",
+        "image": "tsumami_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "すぐ",
+        "kanji": "",
+        "meaning": "Ngay lập tức",
+        "example": "すぐ<ruby>来<rt>き</rt></ruby>ます。 (Tôi đến ngay.)",
+        "image": "sugu_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "ひとくち",
+        "kanji": "一口",
+        "meaning": "Một miếng, một ngụm",
+        "example": "<ruby>一口<rt>ひとくち</rt></ruby>どうぞ。 (Xin mời một miếng.)",
+        "image": "hitokuchi_N5_bai_1.png"
+    }
+]

@@ -36,9 +36,9 @@ const Home = () => {
         <h3 className="text-center text-secondary fw-bold">Danh sách khóa học</h3>
         <div className="row mt-3">
           {[
-            { img: course_n5, level: "N5", desc: "Học tiếng Nhật từ cơ bản.", link: "/courses/N5" },
-            { img: course_n4, level: "N4", desc: "Nâng cao trình độ giao tiếp.", link: "/courses/N4" },
-            { img: course_n3, level: "N3", desc: "Thành thạo kỹ năng đọc hiểu.", link: "/courses/N3" },
+            { img: course_n5, level: "N5", desc: "Học tiếng Nhật từ cơ bản.", link: "/courses/1" },
+            { img: course_n4, level: "N4", desc: "Nâng cao trình độ giao tiếp.", link: "/courses/2" },
+            { img: course_n3, level: "N3", desc: "Thành thạo kỹ năng đọc hiểu.", link: "/courses/3" },
           ].map((course, index) => (
             <div className="col-md-4" key={index}>
               <div className="card shadow-sm rounded-4 border-0 transition">

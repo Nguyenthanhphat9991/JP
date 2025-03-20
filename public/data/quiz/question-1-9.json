@@ -1,0 +1,1242 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>食べます<rt>たべます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Uống",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ăn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhìn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nghe",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "<ruby>飲みます<rt>のみます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ăn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Uống",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhìn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nghe",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>見ます<rt>みます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ăn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhìn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Uống",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nghe",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>聞きます<rt>ききます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ăn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nghe",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhìn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Uống",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "<ruby>読みます<rt>よみます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nghe",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đọc",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Viết",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mua",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>書きます<rt>かきます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đọc",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Viết",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mua",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cắt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "<ruby>買います<rt>かいます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Viết",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mua",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cắt",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chụp (ảnh)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>切ります<rt>きります</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mua",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cắt",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chụp (ảnh)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nộp (bài), đổ (rác)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>撮ります<rt>とります</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cắt",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chụp (ảnh)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nộp (bài), đổ (rác)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Phân loại, phân chia",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "<ruby>出します<rt>だします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chụp (ảnh)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nộp (bài), đổ (rác)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Phân loại, phân chia",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Làm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>分けます<rt>わけます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nộp (bài), đổ (rác)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Phân loại, phân chia",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Làm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ăn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "します có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Phân loại, phân chia",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Làm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ăn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Uống",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>魚<rt>さかな</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trứng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cá",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cơm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thịt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>卵<rt>たまご</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cá",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trứng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cơm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thịt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "<ruby>ご飯<rt>ごはん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trứng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cơm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cá",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thịt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>肉<rt>にく</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cơm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thịt",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trứng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cá",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>果物<rt>くだもの</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thịt",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trái cây, hoa quả",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Rau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "<ruby>野菜<rt>やさい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trái cây, hoa quả",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Rau",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trà",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sữa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "<ruby>お茶<rt>おちゃ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Rau",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trà",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sữa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nước ép",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trà",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sữa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nước ép",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bia",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "ジュース có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Sữa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nước ép",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bia",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nước",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "ビール có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nước ép",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bia",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nước",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Âm nhạc",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "<ruby>水<rt>みず</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bia",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nước",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Âm nhạc",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ảnh",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "<ruby>音楽<rt>おんがく</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nước",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Âm nhạc",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ảnh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bóng đá",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "<ruby>写真<rt>しゃしん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Âm nhạc",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ảnh",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bóng đá",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "TV",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "サッカー có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ảnh",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bóng đá",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "TV",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mail",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "テレビ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bóng đá",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "TV",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mail",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tin nhắn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question_text": "メール có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "TV",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mail",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tin nhắn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giấy",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "question_text": "メッセージ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mail",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tin nhắn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Giấy",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bài tập",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "question_text": "<ruby>紙<rt>かみ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tin nhắn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Giấy",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bài tập",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Rác",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "question_text": "<ruby>宿題<rt>しゅくだい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Giấy",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bài tập",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Rác",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Buổi tiệc",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "question_text": "ゴミ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bài tập",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Rác",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Buổi tiệc",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Báo cáo",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "question_text": "パーティー có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Rác",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Buổi tiệc",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Báo cáo",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Dao",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "question_text": "レポート có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Buổi tiệc",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Báo cáo",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Dao",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thìa, muỗng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "question_text": "ナイフ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Báo cáo",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Dao",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thìa, muỗng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đũa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "question_text": "スプーン có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Dao",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thìa, muỗng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đũa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Kéo",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "question_text": "はし có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thìa, muỗng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đũa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Kéo",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Dao",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "question_text": "<ruby>鋏<rt>はさみ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đũa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Kéo",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Dao",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thìa, muỗng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "question_text": "ミルク có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trà",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sữa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nước ép",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bia",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ăn = ____",
+        "correct_answer": "たべます/食べます"
+    },
+    {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Uống = ____",
+        "correct_answer": "のみます/飲みます"
+    },
+    {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhìn = ____",
+        "correct_answer": "みます/見ます"
+    },
+    {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nghe = ____",
+        "correct_answer": "ききます/聞きます"
+    },
+    {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đọc = ____",
+        "correct_answer": "よみます/読みます"
+    },
+    {
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Viết = ____",
+        "correct_answer": "かきます/書きます"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mua = ____",
+        "correct_answer": "かいます/買います"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cắt = ____",
+        "correct_answer": "きります/切ります"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chụp (ảnh) = ____",
+        "correct_answer": "とります/撮ります"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nộp (bài), đổ (rác) = ____",
+        "correct_answer": "だします/出します"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Phân loại, phân chia = ____",
+        "correct_answer": "わけます/分けます"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Làm = ____",
+        "correct_answer": "します"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cá = ____",
+        "correct_answer": "さかな/魚"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trứng = ____",
+        "correct_answer": "たまご/卵"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cơm (cơm sáng/cơm trưa/cơm tối) = ____",
+        "correct_answer": "ごはん/朝ご飯/昼ご飯/晩ご飯/ご飯"
+    },
+    {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thịt = ____",
+        "correct_answer": "にく/肉"
+    },
+    {
+        "id": 56,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trái cây, hoa quả = ____",
+        "correct_answer": "くだもの/果物"
+    },
+    {
+        "id": 57,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Rau = ____",
+        "correct_answer": "やさい/野菜"
+    },
+    {
+        "id": 58,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trà = ____",
+        "correct_answer": "おちゃ/お茶"
+    },
+    {
+        "id": 59,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sữa = ____",
+        "correct_answer": "ぎゅうにゅう/ミルク/牛乳"
+    },
+    {
+        "id": 60,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nước ép = ____",
+        "correct_answer": "ジュース"
+    },
+    {
+        "id": 61,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bia = ____",
+        "correct_answer": "ビール"
+    },
+    {
+        "id": 62,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nước = ____",
+        "correct_answer": "みず/水"
+    },
+    {
+        "id": 63,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Âm nhạc = ____",
+        "correct_answer": "おんがく/音楽"
+    },
+    {
+        "id": 64,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ảnh = ____",
+        "correct_answer": "しゃしん/写真"
+    },
+    {
+        "id": 65,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bóng đá = ____",
+        "correct_answer": "サッカー"
+    },
+    {
+        "id": 66,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: TV = ____",
+        "correct_answer": "テレビ"
+    },
+    {
+        "id": 67,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mail = ____",
+        "correct_answer": "メール"
+    },
+    {
+        "id": 68,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tin nhắn = ____",
+        "correct_answer": "メッセージ"
+    },
+    {
+        "id": 69,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giấy = ____",
+        "correct_answer": "かみ/紙"
+    },
+    {
+        "id": 70,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bài tập = ____",
+        "correct_answer": "しゅくだい/宿題"
+    },
+    {
+        "id": 71,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Rác = ____",
+        "correct_answer": "ゴミ"
+    },
+    {
+        "id": 72,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Buổi tiệc = ____",
+        "correct_answer": "パーティー"
+    },
+    {
+        "id": 73,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Báo cáo = ____",
+        "correct_answer": "レポート"
+    },{
+        "id": 74,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dao = ____",
+        "correct_answer": "ナイフ"
+    },
+    {
+        "id": 75,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thìa, muỗng = ____",
+        "correct_answer": "スプーン"
+    },
+    {
+        "id": 76,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đũa = ____",
+        "correct_answer": "はし"
+    },
+    {
+        "id": 77,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Kéo = ____",
+        "correct_answer": "はさみ/鋏"
+    }
+]

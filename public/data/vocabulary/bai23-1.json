@@ -1,0 +1,210 @@
+[
+    {
+        "index": 1,
+        "word": "ききます",
+        "kanji": "聞きます",
+        "meaning": "Hỏi",
+        "example": "<ruby>先生<rt>せんせい</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きます。 (Tôi hỏi giáo viên.)",
+        "image": "kikimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "つきます",
+        "kanji": "着きます",
+        "meaning": "Đến (nơi)",
+        "example": "<ruby>駅<rt>えき</rt></ruby>に<ruby>着<rt>つ</rt></ruby>きます。 (Tôi đến nhà ga.)",
+        "image": "tsukimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "とまります",
+        "kanji": "泊まります",
+        "meaning": "Trú, ở",
+        "example": "<ruby>ホテル<rt>hoteru</rt></ruby>に<ruby>泊<rt>と</rt></ruby>まります。 (Tôi ở khách sạn.)",
+        "image": "tomarimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "あるきます",
+        "kanji": "歩きます",
+        "meaning": "Đi bộ",
+        "example": "<ruby>公園<rt>こうえん</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>きます。 (Tôi đi bộ trong công viên.)",
+        "image": "arukimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "(めがねを)かけます",
+        "kanji": "(眼鏡を)かけます",
+        "meaning": "Đeo (mắt kính)",
+        "example": "<ruby>眼鏡<rt>めがね</rt></ruby>をかけます。 (Tôi đeo kính.)",
+        "image": "megane_o_kakemasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "けんがくします",
+        "kanji": "見学します",
+        "meaning": "Tham quan",
+        "example": "<ruby>工場<rt>こうじょう</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>します。 (Tôi tham quan nhà máy.)",
+        "image": "kengaku_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "めがね",
+        "kanji": "眼鏡",
+        "meaning": "Kính",
+        "example": "<ruby>眼鏡<rt>めがね</rt></ruby>をかけます。 (Tôi đeo kính.)",
+        "image": "megane_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "いご",
+        "kanji": "囲碁",
+        "meaning": "Cờ vây",
+        "example": "<ruby>囲碁<rt>いご</rt></ruby>をします。 (Tôi chơi cờ vây.)",
+        "image": "igo_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "うま",
+        "kanji": "馬",
+        "meaning": "Ngựa",
+        "example": "<ruby>馬<rt>うま</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。 (Tôi cưỡi ngựa.)",
+        "image": "uma_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "おてら",
+        "kanji": "お寺",
+        "meaning": "Chùa",
+        "example": "<ruby>お寺<rt>てら</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi đến chùa.)",
+        "image": "otera_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "おんせん",
+        "kanji": "温泉",
+        "meaning": "Suối nước nóng",
+        "example": "<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。 (Tôi tắm suối nước nóng.)",
+        "image": "onsen_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "きんかくじ",
+        "kanji": "金閣寺",
+        "meaning": "Chùa Vàng",
+        "example": "<ruby>金閣寺<rt>きんかくじ</rt></ruby>を<ruby>見学<rt>けんがく</rt></ruby>します。 (Tôi tham quan chùa Vàng.)",
+        "image": "kinkakuji_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "きんじょ",
+        "kanji": "近所",
+        "meaning": "Hàng xóm",
+        "example": "<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>と<ruby>話<rt>はな</rt></ruby>します。 (Tôi nói chuyện với người hàng xóm.)",
+        "image": "kinjo_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "せんぱい",
+        "kanji": "先輩",
+        "meaning": "Tiền bối",
+        "example": "<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>教<rt>おし</rt></ruby>えてもらいます。 (Tôi được tiền bối dạy.)",
+        "image": "senpai_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "なっとう",
+        "kanji": "納豆",
+        "meaning": "Đậu tương lên men",
+        "example": "<ruby>納豆<rt>なっとう</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn natto.)",
+        "image": "nattou_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "ふじさん",
+        "kanji": "富士山",
+        "meaning": "Núi Phú Sĩ",
+        "example": "<ruby>富士山<rt>ふじさん</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ります。 (Tôi leo núi Phú Sĩ.)",
+        "image": "fujisan_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "マンション",
+        "kanji": "",
+        "meaning": "Chung cư",
+        "example": "マンションに<ruby>住<rt>す</rt></ruby>んでいます。 (Tôi sống ở chung cư.)",
+        "image": "manshon_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "さびしい",
+        "kanji": "寂しい",
+        "meaning": "Buồn",
+        "example": "<ruby>寂<rt>さび</rt></ruby>しいです。 (Tôi buồn.)",
+        "image": "sabishii_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "ちょうど",
+        "kanji": "",
+        "meaning": "Vừa đúng, vừa đủ",
+        "example": "ちょうど<ruby>三時<rt>さんじ</rt></ruby>です。 (Đúng 3 giờ.)",
+        "image": "choudo_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "いちど",
+        "kanji": "一度",
+        "meaning": "Một lần",
+        "example": "<ruby>一度<rt>いちど</rt></ruby>だけです。 (Chỉ một lần.)",
+        "image": "ichido_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "もういちど",
+        "kanji": "もう一度",
+        "meaning": "Thêm một lần nữa",
+        "example": "もう<ruby>一度<rt>いちど</rt></ruby>お<ruby>願<rt>ねが</rt></ruby>いします。 (Xin vui lòng lặp lại thêm lần nữa.)",
+        "image": "mou_ichido_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "いちども",
+        "kanji": "一度も",
+        "meaning": "Một lần cũng",
+        "example": "<ruby>一度<rt>いちど</rt></ruby>も<ruby>行<rt>い</rt></ruby>ったことがありません。 (Tôi chưa từng đi lần nào.)",
+        "image": "ichido_mo_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "ぜひ",
+        "kanji": "",
+        "meaning": "Nhất định",
+        "example": "ぜひ<ruby>来<rt>き</rt></ruby>てください。 (Nhất định hãy đến nhé.)",
+        "image": "zehi_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "いいなあ",
+        "kanji": "",
+        "meaning": "Thật tuyệt.",
+        "example": "いいなあ。 (Thật tuyệt.)",
+        "image": "ii_naa_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "おもいで",
+        "kanji": "思い出",
+        "meaning": "Kỷ niệm",
+        "example": "<ruby>良<rt>よ</rt></ruby>い<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>です。 (Đó là một kỷ niệm đẹp.)",
+        "image": "omoide_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "いいおもいでがたくさんできました",
+        "kanji": "いい思い出がたくさんできました",
+        "meaning": "Tôi đã có nhiều kỷ niệm đẹp.",
+        "example": "いい<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>がたくさんできました。 (Tôi đã có nhiều kỷ niệm đẹp.)",
+        "image": "ii_omoide_ga_takusan_dekimashita_N5_bai_1.png"
+    }
+]

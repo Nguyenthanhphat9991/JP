@@ -1,0 +1,1390 @@
+[
+    {
+        "id": 1,
+        "question_text": "これ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái kia",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái này",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cái đó",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cái nào",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "それ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái này",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái đó",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cái kia",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cái nào",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "あれ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái này",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái kia",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cái đó",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cái nào",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "どれ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái này",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái nào",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cái đó",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cái kia",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "コーヒー có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Rượu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cà phê",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sô cô la",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nước ngọt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>お酒<rt>おさけ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cà phê",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Rượu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sô cô la",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nước ngọt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "チョコレート có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cà phê",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sô cô la",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Rượu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nước ngọt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "えんぴつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bút bi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bút chì",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bút chì kim",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cục tẩy",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "シャーペン có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bút chì",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bút chì kim",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bút bi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cục tẩy",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "ボールペン có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bút chì",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bút bi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bút chì kim",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cục tẩy",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>消しゴム<rt>けしゴム</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bút chì",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cục tẩy",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bút bi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bút chì kim",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "ノート có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Từ điển",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Vở",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sách",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Báo",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>辞書<rt>じしょ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Vở",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Từ điển",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sách",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Báo",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>本<rt>ほん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tạp chí",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Quyển sách",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Báo",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Truyện tranh",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "マンガ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Sách",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Truyện tranh",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tạp chí",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Báo",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>雑誌<rt>ざっし</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Truyện tranh",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tạp chí",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sách",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Báo",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>新聞<rt>しんぶん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tạp chí",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Báo",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Truyện tranh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sách",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "<ruby>名刺<rt>めいし</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thẻ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Danh thiếp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Báo",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tạp chí",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "カード có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Danh thiếp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thẻ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Báo",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tạp chí",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>机<rt>つくえ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ghế",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái bàn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tủ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giường",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "いす có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bàn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái ghế",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tủ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giường",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "スマホ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Máy tính",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Điện thoại thông minh",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Máy tính xách tay",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tivi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "パソコン có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Điện thoại",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Máy tính xách tay",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Máy tính",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tivi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "コンピューター có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Máy tính xách tay",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Máy tính",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Điện thoại",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tivi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "かばん có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ô",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái cặp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chìa khóa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hộp bút",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "<ruby>傘<rt>かさ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái cặp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái ô",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chìa khóa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hộp bút",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "<ruby>鍵<rt>かぎ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái cặp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chìa khóa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cái ô",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hộp bút",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question_text": "ふでばこ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái cặp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Hộp bút",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chìa khóa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cái ô",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "question_text": "<ruby>車<rt>くるま</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xe đạp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Xe hơi, ô tô",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Xe máy",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tàu hỏa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "question_text": "<ruby>時計<rt>とけい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Lịch",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đồng hồ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Báo thức",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chuông",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "question_text": "<ruby>何<rt>なん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ở đâu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái gì",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Khi nào",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ai",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "question_text": "<ruby>英語<rt>えいご</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tiếng Nhật",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tiếng Anh",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tiếng Trung",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tiếng Hàn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "question_text": "<ruby>日本語<rt>にほんご</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tiếng Anh",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tiếng Nhật",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tiếng Trung",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tiếng Hàn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "question_text": "<ruby>語<rt>ご</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Người",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tiếng -",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nước",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Vật",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "question_text": "つまらないものですが、~ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xin chào",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chỉ là chút quà nhỏ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cảm ơn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xin lỗi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "question_text": "これから〜 có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xin chào",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Từ bây giờ trở đi...",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cảm ơn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xin lỗi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "question_text": "おせわになります có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xin chào",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mong anh/chị giúp đỡ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cảm ơn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xin lỗi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "question_text": "どうぞ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xin chào",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Xin mời",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cảm ơn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xin lỗi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "question_text": "(どうも) ありがとうございます có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xin chào",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chân thành cảm ơn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Xin lỗi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xin mời",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "question_text": "こちら〜 có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xin chào",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đây là ...",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cảm ơn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xin lỗi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "question_text": "あのー có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xin chào",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "À... (kéo dài thời gian trong khi nghĩ nên nói gì)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cảm ơn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xin lỗi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "question_text": "さけ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cà phê",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Rượu gạo Nhật Bản",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sô cô la",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nước ngọt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "question_text": "ケータイ・<ruby>電話<rt>でんわ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Máy tính",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Điện thoại di động",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Máy tính xách tay",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tivi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "question_text": "シャープペン có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bút chì",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bút chì kim",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bút bi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cục tẩy",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái này = ____",
+        "correct_answer": "これ"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái đó = ____",
+        "correct_answer": "それ"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái kia = ____",
+        "correct_answer": "あれ"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái nào = ____",
+        "correct_answer": "どれ"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cà phê = ____",
+        "correct_answer": "コーヒー"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Rượu = ____",
+        "correct_answer": "おさけ/さけ/お酒"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sô cô la = ____",
+        "correct_answer": "チョコレート"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bút chì = ____",
+        "correct_answer": "えんぴつ"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bút chì kim = ____",
+        "correct_answer": "シャーペン/シャープペン"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bút bi = ____",
+        "correct_answer": "ボールペン"
+    },
+    {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cục tẩy = ____",
+        "correct_answer": "けしゴム/消しゴム"
+    },
+    {
+        "id": 56,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vở = ____",
+        "correct_answer": "ノート"
+    },
+    {
+        "id": 57,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Từ điển = ____",
+        "correct_answer": "じしょ/辞書"
+    },
+    {
+        "id": 58,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quyển sách = ____",
+        "correct_answer": "ほん/本"
+    },
+    {
+        "id": 59,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Truyện tranh = ____",
+        "correct_answer": "マンガ"
+    },
+    {
+        "id": 60,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tạp chí = ____",
+        "correct_answer": "ざっし/雑誌"
+    },
+    {
+        "id": 61,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Báo = ____",
+        "correct_answer": "しんぶん/新聞"
+    },
+    {
+        "id": 62,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Danh thiếp = ____",
+        "correct_answer": "めいし/名刺"
+    },
+    {
+        "id": 63,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thẻ = ____",
+        "correct_answer": "カード"
+    },
+    {
+        "id": 64,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái bàn = ____",
+        "correct_answer": "つくえ/机"
+    },
+    {
+        "id": 65,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái ghế = ____",
+        "correct_answer": "いす"
+    },
+    {
+        "id": 66,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Điện thoại = ____",
+        "correct_answer": "スマホ/でんわ/ケータイ/電話"
+    },
+    {
+        "id": 67,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Máy tính xách tay = ____",
+        "correct_answer": "パソコン"
+    },
+    {
+        "id": 68,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Máy tính = ____",
+        "correct_answer": "コンピューター"
+    },
+    {
+        "id": 69,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái cặp = ____",
+        "correct_answer": "かばん"
+    },
+    {
+        "id": 70,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái ô = ____",
+        "correct_answer": "かさ/傘"
+    },
+    {
+        "id": 71,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chìa khóa = ____",
+        "correct_answer": "かぎ"
+    },
+    {
+        "id": 72,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hộp bút = ____",
+        "correct_answer": "ふでばこ"
+    },
+    {
+        "id": 73,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Xe hơi, ô tô = ____",
+        "correct_answer": "くるま/車"
+    },
+    {
+        "id": 74,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đồng hồ = ____",
+        "correct_answer": "とけい/時計"
+    },
+    {
+        "id": 75,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái gì = ____",
+        "correct_answer": "なん/何"
+    },
+    {
+        "id": 76,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tiếng Anh = ____",
+        "correct_answer": "えいご/英語"
+    },
+    {
+        "id": 77,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tiếng Nhật = ____",
+        "correct_answer": "にほんご/日本語"
+    },
+    {
+        "id": 78,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tiếng - = ____",
+        "correct_answer": "ご/語"
+    },
+    {
+        "id": 79,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chỉ là chút quà nhỏ = ____",
+        "correct_answer": "つまらないものですが、~"
+    },{
+        "id": 80,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Từ bây giờ trở đi... = ____",
+        "correct_answer": "これから〜"
+    },
+    {
+        "id": 81,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mong anh/chị giúp đỡ = ____",
+        "correct_answer": "おせわになります"
+    },
+    {
+        "id": 82,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Xin mời = ____",
+        "correct_answer": "どうぞ"
+    },
+    {
+        "id": 83,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chân thành cảm ơn = ____",
+        "correct_answer": "(どうも) ありがとうございます"
+    },
+    {
+        "id": 84,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đây là ... = ____",
+        "correct_answer": "こちら〜"
+    },
+    {
+        "id": 85,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: À... (kéo dài thời gian trong khi nghĩ nên nói gì) = ____",
+        "correct_answer": "あのー"
+    }
+]

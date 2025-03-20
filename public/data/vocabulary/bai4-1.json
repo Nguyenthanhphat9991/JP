@@ -1,0 +1,178 @@
+[
+    {
+        "index": 1,
+        "word": "いま",
+        "kanji": "今",
+        "meaning": "Bây giờ",
+        "example": "<ruby>今<rt>いま</rt></ruby>、<ruby>何時<rt>なんじ</rt></ruby>ですか。 (Bây giờ là mấy giờ?)",
+        "image": "ima_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "ゴールデンウィーク",
+        "kanji": "",
+        "meaning": "Tuần lễ vàng",
+        "example": "ゴールデンウィークは<ruby>休<rt>やす</rt></ruby>みです。 (Tuần lễ vàng là kỳ nghỉ.)",
+        "image": "goorudenwiiku_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "ごぜん",
+        "kanji": "午前",
+        "meaning": "Buổi sáng",
+        "example": "<ruby>午前<rt>ごぜん</rt></ruby>9<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。 (Tôi thức dậy lúc 9 giờ sáng.)",
+        "image": "gozen_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "ごご",
+        "kanji": "午後",
+        "meaning": "Buổi chiều",
+        "example": "<ruby>午後<rt>ごご</rt></ruby>3<ruby>時<rt>じ</rt></ruby>に<ruby>会議<rt>かいぎ</rt></ruby>があります。 (Tôi có cuộc họp lúc 3 giờ chiều.)",
+        "image": "gogo_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "たんじょうび",
+        "kanji": "誕生日",
+        "meaning": "Sinh nhật",
+        "example": "<ruby>誕生日<rt>たんじょうび</rt></ruby>はいつですか。 (Sinh nhật của bạn là khi nào?)",
+        "image": "tanjoubi_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "~のひ",
+        "kanji": "日",
+        "meaning": "Ngày ~",
+        "example": "<ruby>母<rt>はは</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<ruby>花<rt>はな</rt></ruby>を<ruby>贈<rt>おく</rt></ruby>ります。 (Tôi tặng hoa vào ngày của mẹ.)",
+        "image": "hi_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "もう〜",
+        "kanji": "",
+        "meaning": "Đã ~",
+        "example": "もう<ruby>帰<rt>かえ</rt></ruby>りました。 (Tôi đã về rồi.)",
+        "image": "mou_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "ぎんこう",
+        "kanji": "銀行",
+        "meaning": "Ngân hàng",
+        "example": "<ruby>銀行<rt>ぎんこう</rt></ruby>で<ruby>お金<rt>おかね</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろします。 (Tôi rút tiền ở ngân hàng.)",
+        "image": "ginkou_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "としょかん",
+        "kanji": "図書館",
+        "meaning": "Thư viện",
+        "example": "<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>ります。 (Tôi mượn sách ở thư viện.)",
+        "image": "toshokan_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "どうぶつえん",
+        "kanji": "動物園",
+        "meaning": "Sở thú",
+        "example": "<ruby>動物園<rt>どうぶつえん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi đến sở thú.)",
+        "image": "doubutsuen_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "ゆうびんきょく",
+        "kanji": "郵便局",
+        "meaning": "Bưu điện",
+        "example": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby>から<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。 (Tôi gửi thư từ bưu điện.)",
+        "image": "yuubinkyoku_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "びよういん",
+        "kanji": "美容院",
+        "meaning": "Thẩm mỹ viện, tiệm làm đẹp",
+        "example": "<ruby>美容院<rt>びよういん</rt></ruby>で<ruby>髪<rt>かみ</rt></ruby>を<ruby>切<rt>き</rt></ruby>ります。 (Tôi cắt tóc ở tiệm làm đẹp.)",
+        "image": "biyouin_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "かいぎ",
+        "kanji": "会議",
+        "meaning": "Cuộc họp",
+        "example": "<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>からですか。 (Cuộc họp bắt đầu từ mấy giờ?)",
+        "image": "kaigi_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "しけん",
+        "kanji": "試験",
+        "meaning": "Kỳ thi",
+        "example": "<ruby>試験<rt>しけん</rt></ruby>はいつですか。 (Kỳ thi là khi nào?)",
+        "image": "shiken_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "やすみ",
+        "kanji": "休み",
+        "meaning": "Nghỉ, ngày nghỉ",
+        "example": "<ruby>休み<rt>やすみ</rt></ruby>は<ruby>何曜日<rt>なんようび</rt></ruby>ですか。 (Ngày nghỉ là thứ mấy?)",
+        "image": "yasumi_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "にちようび",
+        "kanji": "日曜日",
+        "meaning": "Chủ nhật",
+        "example": "<ruby>日曜日<rt>にちようび</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みです。 (Chủ nhật là ngày nghỉ.)",
+        "image": "nichiyoubi_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "げつようび",
+        "kanji": "月曜日",
+        "meaning": "Thứ 2",
+        "example": "<ruby>月曜日<rt>げつようび</rt></ruby>から<ruby>仕事<rt>しごと</rt></ruby>です。 (Thứ hai tôi đi làm.)",
+        "image": "getsuyoubi_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "かようび",
+        "kanji": "火曜日",
+        "meaning": "Thứ 3",
+        "example": "<ruby>火曜日<rt>かようび</rt></ruby>に<ruby>会議<rt>かいぎ</rt></ruby>があります。 (Thứ ba tôi có cuộc họp.)",
+        "image": "kayoubi_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "すいようび",
+        "kanji": "水曜日",
+        "meaning": "Thứ 4",
+        "example": "<ruby>水曜日<rt>すいようび</rt></ruby>は<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Thứ tư tôi đi thư viện.)",
+        "image": "suiyoubi_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "もくようび",
+        "kanji": "木曜日",
+        "meaning": "Thứ 5",
+        "example": "<ruby>木曜日<rt>もくようび</rt></ruby>に<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。 (Thứ năm tôi xem phim.)",
+        "image": "mokuyoubi_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "きんようび",
+        "kanji": "金曜日",
+        "meaning": "Thứ 6",
+        "example": "<ruby>金曜日<rt>きんようび</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>飲<rt>の</rt></ruby>みに行きます。 (Thứ sáu tôi đi uống rượu với bạn bè.)",
+        "image": "kinyoubi_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "どようび",
+        "kanji": "土曜日",
+        "meaning": "Thứ 7",
+        "example": "<ruby>土曜日<rt>どようび</rt></ruby>は<ruby>家<rt>うち</rt></ruby>で<ruby>ゆっくり<rt>yukkuri</rt></ruby>します。 (Thứ bảy tôi thư giãn ở nhà.)",
+        "image": "doyoubi_N5_bai_1.png"
+    }
+]

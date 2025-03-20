@@ -1,0 +1,705 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>今<rt>いま</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngày mai",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bây giờ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Hôm qua",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tuần sau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "ゴールデンウィーク có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tuần lễ vàng",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "Ngày lễ tình nhân",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngày quốc tế lao động",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngày của mẹ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>午前<rt>ごぜん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Buổi chiều",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Buổi sáng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Buổi tối",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ban đêm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>午後<rt>ごご</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Buổi sáng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Buổi chiều",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Buổi tối",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ban đêm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "<ruby>誕生日<rt>たんじょうび</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngày cưới",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sinh nhật",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngày kỷ niệm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngày lễ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>日<rt>ひ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Năm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ngày",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tháng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giờ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "もう〜 có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Sắp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đã ~",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Vẫn chưa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Có thể",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>銀行<rt>ぎんこう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bưu điện",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ngân hàng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thư viện",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sở thú",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>図書館<rt>としょかん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngân hàng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thư viện",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bưu điện",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sở thú",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "<ruby>動物園<rt>どうぶつえん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thư viện",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sở thú",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngân hàng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bưu điện",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>郵便局<rt>ゆうびんきょく</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Sở thú",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bưu điện",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thư viện",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngân hàng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "<ruby>美容院<rt>びよういん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bưu điện",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thẩm mỹ viện, tiệm làm đẹp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sở thú",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thư viện",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>会議<rt>かいぎ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Kỳ thi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cuộc họp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nghỉ, ngày nghỉ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sinh nhật",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>試験<rt>しけん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cuộc họp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Kỳ thi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nghỉ, ngày nghỉ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sinh nhật",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "<ruby>休み<rt>やすみ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Kỳ thi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nghỉ, ngày nghỉ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cuộc họp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sinh nhật",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>日曜日<rt>にちようび</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thứ 2",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chủ nhật",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thứ 7",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thứ 6",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>月曜日<rt>げつようび</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chủ nhật",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thứ 2",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thứ 3",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thứ 4",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "<ruby>火曜日<rt>かようび</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thứ 2",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thứ 3",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thứ 4",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thứ 5",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "<ruby>水曜日<rt>すいようび</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thứ 3",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thứ 4",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thứ 5",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thứ 6",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>木曜日<rt>もくようび</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thứ 4",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thứ 5",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thứ 6",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thứ 7",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "<ruby>金曜日<rt>きんようび</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thứ 5",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thứ 6",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thứ 7",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chủ nhật",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "<ruby>土曜日<rt>どようび</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thứ 6",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thứ 7",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chủ nhật",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thứ 2",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 23,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bây giờ = ____",
+        "correct_answer": "いま/今"
+    },
+    {
+        "id": 24,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tuần lễ vàng = ____",
+        "correct_answer": "ゴールデンウィーク"
+    },
+    {
+        "id": 25,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Buổi sáng = ____",
+        "correct_answer": "ごぜん/午前"
+    },
+    {
+        "id": 26,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Buổi chiều = ____",
+        "correct_answer": "ごご/午後"
+    },
+    {
+        "id": 27,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sinh nhật = ____",
+        "correct_answer": "たんじょうび/誕生日"
+    },
+    {
+        "id": 28,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngày ~ = ____",
+        "correct_answer": "~のひ/日"
+    },
+    {
+        "id": 29,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đã ~ = ____",
+        "correct_answer": "もう〜"
+    },
+    {
+        "id": 30,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngân hàng = ____",
+        "correct_answer": "ぎんこう/銀行"
+    },
+    {
+        "id": 31,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thư viện = ____",
+        "correct_answer": "としょかん/図書館"
+    },
+    {
+        "id": 32,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sở thú = ____",
+        "correct_answer": "どうぶつえん/動物園"
+    },
+    {
+        "id": 33,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bưu điện = ____",
+        "correct_answer": "ゆうびんきょく/郵便局"
+    },
+    {
+        "id": 34,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thẩm mỹ viện, tiệm làm đẹp = ____",
+        "correct_answer": "びよういん/美容院"
+    },
+    {
+        "id": 35,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cuộc họp = ____",
+        "correct_answer": "かいぎ/会議"
+    },
+    {
+        "id": 36,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Kỳ thi = ____",
+        "correct_answer": "しけん/試験"
+    },
+    {
+        "id": 37,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nghỉ, ngày nghỉ = ____",
+        "correct_answer": "やすみ/休み"
+    },
+    {
+        "id": 38,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chủ nhật = ____",
+        "correct_answer": "にちようび/日曜日"
+    },
+    {
+        "id": 39,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thứ 2 = ____",
+        "correct_answer": "げつようび/月曜日"
+    },
+    {
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thứ 3 = ____",
+        "correct_answer": "かようび/火曜日"
+    },
+    {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thứ 4 = ____",
+        "correct_answer": "すいようび/水曜日"
+    },
+    {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thứ 5 = ____",
+        "correct_answer": "もくようび/木曜日"
+    },
+    {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thứ 6 = ____",
+        "correct_answer": "きんようび/金曜日"
+    },
+    {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thứ 7 = ____",
+        "correct_answer": "どようび/土曜日"
+    }
+]

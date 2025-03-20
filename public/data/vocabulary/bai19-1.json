@@ -1,0 +1,218 @@
+[
+    {
+        "index": 1,
+        "word": "(かいしゃを)やめます",
+        "kanji": "(会社を)辞めます",
+        "meaning": "Nghỉ (việc)",
+        "example": "<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めます。 (Tôi nghỉ việc công ty.)",
+        "image": "kaisha_o_yamemasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "(はなが)さきます",
+        "kanji": "(花が)咲きます",
+        "meaning": "(Hoa) nở",
+        "example": "<ruby>花<rt>はな</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きます。 (Hoa nở.)",
+        "image": "hana_ga_sakimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "じゅんびします",
+        "kanji": "準備します",
+        "meaning": "Chuẩn bị",
+        "example": "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>をします。 (Tôi chuẩn bị cho chuyến du lịch.)",
+        "image": "junbi_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "れんしゅうします",
+        "kanji": "練習します",
+        "meaning": "Luyện tập",
+        "example": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>します。 (Tôi luyện tập tiếng Nhật.)",
+        "image": "renshuu_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "そつぎょうします",
+        "kanji": "卒業します",
+        "meaning": "Tốt nghiệp",
+        "example": "<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>します。 (Tôi tốt nghiệp đại học.)",
+        "image": "sotsugyou_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "うんどうします",
+        "kanji": "運動します",
+        "meaning": "Vận động",
+        "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>します。 (Tôi vận động mỗi ngày.)",
+        "image": "undou_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "もってきます",
+        "kanji": "持って来ます",
+        "meaning": "Mang đến",
+        "example": "<ruby>資料<rt>しりょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>来<rt>き</rt></ruby>ます。 (Tôi mang tài liệu đến.)",
+        "image": "motte_kimasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "もっていきます",
+        "kanji": "持って行きます",
+        "meaning": "Mang đi",
+        "example": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。 (Tôi mang hành lý đi.)",
+        "image": "motte_ikimasu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "はじめます",
+        "kanji": "始めます",
+        "meaning": "Bắt đầu",
+        "example": "<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めます。 (Tôi bắt đầu cuộc họp.)",
+        "image": "hajimemasu_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "なります",
+        "kanji": "なります",
+        "meaning": "Trở nên, trở thành",
+        "example": "<ruby>医者<rt>いしゃ</rt></ruby>に<ruby>なり</rt>たいです。 (Tôi muốn trở thành bác sĩ.)",
+        "image": "narimasu_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "~ねんせい",
+        "kanji": "~年生",
+        "meaning": "(Học sinh, sinh viên) năm -",
+        "example": "大学<ruby>三年生<rt>さんがくねんせい</rt></ruby>です。 (Tôi là sinh viên năm ba đại học.)",
+        "image": "nensei_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "~ごろ",
+        "kanji": "~頃",
+        "meaning": "Khi -, vào khoảng -",
+        "example": "三<ruby>時<rt>じ</rt></ruby><ruby>頃<rt>ごろ</rt></ruby>に<ruby>来<rt>き</rt></ruby>ます。 (Tôi đến vào khoảng 3 giờ.)",
+        "image": "goro_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "しょうらい",
+        "kanji": "将来",
+        "meaning": "Tương lai",
+        "example": "<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>何<rt>なに</rt></ruby>をしたいですか。 (Trong tương lai bạn muốn làm gì?)",
+        "image": "shourai_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "まんてん",
+        "kanji": "満点",
+        "meaning": "Điểm tối đa",
+        "example": "<ruby>試験<rt>しけん</rt></ruby>で<ruby>満点<rt>まんてん</rt></ruby>を<ruby>取<rt>と</rt></ruby>りました。 (Tôi đạt điểm tối đa trong kỳ thi.)",
+        "image": "manten_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "みち",
+        "kanji": "道",
+        "meaning": "Con đường",
+        "example": "<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>きます。 (Tôi đi bộ trên đường.)",
+        "image": "michi_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "こうよう",
+        "kanji": "紅葉",
+        "meaning": "Lá đỏ",
+        "example": "<ruby>紅葉<rt>こうよう</rt></ruby>が<ruby>きれい</rt>です。 (Lá đỏ đẹp.)",
+        "image": "kouyou_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "くすり",
+        "kanji": "薬",
+        "meaning": "Thuốc",
+        "example": "<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。 (Tôi uống thuốc.)",
+        "image": "kusuri_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "だんだん",
+        "kanji": "",
+        "meaning": "Dần dần",
+        "example": "だんだん<ruby>暖<rt>あたた</rt></ruby>かくなります。 (Trời dần dần ấm lên.)",
+        "image": "dandan_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "もうすぐ",
+        "kanji": "",
+        "meaning": "Sắp",
+        "example": "もうすぐ<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きます。 (Hoa anh đào sắp nở.)",
+        "image": "mousugu_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "ずいぶん",
+        "kanji": "",
+        "meaning": "Khá là",
+        "example": "ずいぶん<ruby>寒<rt>さむ</rt></ruby>くなりました。 (Trời khá là lạnh rồi.)",
+        "image": "zuibun_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "なかがいい",
+        "kanji": "仲がいい",
+        "meaning": "Quan hệ tốt",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>仲<rt>なか</rt></ruby>がいいです。 (Tôi có quan hệ tốt với bạn bè.)",
+        "image": "naka_ga_ii_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "あたたかい",
+        "kanji": "暖かい",
+        "meaning": "Ấm áp",
+        "example": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>暖<rt>あたた</rt></ruby>かいです。 (Phòng ấm áp.)",
+        "image": "atatakai_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "すずしい",
+        "kanji": "涼しい",
+        "meaning": "Mát mẻ",
+        "example": "<ruby>涼<rt>すず</rt></ruby>しい<ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>きます。 (Gió mát thổi.)",
+        "image": "suzushii_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "ねむい",
+        "kanji": "眠い",
+        "meaning": "Buồn ngủ",
+        "example": "<ruby>眠<rt>ねむ</rt></ruby>いです。 (Tôi buồn ngủ.)",
+        "image": "nemui_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "いたい",
+        "kanji": "痛い",
+        "meaning": "Đau",
+        "example": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。 (Tôi đau đầu.)",
+        "image": "itai_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "じぶん",
+        "kanji": "自分",
+        "meaning": "Bản thân",
+        "example": "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>えます。 (Tôi tự suy nghĩ.)",
+        "image": "jibun_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "きもちをこくはくしたい",
+        "kanji": "気持ちを告白したい",
+        "meaning": "Tôi muốn thổ lộ tình cảm",
+        "example": "<ruby>気持<rt>きも</rt></ruby>ちを<ruby>告白<rt>こくはく</rt></ruby>したいです。 (Tôi muốn thổ lộ tình cảm.)",
+        "image": "kimochi_o_kokuhaku_shitai_N5_bai_1.png"
+    }
+]

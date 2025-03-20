@@ -1,0 +1,871 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>待ちます<rt>まちます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Hút (thuốc)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chờ đợi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mang, cầm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Biết",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "<ruby>吸います<rt>すいます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chờ đợi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Hút (thuốc)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Biết",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sống",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>持ちます<rt>もちます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Hút (thuốc)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mang, cầm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sống",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đánh (đàn)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>知ります<rt>しります</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mang, cầm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Biết",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đánh (đàn)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "(Mưa) rơi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "<ruby>住みます<rt>すみます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Biết",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sống",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "(Mưa) rơi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xuống (xe)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>弾きます<rt>ひきます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Sống",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đánh (đàn)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Xuống (xe)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nói chuyện",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>降ります<rt>おります</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "(Mưa) rơi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Xuống (xe)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Copy, phô tô",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đứng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>話します<rt>はなします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xuống (xe)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nói chuyện",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đứng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngồi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "コピーします có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nói chuyện",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Copy, phô tô",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngồi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tìm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>立ちます<rt>たちます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Copy, phô tô",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đứng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tìm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Gọi, kêu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "<ruby>座ります<rt>すわります</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đứng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ngồi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Gọi, kêu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sử dụng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>探します<rt>さがします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngồi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tìm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sử dụng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Độc thân",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>呼びます<rt>よびます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tìm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Gọi, kêu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Độc thân",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thuốc lá",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "<ruby>使います<rt>つかいます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Gọi, kêu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sử dụng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thuốc lá",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đàn piano",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>独身<rt>どくしん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Sử dụng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Độc thân",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đàn piano",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chạy bộ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "たばこ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Độc thân",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thuốc lá",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chạy bộ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Địa chỉ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "ピアノ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thuốc lá",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đàn piano",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Địa chỉ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Câu lạc bộ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "ジョギング có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đàn piano",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chạy bộ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Câu lạc bộ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cha mẹ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>住所<rt>じゅうしょ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chạy bộ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Địa chỉ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cha mẹ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cơm nắm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "クラブ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Địa chỉ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Câu lạc bộ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cơm nắm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Toà thị chính",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "<ruby>両親<rt>りょうしん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Câu lạc bộ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cha mẹ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Toà thị chính",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Số điện thoại",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "おにぎり có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cha mẹ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cơm nắm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Số điện thoại",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngày thường",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "<ruby>市役所<rt>しやくしょ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cơm nắm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Toà thị chính",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngày thường",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Khác",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "<ruby>電話番号<rt>でんわばんごう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Toà thị chính",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Số điện thoại",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Khác",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bạn có ổn không?",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "<ruby>平日<rt>へいじつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Số điện thoại",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ngày thường",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bạn có ổn không?",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chờ đợi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "<ruby>他<rt>ほか</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngày thường",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Khác",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chờ đợi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hút (thuốc)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question_text": "<ruby>大丈夫ですか<rt>だいじょうぶですか</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Khác",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bạn có ổn không?",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Hút (thuốc)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mang, cầm",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 29,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chờ đợi = ____",
+        "correct_answer": "まちます/待ちます"
+    },
+    {
+        "id": 30,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hút (thuốc) = ____",
+        "correct_answer": "すいます/吸います"
+    },
+    {
+        "id": 31,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mang, cầm = ____",
+        "correct_answer": "もちます/持ちます"
+    },
+    {
+        "id": 32,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Biết = ____",
+        "correct_answer": "しります/知ります"
+    },
+    {
+        "id": 33,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sống = ____",
+        "correct_answer": "すみます/住みます"
+    },
+    {
+        "id": 34,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đánh (đàn) = ____",
+        "correct_answer": "ひきます/弾きます"
+    },
+    {
+        "id": 35,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: (Mưa) rơi = ____",
+        "correct_answer": "ふります/降ります/あめがふります/雨が降ります"
+    },
+    {
+        "id": 36,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Xuống (xe) = ____",
+        "correct_answer": "おります/降ります"
+    },
+    {
+        "id": 37,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nói chuyện = ____",
+        "correct_answer": "はなします/話します"
+    },
+    {
+        "id": 38,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Copy, phô tô = ____",
+        "correct_answer": "コピーします"
+    },
+    {
+        "id": 39,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đứng = ____",
+        "correct_answer": "たちます/立ちます"
+    },
+    {
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngồi = ____",
+        "correct_answer": "すわります/座ります"
+    },
+    {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tìm = ____",
+        "correct_answer": "さがします/探します"
+    },
+    {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Gọi, kêu = ____",
+        "correct_answer": "よびます/呼びます"
+    },
+    {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sử dụng = ____",
+        "correct_answer": "つかいます/使います"
+    },
+    {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Độc thân = ____",
+        "correct_answer": "どくしん/独身"
+    },
+    {
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thuốc lá = ____",
+        "correct_answer": "たばこ"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đàn piano = ____",
+        "correct_answer": "ピアノ"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chạy bộ = ____",
+        "correct_answer": "ジョギング"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Địa chỉ = ____",
+        "correct_answer": "じゅうしょ/住所"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Câu lạc bộ = ____",
+        "correct_answer": "クラブ"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cha mẹ = ____",
+        "correct_answer": "りょうしん/両親"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cơm nắm = ____",
+        "correct_answer": "おにぎり"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Toà thị chính = ____",
+        "correct_answer": "しやくしょ/市役所"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Số điện thoại = ____",
+        "correct_answer": "でんわばんごう/電話番号"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngày thường = ____",
+        "correct_answer": "へいじつ/平日"
+    },
+    {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Khác = ____",
+        "correct_answer": "ほか/他"
+    },
+    {
+        "id": 56,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bạn có ổn không? = ____",
+        "correct_answer": "だいじょうぶですか/大丈夫ですか"
+    }
+]

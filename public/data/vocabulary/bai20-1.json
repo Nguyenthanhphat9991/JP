@@ -1,0 +1,226 @@
+[
+    {
+        "index": 1,
+        "word": "(きってを)あつめます",
+        "kanji": "(切手を)集めます",
+        "meaning": "Sưu tập, thu thập",
+        "example": "<ruby>切手<rt>きって</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めます。 (Tôi sưu tập tem.)",
+        "image": "kitte_o_atsumemasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "(うたを)うたいます",
+        "kanji": "(歌を)歌います",
+        "meaning": "Hát",
+        "example": "<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>います。 (Tôi hát.)",
+        "image": "uta_o_utaimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "(おりがみを)おります",
+        "kanji": "(折り紙を)折ります",
+        "meaning": "Bẻ, gấp",
+        "example": "<ruby>折り紙<rt>おりがみ</rt></ruby>を<ruby>折<rt>お</rt></ruby>ります。 (Tôi gấp giấy origami.)",
+        "image": "origami_o_orimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "さんかします",
+        "kanji": "参加します",
+        "meaning": "Tham gia",
+        "example": "<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>します。 (Tôi tham gia cuộc họp.)",
+        "image": "sanka_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "(インターネットで)しらべます",
+        "kanji": "(インターネットで)調べます",
+        "meaning": "Tìm kiếm, tra cứu",
+        "example": "インターネットで<ruby>調<rt>しら</rt></ruby>べます。 (Tôi tìm kiếm trên internet.)",
+        "image": "intaanetto_de_shirabemasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "でんわします",
+        "kanji": "電話します",
+        "meaning": "Gọi điện thoại",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>します。 (Tôi gọi điện thoại cho bạn.)",
+        "image": "denwa_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "できます",
+        "kanji": "出来ます",
+        "meaning": "Có thể",
+        "example": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>出来<rt>でき</rt></ruby>ます。 (Tôi có thể nói tiếng Nhật.)",
+        "image": "dekimasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "おりがみ",
+        "kanji": "折り紙",
+        "meaning": "Nghệ thuật gấp giấy",
+        "example": "<ruby>折り紙<rt>おりがみ</rt></ruby>をします。 (Tôi gấp giấy origami.)",
+        "image": "origami_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "ブラジル",
+        "kanji": "",
+        "meaning": "Brazil",
+        "example": "ブラジルへ<ruby>行<rt>い</rt></ruby>きたいです。 (Tôi muốn đi Brazil.)",
+        "image": "burajiru_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "がいこくご",
+        "kanji": "外国語",
+        "meaning": "Tiếng nước ngoài",
+        "example": "<ruby>外国語<rt>がいこくご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học ngoại ngữ.)",
+        "image": "gaikokugo_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "インターネット",
+        "kanji": "",
+        "meaning": "Internet",
+        "example": "インターネットで<ruby>調<rt>しら</rt></ruby>べます。 (Tôi tìm kiếm trên internet.)",
+        "image": "intaanetto_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "かんじ",
+        "kanji": "漢字",
+        "meaning": "Chữ Hán",
+        "example": "<ruby>漢字<rt>かんじ</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học chữ Hán.)",
+        "image": "kanji_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "がっき",
+        "kanji": "楽器",
+        "meaning": "Nhạc cụ",
+        "example": "<ruby>楽器<rt>がっき</rt></ruby>を<ruby>演奏<rt>えんそう</rt></ruby>します。 (Tôi chơi nhạc cụ.)",
+        "image": "gakki_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "きって",
+        "kanji": "切手",
+        "meaning": "Tem",
+        "example": "<ruby>切手<rt>きって</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めます。 (Tôi sưu tập tem.)",
+        "image": "kitte_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "きもの",
+        "kanji": "着物",
+        "meaning": "Áo kimono",
+        "example": "<ruby>着物<rt>きもの</rt></ruby>を<ruby>着<rt>き</rt></ruby>ます。 (Tôi mặc kimono.)",
+        "image": "kimono_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "ギター",
+        "kanji": "",
+        "meaning": "Đàn ghi-ta",
+        "example": "ギターを<ruby>弾<rt>ひ</rt></ruby>きます。 (Tôi chơi đàn ghi-ta.)",
+        "image": "gitaa_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "じこ",
+        "kanji": "事故",
+        "meaning": "Sự cố, tai nạn",
+        "example": "<ruby>事故<rt>じこ</rt></ruby>が<ruby>起<rt>お</rt></ruby>きました。 (Đã xảy ra tai nạn.)",
+        "image": "jiko_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "じしん",
+        "kanji": "地震",
+        "meaning": "Động đất",
+        "example": "<ruby>地震<rt>じしん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きました。 (Đã xảy ra động đất.)",
+        "image": "jishin_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "しゅみ",
+        "kanji": "趣味",
+        "meaning": "Sở thích",
+        "example": "<ruby>趣味<rt>しゅみ</rt></ruby>は<ruby>読書<rt>どくしょ</rt></ruby>です。 (Sở thích của tôi là đọc sách.)",
+        "image": "shumi_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "つる",
+        "kanji": "鶴",
+        "meaning": "Con sếu",
+        "example": "<ruby>鶴<rt>つる</rt></ruby>を<ruby>折<rt>お</rt></ruby>ります。 (Tôi gấp con sếu.)",
+        "image": "tsuru_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "りれきしょ",
+        "kanji": "履歴書",
+        "meaning": "Bản lý lịch",
+        "example": "<ruby>履歴書<rt>りれきしょ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。 (Tôi viết bản lý lịch.)",
+        "image": "rirekisho_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "ホテル",
+        "kanji": "",
+        "meaning": "Khách sạn",
+        "example": "ホテルに<ruby>泊<rt>と</rt></ruby>まります。 (Tôi ở khách sạn.)",
+        "image": "hoteru_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "どくしょ",
+        "kanji": "読書",
+        "meaning": "Đọc sách",
+        "example": "<ruby>読書<rt>どくしょ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。 (Tôi thích đọc sách.)",
+        "image": "dokusho_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "メートル",
+        "kanji": "",
+        "meaning": "Mét",
+        "example": "100メートル<ruby>走<rt>はし</rt></ruby>ります。 (Tôi chạy 100 mét.)",
+        "image": "meetoru_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "とくに",
+        "kanji": "特に",
+        "meaning": "Đặc biệt",
+        "example": "<ruby>特<rt>とく</rt></ruby>に<ruby>ありません</rt>。 (Đặc biệt không có gì.)",
+        "image": "tokuni_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "もちろんです",
+        "kanji": "",
+        "meaning": "Tất nhiên rồi",
+        "example": "もちろんです。 (Tất nhiên rồi.)",
+        "image": "mochiron_desu_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "がんばります",
+        "kanji": "頑張ります",
+        "meaning": "Tôi sẽ cố gắng hết mình.",
+        "example": "<ruby>頑張<rt>がんば</rt></ruby>ります。 (Tôi sẽ cố gắng hết mình.)",
+        "image": "ganbarimasu_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "よければ、~",
+        "kanji": "",
+        "meaning": "Nếu được, ~",
+        "example": "よければ、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きませんか。 (Nếu được, chúng ta cùng đi nhé?)",
+        "image": "yokereba_N5_bai_1.png"
+    }
+]

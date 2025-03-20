@@ -1,0 +1,154 @@
+[
+    {
+        "index": 1,
+        "word": "あんないします",
+        "kanji": "案内します",
+        "meaning": "Hướng dẫn",
+        "example": "<ruby>市内<rt>しない</rt></ruby>を<ruby>案内<rt>あんない</rt></ruby>します。 (Tôi hướng dẫn trong thành phố.)",
+        "image": "annai_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "しょうかいします",
+        "kanji": "紹介します",
+        "meaning": "Giới thiệu",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>します。 (Tôi giới thiệu bạn bè.)",
+        "image": "shoukai_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "かぜをひきます",
+        "kanji": "風邪をひきます",
+        "meaning": "Bị cảm",
+        "example": "<ruby>風邪<rt>かぜ</rt></ruby>をひきました。 (Tôi bị cảm.)",
+        "image": "kaze_o_hikimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "なおします",
+        "kanji": "直します",
+        "meaning": "Sửa chữa",
+        "example": "<ruby>時計<rt>とけい</rt></ruby>を<ruby>直<rt>なお</rt></ruby>します。 (Tôi sửa đồng hồ.)",
+        "image": "naoshimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "せつめいします",
+        "kanji": "説明します",
+        "meaning": "Thuyết minh, giải thích",
+        "example": "<ruby>資料<rt>しりょう</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>します。 (Tôi giải thích tài liệu.)",
+        "image": "setsumei_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "ひろいます",
+        "kanji": "拾います",
+        "meaning": "Lượm, nhặt",
+        "example": "<ruby>お金<rt>おかね</rt></ruby>を<ruby>拾<rt>ひろ</rt></ruby>いました。 (Tôi nhặt được tiền.)",
+        "image": "hiroimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "こまります",
+        "kanji": "困ります",
+        "meaning": "Bối rối, khó khăn",
+        "example": "<ruby>困<rt>こま</rt></ruby>りました。 (Tôi gặp khó khăn.)",
+        "image": "komarimasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "くれます",
+        "kanji": "",
+        "meaning": "Tặng, cho (người khác cho mình)",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>が<ruby>プレゼント<rt>purezento</rt></ruby>をくれました。 (Bạn tôi đã tặng quà cho tôi.)",
+        "image": "kuremasu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "すきやき",
+        "kanji": "すき焼き",
+        "meaning": "Lẩu thịt bò",
+        "example": "<ruby>すき焼き<rt>すきやき</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn lẩu thịt bò.)",
+        "image": "sukiyaki_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "しょうがっこう",
+        "kanji": "小学校",
+        "meaning": "Trường tiểu học",
+        "example": "<ruby>小学校<rt>しょうがっこう</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>います。 (Tôi học trường tiểu học.)",
+        "image": "shougakkou_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "ちゅうがっこう",
+        "kanji": "中学校",
+        "meaning": "Trường trung học",
+        "example": "<ruby>中学校<rt>ちゅうがっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>しました。 (Tôi đã tốt nghiệp trường trung học.)",
+        "image": "chuugakkou_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "おちゃわん",
+        "kanji": "お茶碗",
+        "meaning": "Chén, bát",
+        "example": "<ruby>お茶碗<rt>ちゃわん</rt></ruby>で<ruby>ご飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn cơm bằng bát.)",
+        "image": "ochawan_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "おさら",
+        "kanji": "お皿",
+        "meaning": "Đĩa",
+        "example": "<ruby>お皿<rt>さら</rt></ruby>に<ruby>料理<rt>りょうり</rt></ruby>を<ruby>盛<rt>も</rt></ruby>ります。 (Tôi bày món ăn ra đĩa.)",
+        "image": "osara_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "くうこう",
+        "kanji": "空港",
+        "meaning": "Sân bay",
+        "example": "<ruby>空港<rt>くうこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi đến sân bay.)",
+        "image": "kuukou_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "おまもり",
+        "kanji": "お守り",
+        "meaning": "Bùa",
+        "example": "<ruby>お守<rt>まも</rt></ruby>りを<ruby>買<rt>か</rt></ruby>います。 (Tôi mua bùa.)",
+        "image": "omamori_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "にんぎょう",
+        "kanji": "人形",
+        "meaning": "Búp bê",
+        "example": "<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>飾<rt>かざ</rt></ruby>ります。 (Tôi trang trí búp bê.)",
+        "image": "ningyou_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "オレンジ",
+        "kanji": "",
+        "meaning": "Trái cam",
+        "example": "オレンジを<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn cam.)",
+        "image": "orenji_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "ちょうし",
+        "kanji": "調子",
+        "meaning": "Tình trạng (cơ thể, máy móc)",
+        "example": "<ruby>体<rt>からだ</rt></ruby>の<ruby>調子<rt>ちょうし</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。 (Tình trạng cơ thể tôi không tốt.)",
+        "image": "choushi_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "ぜんぶ",
+        "kanji": "全部",
+        "meaning": "Toàn bộ",
+        "example": "<ruby>全部<rt>ぜんぶ</rt></ruby>でいくらですか。 (Tổng cộng bao nhiêu tiền?)",
+        "image": "zenbu_N5_bai_1.png"
+    }
+]

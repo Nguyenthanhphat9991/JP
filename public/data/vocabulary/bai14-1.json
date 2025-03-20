@@ -1,0 +1,306 @@
+[
+    {
+        "index": 1,
+        "word": "おそい",
+        "kanji": "遅い",
+        "meaning": "Muộn, chậm",
+        "example": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>いです。 (Tàu đến muộn.)",
+        "image": "osoi_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "はやい",
+        "kanji": "早い",
+        "meaning": "Nhanh, lẹ",
+        "example": "<ruby>時間<rt>じかん</rt></ruby>が<ruby>早<rt>はや</rt></ruby>いです。 (Thời gian trôi nhanh.)",
+        "image": "hayai_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "たいせつ",
+        "kanji": "大切",
+        "meaning": "Quan trọng",
+        "example": "<ruby>時間<rt>じかん</rt></ruby>は<ruby>大切<rt>たいせつ</rt></ruby>です。 (Thời gian rất quan trọng.)",
+        "image": "taisetsu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "ながい",
+        "kanji": "長い",
+        "meaning": "Dài",
+        "example": "この<ruby>道<rt>みち</rt></ruby>は<ruby>長<rt>なが</rt></ruby>いです。 (Con đường này dài.)",
+        "image": "nagai_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "みじかい",
+        "kanji": "短い",
+        "meaning": "Ngắn",
+        "example": "この<ruby>道<rt>みち</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>いです。 (Con đường này ngắn.)",
+        "image": "mijikai_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "あたま",
+        "kanji": "頭",
+        "meaning": "Đầu",
+        "example": "<ruby>頭<rt>あたま</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。 (Tôi bị đau đầu.)",
+        "image": "atama_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "かみ",
+        "kanji": "髪",
+        "meaning": "Tóc",
+        "example": "<ruby>髪<rt>かみ</rt></ruby>を<ruby>切<rt>き</rt></ruby>ります。 (Tôi cắt tóc.)",
+        "image": "kami_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "くち",
+        "kanji": "口",
+        "meaning": "Miệng",
+        "example": "<ruby>口<rt>くち</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けます。 (Tôi mở miệng.)",
+        "image": "kuchi_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "はな",
+        "kanji": "鼻",
+        "meaning": "Mũi",
+        "example": "<ruby>鼻<rt>はな</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。 (Mũi cao.)",
+        "image": "hana_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "みみ",
+        "kanji": "耳",
+        "meaning": "Tai",
+        "example": "<ruby>耳<rt>みみ</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。 (Tôi bị đau tai.)",
+        "image": "mimi_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "あし",
+        "kanji": "足",
+        "meaning": "Chân",
+        "example": "<ruby>足<rt>あし</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。 (Tôi bị đau chân.)",
+        "image": "ashi_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "て",
+        "kanji": "手",
+        "meaning": "Tay",
+        "example": "<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。 (Tôi rửa tay.)",
+        "image": "te_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "せ",
+        "kanji": "背",
+        "meaning": "Lưng",
+        "example": "<ruby>背<rt>せ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。 (Lưng cao.)",
+        "image": "se_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "きせつ",
+        "kanji": "季節",
+        "meaning": "Mùa",
+        "example": "<ruby>季節<rt>きせつ</rt></ruby>が<ruby>変<rt>か</rt></ruby>わります。 (Mùa thay đổi.)",
+        "image": "kisetsu_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "はる",
+        "kanji": "春",
+        "meaning": "Mùa xuân",
+        "example": "<ruby>春<rt>はる</rt></ruby>が<ruby>来<rt>く</rt></ruby>ました。 (Mùa xuân đến rồi.)",
+        "image": "haru_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "なつ",
+        "kanji": "夏",
+        "meaning": "Mùa hè",
+        "example": "<ruby>夏<rt>なつ</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いです。 (Mùa hè trời nóng.)",
+        "image": "natsu_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "あき",
+        "kanji": "秋",
+        "meaning": "Mùa thu",
+        "example": "<ruby>秋<rt>あき</rt></ruby>は<ruby>涼<rt>すず</rt></ruby>しいです。 (Mùa thu mát mẻ.)",
+        "image": "aki_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "ふゆ",
+        "kanji": "冬",
+        "meaning": "Mùa đông",
+        "example": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。 (Mùa đông trời lạnh.)",
+        "image": "fuyu_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "サル",
+        "kanji": "猿",
+        "meaning": "Khỉ",
+        "example": "<ruby>猿<rt>サル</rt></ruby>がいます。 (Có con khỉ.)",
+        "image": "saru_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "ゾウ",
+        "kanji": "象",
+        "meaning": "Voi",
+        "example": "<ruby>象<rt>ゾウ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです。 (Con voi to.)",
+        "image": "zou_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "やま",
+        "kanji": "山",
+        "meaning": "Núi",
+        "example": "<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ります。 (Tôi leo núi.)",
+        "image": "yama_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "エベレスト",
+        "kanji": "",
+        "meaning": "Đỉnh Everest",
+        "example": "エベレストは<ruby>高<rt>たか</rt></ruby>いです。 (Đỉnh Everest cao.)",
+        "image": "eberesuto_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "ことば",
+        "kanji": "言葉",
+        "meaning": "Từ vựng",
+        "example": "<ruby>言葉<rt>ことば</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えます。 (Tôi học từ vựng.)",
+        "image": "kotoba_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "がいこく",
+        "kanji": "外国",
+        "meaning": "Nước ngoài",
+        "example": "<ruby>外国<rt>がいこく</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。 (Tôi muốn đi nước ngoài.)",
+        "image": "gaikoku_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "もの",
+        "kanji": "物",
+        "meaning": "Đồ vật",
+        "example": "<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。 (Tôi mua đồ vật.)",
+        "image": "mono_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "みょうじ",
+        "kanji": "名字",
+        "meaning": "Họ",
+        "example": "<ruby>名字<rt>みょうじ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>ですか。 (Họ của bạn là gì?)",
+        "image": "myouji_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "いちばん",
+        "kanji": "一番",
+        "meaning": "Thứ nhất",
+        "example": "<ruby>一番<rt>いちばん</rt></ruby>です。 (Thứ nhất.)",
+        "image": "ichiban_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "くうき",
+        "kanji": "空気",
+        "meaning": "Không khí",
+        "example": "<ruby>空気<rt>くうき</rt></ruby>が<ruby>きれい</rt>です。 (Không khí sạch sẽ.)",
+        "image": "kuuki_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "ぎゅうにく",
+        "kanji": "牛肉",
+        "meaning": "Thịt bò",
+        "example": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn thịt bò.)",
+        "image": "gyuuniku_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "とりにく",
+        "kanji": "鶏肉",
+        "meaning": "Thịt gà",
+        "example": "<ruby>鶏肉<rt>とりにく</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn thịt gà.)",
+        "image": "toriniku_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "せかい",
+        "kanji": "世界",
+        "meaning": "Thế giới",
+        "example": "<ruby>世界<rt>せかい</rt></ruby>を<ruby>旅行<rt>りょこう</rt></ruby>したいです。 (Tôi muốn đi du lịch thế giới.)",
+        "image": "sekai_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "つごう",
+        "kanji": "都合",
+        "meaning": "Sự thuận tiện",
+        "example": "<ruby>都合<rt>つごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。 (Tôi không tiện.)",
+        "image": "tsugou_N5_bai_1.png"
+    },
+    {
+        "index": 33,
+        "word": "ねだん",
+        "kanji": "値段",
+        "meaning": "Giá cả",
+        "example": "<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。 (Giá cả đắt.)",
+        "image": "nedan_N5_bai_1.png"
+    },
+    {
+        "index": 34,
+        "word": "ぶっか",
+        "kanji": "物価",
+        "meaning": "Vật giá",
+        "example": "<ruby>物価<rt>ぶっか</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いです。 (Vật giá cao.)",
+        "image": "bukka_N5_bai_1.png"
+    },
+    {
+        "index": 35,
+        "word": "ふく",
+        "kanji": "服",
+        "meaning": "Quần áo",
+        "example": "<ruby>服<rt>ふく</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。 (Tôi mua quần áo.)",
+        "image": "fuku_N5_bai_1.png"
+    },
+    {
+        "index": 36,
+        "word": "いろいろ(な)",
+        "kanji": "",
+        "meaning": "Nhiều, đa dạng",
+        "example": "いろいろな<ruby>料理<rt>りょうり</rt></ruby>があります。 (Có nhiều món ăn đa dạng.)",
+        "image": "iroiro_na_N5_bai_1.png"
+    },
+    {
+        "index": 37,
+        "word": "ずっと",
+        "kanji": "",
+        "meaning": "Suốt hẳn",
+        "example": "ずっと<ruby>一緒<rt>いっしょ</rt></ruby>にいたいです。 (Tôi muốn ở cùng nhau mãi.)",
+        "image": "zutto_N5_bai_1.png"
+    },
+    {
+        "index": 38,
+        "word": "どちら",
+        "kanji": "",
+        "meaning": "Cái nào",
+        "example": "どちらが<ruby>好<rt>す</rt></ruby>きですか。 (Bạn thích cái nào?)",
+        "image": "dochira_N5_bai_1.png"
+    }
+]

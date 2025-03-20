@@ -1,0 +1,322 @@
+[
+    {
+        "index": 1,
+        "word": "いきます",
+        "kanji": "行き",
+        "meaning": "Đi",
+        "example": "<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi đến trường.)",
+        "image": "ikimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "きます",
+        "kanji": "来",
+        "meaning": "Đến",
+        "example": "<ruby>明日<rt>あした</rt></ruby><ruby>友達<rt>ともだち</rt></ruby>が<ruby>来<rt>き</rt></ruby>ます。 (Ngày mai bạn tôi đến.)",
+        "image": "kimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "かえります",
+        "kanji": "帰り",
+        "meaning": "Trở về",
+        "example": "<ruby>家<rt>うち</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>ります。 (Tôi trở về nhà.)",
+        "image": "kaerimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "いつも",
+        "kanji": "",
+        "meaning": "Luôn luôn, lúc nào cũng",
+        "example": "いつも<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi luôn luôn học bài.)",
+        "image": "itsumo_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "よく",
+        "kanji": "",
+        "meaning": "Thường, hay",
+        "example": "<ruby>週末<rt>しゅうまつ</rt></ruby>はよく<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。 (Cuối tuần tôi thường xem phim.)",
+        "image": "yoku_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "ときどき",
+        "kanji": "",
+        "meaning": "Thỉnh thoảng",
+        "example": "ときどき<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。 (Thỉnh thoảng tôi đi dạo trong công viên.)",
+        "image": "tokidoki_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "えき",
+        "kanji": "駅",
+        "meaning": "Nhà ga",
+        "example": "<ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>いて<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi bộ đến nhà ga.)",
+        "image": "eki_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "いなか",
+        "kanji": "田舎",
+        "meaning": "Vùng ngoại ô, nông thôn",
+        "example": "<ruby>田舎<rt>いなか</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>ります。 (Tôi trở về vùng quê.)",
+        "image": "inaka_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "こうえん",
+        "kanji": "公園",
+        "meaning": "Công viên",
+        "example": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>友達<rt>ともだち</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>びます。 (Tôi chơi với bạn bè ở công viên.)",
+        "image": "kouen_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "やおや",
+        "kanji": "八百屋",
+        "meaning": "Cửa hàng rau",
+        "example": "<ruby>八百屋<rt>やおや</rt></ruby>で<ruby>野菜<rt>やさい</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。 (Tôi mua rau ở cửa hàng rau.)",
+        "image": "yaoya_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "うち/いえ",
+        "kanji": "家",
+        "meaning": "Nhà",
+        "example": "<ruby>家<rt>うち</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học ở nhà.)",
+        "image": "ie_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "~や",
+        "kanji": "屋",
+        "meaning": "Cửa hàng",
+        "example": "<ruby>本屋<rt>ほんや</rt></ruby>で<ruby>本<rt>ほん</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。 (Tôi mua sách ở cửa hàng sách.)",
+        "image": "ya_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "デパート",
+        "kanji": "",
+        "meaning": "Trung tâm thương mại",
+        "example": "デパートへ<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi mua sắm ở trung tâm thương mại.)",
+        "image": "depaato_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "レストラン",
+        "kanji": "",
+        "meaning": "Nhà hàng",
+        "example": "レストランで<ruby>夕<rt>ゆう</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn tối ở nhà hàng.)",
+        "image": "resutoran_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "あるいて",
+        "kanji": "",
+        "meaning": "Đi bộ",
+        "example": "<ruby>駅<rt>えき</rt></ruby>まで<ruby>歩<rt>ある</rt></ruby>いて<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi bộ đến nhà ga.)",
+        "image": "aruite_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "しんかんせん",
+        "kanji": "新幹線",
+        "meaning": "Tàu siêu tốc",
+        "example": "<ruby>新幹線<rt>しんかんせん</rt></ruby>で<ruby>東京<rt>とうきょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi Tokyo bằng tàu siêu tốc.)",
+        "image": "shinkansen_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "ちかてつ",
+        "kanji": "地下鉄",
+        "meaning": "Tàu điện ngầm",
+        "example": "<ruby>地下鉄<rt>ちかてつ</rt></ruby>で<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi làm bằng tàu điện ngầm.)",
+        "image": "chikatetsu_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "じてんしゃ",
+        "kanji": "自転車",
+        "meaning": "Xe đạp",
+        "example": "<ruby>自転車<rt>じてんしゃ</rt></ruby>で<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi công viên bằng xe đạp.)",
+        "image": "jitensha_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "でんしゃ",
+        "kanji": "電車",
+        "meaning": "Xe điện",
+        "example": "<ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>学校<rt>がっこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi học bằng xe điện.)",
+        "image": "densha_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "ひこうき",
+        "kanji": "飛行機",
+        "meaning": "Máy bay",
+        "example": "<ruby>飛行機<rt>ひこうき</rt></ruby>で<ruby>国<rt>くに</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>ります。 (Tôi về nước bằng máy bay.)",
+        "image": "hikouki_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "タクシー",
+        "kanji": "",
+        "meaning": "Taxi",
+        "example": "タクシーで<ruby>駅<rt>えき</rt></ruby>まで<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi đến nhà ga bằng taxi.)",
+        "image": "takushii_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "バイク",
+        "kanji": "",
+        "meaning": "Xe máy",
+        "example": "バイクで<ruby>会社<rt>かいしゃ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi làm bằng xe máy.)",
+        "image": "baiku_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "バス",
+        "kanji": "",
+        "meaning": "Xe buýt",
+        "example": "バスで<ruby>図書館<rt>としょかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi thư viện bằng xe buýt.)",
+        "image": "basu_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "かぞく",
+        "kanji": "家族",
+        "meaning": "Gia đình",
+        "example": "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi công viên với gia đình.)",
+        "image": "kazoku_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "ともだち",
+        "kanji": "友達",
+        "meaning": "Bạn bè",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。 (Tôi xem phim với bạn bè.)",
+        "image": "tomodachi_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "どうりょう",
+        "kanji": "同僚",
+        "meaning": "Đồng nghiệp",
+        "example": "<ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>食事<rt>しょくじ</rt></ruby>をします。 (Tôi ăn cơm với đồng nghiệp.)",
+        "image": "douryou_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "こいびと",
+        "kanji": "恋人",
+        "meaning": "Người yêu",
+        "example": "<ruby>恋人<rt>こいびと</rt></ruby>と<ruby>デート<rt>deeto</rt></ruby>します。 (Tôi hẹn hò với người yêu.)",
+        "image": "koibito_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "ひとりで",
+        "kanji": "一人で",
+        "meaning": "Một mình",
+        "example": "ひとりで<ruby>旅行<rt>りょこう</rt></ruby>します。 (Tôi đi du lịch một mình.)",
+        "image": "hitoride_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "せんしゅう",
+        "kanji": "先週",
+        "meaning": "Tuần trước",
+        "example": "<ruby>先週<rt>せんしゅう</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しかったです。 (Tuần trước tôi bận.)",
+        "image": "senshuu_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "こんしゅう",
+        "kanji": "今週",
+        "meaning": "Tuần này",
+        "example": "<ruby>今週<rt>こんしゅう</rt></ruby>は<ruby>試験<rt>しけん</rt></ruby>があります。 (Tuần này tôi có bài kiểm tra.)",
+        "image": "konshuu_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "らいしゅう",
+        "kanji": "来週",
+        "meaning": "Tuần sau",
+        "example": "<ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>旅行<rt>りょこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tuần sau tôi đi du lịch.)",
+        "image": "raishuu_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "まいしゅう",
+        "kanji": "毎週",
+        "meaning": "Mỗi tuần",
+        "example": "<ruby>毎週<rt>まいしゅう</rt></ruby>テニスをします。 (Mỗi tuần tôi chơi tennis.)",
+        "image": "maishuu_N5_bai_1.png"
+    },
+    {
+        "index": 33,
+        "word": "せんげつ",
+        "kanji": "先月",
+        "meaning": "Tháng trước",
+        "example": "<ruby>先月<rt>せんげつ</rt></ruby>は<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 (Tháng trước tôi đã đi Kyoto.)",
+        "image": "sengetsu_N5_bai_1.png"
+    },
+    {
+        "index": 34,
+        "word": "こんげつ",
+        "kanji": "今月",
+        "meaning": "Tháng này",
+        "example": "<ruby>今月<rt>こんげつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいです。 (Tháng này tôi bận.)",
+        "image": "kongetsu_N5_bai_1.png"
+    },
+    {
+        "index": 35,
+        "word": "らいげつ",
+        "kanji": "来月",
+        "meaning": "Tháng sau",
+        "example": "<ruby>来月<rt>らいげつ</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>の<ruby>結婚式<rt>けっこんしき</rt></ruby>があります。 (Tháng sau tôi có đám cưới của bạn.)",
+        "image": "raigetsu_N5_bai_1.png"
+    },
+    {
+        "index": 36,
+        "word": "まいつき",
+        "kanji": "毎月",
+        "meaning": "Mỗi tháng",
+        "example": "<ruby>毎月<rt>まいつき</rt></ruby>、<ruby>貯金<rt>ちょきん</rt></ruby>をします。 (Mỗi tháng tôi tiết kiệm tiền.)",
+        "image": "maitsuki_N5_bai_1.png"
+    },
+    {
+        "index": 37,
+        "word": "きょねん",
+        "kanji": "去年",
+        "meaning": "Năm trước",
+        "example": "<ruby>去年<rt>きょねん</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。 (Năm ngoái tôi đã đi Nhật Bản.)",
+        "image": "kyonen_N5_bai_1.png"
+    },
+    {
+        "index": 38,
+        "word": "ことし",
+        "kanji": "今年",
+        "meaning": "Năm nay",
+        "example": "<ruby>今年<rt>ことし</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいです。 (Năm nay tôi bận.)",
+        "image": "kotoshi_N5_bai_1.png"
+    },
+    {
+        "index": 39,
+        "word": "らいねん",
+        "kanji": "来年",
+        "meaning": "Năm sau",
+        "example": "<ruby>来年<rt>らいねん</rt></ruby>は<ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>します。 (Năm sau tôi tốt nghiệp đại học.)",
+        "image": "rainen_N5_bai_1.png"
+    },
+    {
+        "index": 40,
+        "word": "まいとし/まいねん",
+        "kanji": "毎年",
+        "meaning": "Mỗi năm",
+        "example": "<ruby>毎年<rt>まいとし</rt></ruby>、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>します。 (Mỗi năm tôi đi du lịch với gia đình.)",
+        "image": "maitoshi_N5_bai_1.png"
+    }
+]

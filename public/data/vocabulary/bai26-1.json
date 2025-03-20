@@ -1,0 +1,234 @@
+[
+    {
+        "index": 1,
+        "word": "うまれます",
+        "kanji": "生まれます",
+        "meaning": "Được sinh ra",
+        "example": "<ruby>日本<rt>にほん</rt></ruby>で<ruby>生<rt>う</rt></ruby>まれました。 (Tôi được sinh ra ở Nhật Bản.)",
+        "image": "umaremasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "かぶります",
+        "kanji": "",
+        "meaning": "Đội (nón, mũ)",
+        "example": "<ruby>帽子<rt>ぼうし</rt></ruby>をかぶります。 (Tôi đội mũ.)",
+        "image": "kaburimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "はきます",
+        "kanji": "",
+        "meaning": "Mặc (quần, váy...)/Đi (tất, giày...)",
+        "example": "<ruby>靴<rt>くつ</rt></ruby>をはきます。 (Tôi đi giày.)",
+        "image": "hakimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "おろします",
+        "kanji": "下ろします",
+        "meaning": "Rút (tiền)",
+        "example": "<ruby>銀行<rt>ぎんこう</rt></ruby>でお<ruby>金<rt>かね</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろします。 (Tôi rút tiền ở ngân hàng.)",
+        "image": "oroshimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "まなびます",
+        "kanji": "学びます",
+        "meaning": "Học",
+        "example": "<ruby>大学<rt>だいがく</rt></ruby>で<ruby>経済<rt>けいざい</rt></ruby>を<ruby>学<rt>まな</rt></ruby>びます。 (Tôi học kinh tế ở đại học.)",
+        "image": "manabimasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "いります",
+        "kanji": "要ります",
+        "meaning": "Cần",
+        "example": "<ruby>ビザ<rt>biza</rt></ruby>が<ruby>要<rt>い</rt></ruby>ります。 (Cần visa.)",
+        "image": "irimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "やくにたちます",
+        "kanji": "役に立ちます",
+        "meaning": "Có ích",
+        "example": "<ruby>経験<rt>けいけん</rt></ruby>が<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>ちます。 (Kinh nghiệm có ích.)",
+        "image": "yaku_ni_tachimasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "こうこう",
+        "kanji": "高校",
+        "meaning": "Trường cấp 3",
+        "example": "<ruby>高校<rt>こうこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>しました。 (Tôi đã tốt nghiệp cấp 3.)",
+        "image": "koukou_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "スタッフ",
+        "kanji": "",
+        "meaning": "Nhân viên",
+        "example": "スタッフが<ruby>案内<rt>あんない</rt></ruby>します。 (Nhân viên sẽ hướng dẫn.)",
+        "image": "sutaffu_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "しゅじん/おっと",
+        "kanji": "主人/夫",
+        "meaning": "Chồng",
+        "example": "<ruby>主人<rt>しゅじん</rt></ruby>が<ruby>料理<rt>りょうり</rt></ruby>をします。 (Chồng tôi nấu ăn.)",
+        "image": "shujin_otto_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "ひきだし",
+        "kanji": "引き出し",
+        "meaning": "Ngăn kéo",
+        "example": "<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しに<ruby>書類<rt>しょるい</rt></ruby>があります。 (Có tài liệu trong ngăn kéo.)",
+        "image": "hikidashi_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "ばしょ",
+        "kanji": "場所",
+        "meaning": "Nơi, địa điểm, chỗ",
+        "example": "<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。 (Hãy chỉ cho tôi địa điểm.)",
+        "image": "basho_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "カタログ",
+        "kanji": "",
+        "meaning": "Cuốn tranh ảnh giới thiệu sản phẩm",
+        "example": "カタログを<ruby>見<rt>み</rt></ruby>ます。 (Tôi xem catalog.)",
+        "image": "katarogu_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "アプリ",
+        "kanji": "",
+        "meaning": "Ứng dụng",
+        "example": "アプリを<ruby>使<rt>つか</rt></ruby>います。 (Tôi sử dụng ứng dụng.)",
+        "image": "apuri_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "おもちゃ",
+        "kanji": "",
+        "meaning": "Đồ chơi",
+        "example": "おもちゃで<ruby>遊<rt>あそ</rt></ruby>びます。 (Tôi chơi đồ chơi.)",
+        "image": "omocha_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "しょうひん",
+        "kanji": "商品",
+        "meaning": "Sản phẩm",
+        "example": "<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>します。 (Tôi giới thiệu sản phẩm.)",
+        "image": "shouhin_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "きねんび",
+        "kanji": "記念日",
+        "meaning": "Ngày kỉ niệm",
+        "example": "<ruby>記念日<rt>きねんび</rt></ruby>を<ruby>祝<rt>いわ</rt></ruby>います。 (Tôi chúc mừng ngày kỷ niệm.)",
+        "image": "kinenbi_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "もくひょう",
+        "kanji": "目標",
+        "meaning": "Mục tiêu",
+        "example": "<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>します。 (Tôi đạt được mục tiêu.)",
+        "image": "mokuhyou_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "むりょう",
+        "kanji": "無料",
+        "meaning": "Miễn phí",
+        "example": "<ruby>無料<rt>むりょう</rt></ruby>で<ruby>使<rt>つか</rt></ruby>えます。 (Có thể sử dụng miễn phí.)",
+        "image": "muryou_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "セーター",
+        "kanji": "",
+        "meaning": "Áo len",
+        "example": "セーターを<ruby>着<rt>き</rt></ruby>ます。 (Tôi mặc áo len.)",
+        "image": "seetaa_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "いつでも",
+        "kanji": "",
+        "meaning": "Bất cứ khi nào",
+        "example": "いつでも<ruby>来<rt>き</rt></ruby>てください。 (Hãy đến bất cứ khi nào.)",
+        "image": "itsudemo_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "どこでも",
+        "kanji": "",
+        "meaning": "Bất kỳ đâu",
+        "example": "どこでも<ruby>行<rt>い</rt></ruby>けます。 (Có thể đi bất kỳ đâu.)",
+        "image": "dokodemo_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "~ともうします",
+        "kanji": "",
+        "meaning": "Tên tôi là ...",
+        "example": "田中と<ruby>申<rt>もう</rt></ruby>します。 (Tên tôi là Tanaka.)",
+        "image": "to_moushimasu_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "ああ",
+        "kanji": "",
+        "meaning": "À, a",
+        "example": "ああ、そうですか。 (À, vậy à.)",
+        "image": "aa_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "えーと",
+        "kanji": "",
+        "meaning": "Ừm, xem nào (câu đệm)",
+        "example": "えーと、<ruby>次<rt>つぎ</rt></ruby>は... (Ừm, tiếp theo là...)",
+        "image": "eeto_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "わがしゃ",
+        "kanji": "我が社",
+        "meaning": "Công ty chúng tôi",
+        "example": "<ruby>我<rt>わ</rt></ruby>が<ruby>社<rt>しゃ</rt></ruby>の<ruby>製品<rt>せいひん</rt></ruby>です。 (Đây là sản phẩm của công ty chúng tôi.)",
+        "image": "wagasha_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "げんざいのしじょう",
+        "kanji": "現在の市場",
+        "meaning": "Thị trường hiện nay",
+        "example": "<ruby>現在<rt>げんざい</rt></ruby>の<ruby>市場<rt>しじょう</rt></ruby>について<ruby>話<rt>はな</rt></ruby>します。 (Tôi nói chuyện về thị trường hiện nay.)",
+        "image": "genzai_no_shijou_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "にんきがあります",
+        "kanji": "人気があります",
+        "meaning": "Được yêu thích",
+        "example": "<ruby>人気<rt>にんき</rt></ruby>があります。 (Được yêu thích.)",
+        "image": "ninki_ga_arimasu_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "しょうかいします",
+        "kanji": "紹介します",
+        "meaning": "Giới thiệu",
+        "example": "<ruby>自己紹介<rt>じこしょうかい</rt></ruby>します。 (Tôi tự giới thiệu.)",
+        "image": "shoukai_shimasu_N5_bai_1.png"
+    }
+]

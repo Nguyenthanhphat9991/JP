@@ -1,0 +1,122 @@
+[
+    {
+        "index": 1,
+        "word": "しゅうりします",
+        "kanji": "修理します",
+        "meaning": "Sửa chữa",
+        "example": "<ruby>パソコン<rt>pasokon</rt></ruby>を<ruby>修理<rt>しゅうり</rt></ruby>します。 (Tôi sửa máy tính.)",
+        "image": "shuuri_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "きみ",
+        "kanji": "君",
+        "meaning": "Em (gọi thân mật)",
+        "example": "<ruby>君<rt>きみ</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか。 (Em là ai?)",
+        "image": "kimi_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "ぼく",
+        "kanji": "僕",
+        "meaning": "Tôi, tớ (con trai xưng hô)",
+        "example": "<ruby>僕<rt>ぼく</rt></ruby>は<ruby>学生<rt>がくせい</rt></ruby>です。 (Tớ là học sinh.)",
+        "image": "boku_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "~くん",
+        "kanji": "~君",
+        "meaning": "Cậu, bạn - (gọi con trai)",
+        "example": "田中<ruby>君<rt>たなかくん</rt></ruby>。 (Bạn Tanaka.)",
+        "image": "kun_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "~ちゃん",
+        "kanji": "",
+        "meaning": "Bạn, em - (gọi bé gái)",
+        "example": "花子<ruby>ちゃん<rt>はなこちゃん</rt></ruby>。 (Bé Hanako.)",
+        "image": "chan_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "ぎおんまつり",
+        "kanji": "祇園祭",
+        "meaning": "Lễ hội Gion",
+        "example": "<ruby>祇園祭<rt>ぎおんまつり</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi lễ hội Gion.)",
+        "image": "gion_matsuri_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "かぶき",
+        "kanji": "歌舞伎",
+        "meaning": "Kịch Kabuki",
+        "example": "<ruby>歌舞伎<rt>かぶき</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。 (Tôi xem kịch Kabuki.)",
+        "image": "kabuki_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "ドイツ",
+        "kanji": "",
+        "meaning": "Đức",
+        "example": "ドイツへ<ruby>行<rt>い</rt></ruby>きたいです。 (Tôi muốn đi Đức.)",
+        "image": "doitsu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "ラーメン",
+        "kanji": "",
+        "meaning": "Mì ramen",
+        "example": "ラーメンを<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn mì ramen.)",
+        "image": "raamen_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "そば",
+        "kanji": "",
+        "meaning": "Mỳ soba",
+        "example": "そばを<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn mì soba.)",
+        "image": "soba_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "つまらない",
+        "kanji": "",
+        "meaning": "Chán, nhàm chán",
+        "example": "つまらない<ruby>映画<rt>えいが</rt></ruby>でした。 (Bộ phim chán.)",
+        "image": "tsumaranai_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "うん",
+        "kanji": "",
+        "meaning": "Ừ, ừm",
+        "example": "うん、わかった。 (Ừ, tớ hiểu rồi.)",
+        "image": "un_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "ううん",
+        "kanji": "",
+        "meaning": "Không",
+        "example": "ううん、ちがうよ。 (Không, không phải đâu.)",
+        "image": "uun_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "それに",
+        "kanji": "",
+        "meaning": "Thêm nữa, hơn nữa",
+        "example": "それに、<ruby>時間<rt>じかん</rt></ruby>がない。 (Thêm nữa, tớ không có thời gian.)",
+        "image": "sore_ni_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "~けど",
+        "kanji": "",
+        "meaning": "~ nhưng mà",
+        "example": "<ruby>行<rt>い</rt></ruby>きたいけど、<ruby>忙<rt>いそが</rt></ruby>しいです。 (Tớ muốn đi nhưng mà bận.)",
+        "image": "kedo_N5_bai_1.png"
+    }
+]

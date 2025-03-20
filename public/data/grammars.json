@@ -1,0 +1,39 @@
+[
+    {
+      "title": "～てもいいですか？",
+      "formula": "Động từ thể て + もいいですか？",
+      "usage": [
+        "Dùng để xin phép làm một việc gì đó.",
+        "Người nghe có thể trả lời bằng 「はい、いいです」hoặc「いいえ、だめです」."
+      ],
+      "examples": [
+        {
+          "question": "ここでたばこを吸ってもいいですか？",
+          "translation": "Tôi có thể hút thuốc ở đây không?"
+        },
+        {
+          "answer": "いいえ、ここでは吸ってはいけません。",
+          "translation": "Không, ở đây không được hút thuốc."
+        }
+      ]
+    },
+    {
+      "title": "～なければなりません",
+      "formula": "Động từ thể ない (bỏ い) + なければなりません",
+      "usage": [
+        "Diễn tả sự bắt buộc phải làm một việc gì đó.",
+        "Dùng trong văn nói lịch sự."
+      ],
+      "examples": [
+        {
+          "question": "毎日勉強しなければなりません。",
+          "translation": "Tôi phải học mỗi ngày."
+        },
+        {
+          "answer": "仕事に行かなければなりません。",
+          "translation": "Tôi phải đi làm."
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "question_text": "<ruby>言います<rt>いいます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Nghe",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Nói",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Nhìn",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Đọc",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question_text": "<ruby>心配します<rt>しんぱいします</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Vui vẻ",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Lo lắng",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Ngạc nhiên",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Hạnh phúc",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question_text": "<ruby>捨てます<rt>すてます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Giữ",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Vứt",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tìm",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Mua",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question_text": "<ruby>無くします<rt>なくします</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Tìm thấy",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Làm mất",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Nhớ",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Quên",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question_text": "<ruby>騒ぎます<rt>さわぎます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Yên tĩnh",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Làm ồn",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Khóc",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Cười",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question_text": "<ruby>忘れます<rt>わすれます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Nhớ",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Quên",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Biết",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Học",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question_text": "<ruby>字<rt>じ</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Số",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Chữ",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Bức tranh",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Âm nhạc",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question_text": "<ruby>資料<rt>しりょう</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Sách",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Tài liệu",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Báo",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tạp chí",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question_text": "<ruby>返事<rt>へんじ</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Câu hỏi",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Hồi đáp",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tin nhắn",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Cuộc gọi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question_text": "<ruby>風邪<rt>かぜ</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đau bụng",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Cảm",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Đau đầu",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Sốt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question_text": "アレルギー có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Bệnh tim",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Dị ứng",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Bệnh gan",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Bệnh thận",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question_text": "<ruby>気分<rt>きぶん</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Thời tiết",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Tâm trạng, tình thần",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Sức khỏe",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Thức ăn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question_text": "<ruby>熱<rt>ねつ</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đau đầu",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Sốt",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Đau bụng",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Ho",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question_text": "<ruby>便秘<rt>べんぴ</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Tiêu chảy",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Táo bón",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Đau dạ dày",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Khó tiêu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question_text": "<ruby>咳<rt>せき</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Sổ mũi",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Ho",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Hắt hơi",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Khó thở",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question_text": "<ruby>痒い<rt>かゆい</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đau",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Ngứa",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Rát",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tê",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question_text": "おなか có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đầu",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Bụng",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tay",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Chân",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question_text": "のど có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Mũi",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Họng",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tai",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Miệng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question_text": "<ruby>夜遅く<rt>よるおそく</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Buổi sáng sớm",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Tối khuya, tối muộn",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Buổi trưa",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Buổi chiều",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question_text": "これから có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Hôm qua",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Sau đây, từ giờ trở đi",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Ngày mai",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Hôm nay",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question_text": "なかなか〜ない có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Thường xuyên",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Mãi mà không -",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Luôn luôn",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Đôi khi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question_text": "まだ có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Rồi",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Chưa",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Đã",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Xong",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question_text": "どうしましたか có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Bạn khỏe không?",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Cậu sao thế? (hỏi người khác)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Bạn có muốn gì không?",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Bạn đi đâu vậy?",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question_text": "どうしたのかな có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Tôi khỏe không?",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Có chuyện gì thế nhỉ? (tự hỏi)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tôi có muốn gì không?",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tôi đi đâu vậy?",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question_text": "<ruby>お大事に<rt>おだいじに</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Cảm ơn",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Chú ý giữ gìn sức khỏe",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Xin chào",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tạm biệt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Nói = ____",
+    "correct_answer": "いいます/言います"
+  },
+  {
+    "id": 27,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Lo lắng = ____",
+    "correct_answer": "しんぱいします/心配します"
+  },
+  {
+    "id": 28,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Vứt = ____",
+    "correct_answer": "すてます/捨てます"
+  },
+  {
+    "id": 29,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Làm mất = ____",
+    "correct_answer": "なくします/無くします"
+  },
+  {
+    "id": 30,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Làm ồn = ____",
+    "correct_answer": "さわぎます/騒ぎます"
+  },
+  {
+    "id": 31,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Quên = ____",
+    "correct_answer": "わすれます/忘れます"
+  },
+  {
+    "id": 32,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Chữ = ____",
+    "correct_answer": "じ/字"
+  },
+  {
+    "id": 33,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Tài liệu = ____",
+    "correct_answer": "しりょう/資料"
+  },
+  {
+    "id": 34,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Hồi đáp = ____",
+    "correct_answer": "へんじ/返事"
+  },
+  {
+    "id": 35,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Cảm = ____",
+    "correct_answer": "かぜ/風邪"
+  },
+  {
+    "id": 36,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Dị ứng = ____",
+    "correct_answer": "アレルギー"
+  },
+  {
+    "id": 37,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Tâm trạng, tình thần (tốt/xấu) = ____",
+    "correct_answer": "きぶん/気分"
+  },
+  {
+    "id": 38,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Sốt = ____",
+    "correct_answer": "ねつ/熱/ねつがあります/熱があります"
+  },
+  {
+    "id": 39,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Táo bón = ____",
+    "correct_answer": "べんぴ/便秘/べんぴをします/便秘をします"
+  },
+  {
+    "id": 40,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Ho = ____",
+    "correct_answer": "せき/咳/せきがでます/咳が出ます/せきをします/咳をします"
+  },
+  {
+    "id": 41,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Ngứa = ____",
+    "correct_answer": "かゆい/痒い"
+  },
+  {
+    "id": 42,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Bụng = ____",
+    "correct_answer": "おなか"
+  },
+  {
+    "id": 43,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Họng = ____",
+    "correct_answer": "のど"
+  },
+  {
+    "id": 44,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Tối khuya, tối muộn = ____",
+    "correct_answer": "よるおそく/夜遅く"
+  },
+  {
+    "id": 45,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Sau đây, từ giờ trở đi = ____",
+    "correct_answer": "これから"
+  },
+  {
+    "id": 46,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Mãi mà không - = ____",
+    "correct_answer": "なかなか〜ない"
+  },
+  {
+    "id": 47,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Chưa = ____",
+    "correct_answer": "まだ"
+  },
+  {
+    "id": 48,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Cậu sao thế? (hỏi người khác) = ____",
+    "correct_answer": "どうしましたか"
+  },
+  {
+    "id": 49,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Có chuyện gì thế nhỉ? (tự hỏi) = ____",
+    "correct_answer": "どうしたのかな"
+  },
+  {
+    "id": 50,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Chú ý giữ gìn sức khỏe = ____",
+    "correct_answer": "おだいじに/お大事に"
+  }
+]

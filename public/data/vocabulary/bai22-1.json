@@ -1,0 +1,194 @@
+[
+    {
+        "index": 1,
+        "word": "てんげんをきります",
+        "kanji": "電源を切ります",
+        "meaning": "Ngắt, tắt (nguồn điện)",
+        "example": "<ruby>電源<rt>てんげん</rt></ruby>を<ruby>切<rt>き</rt></ruby>ります。 (Tôi tắt nguồn điện.)",
+        "image": "tengen_o_kirimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "みせます",
+        "kanji": "見せます",
+        "meaning": "Cho xem",
+        "example": "<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せます。 (Tôi cho xem ảnh.)",
+        "image": "misemasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "のせます",
+        "kanji": "載せます",
+        "meaning": "Chất lên (xe)",
+        "example": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>車<rt>くるま</rt></ruby>に<ruby>載<rt>の</rt></ruby>せます。 (Tôi chất hành lý lên xe.)",
+        "image": "nosemasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "ぬぎます",
+        "kanji": "脱ぎます",
+        "meaning": "Cởi",
+        "example": "<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぎます。 (Tôi cởi giày.)",
+        "image": "nugimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "ざんぎょうします",
+        "kanji": "残業します",
+        "meaning": "Làm thêm giờ",
+        "example": "<ruby>残業<rt>ざんぎょう</rt></ruby>します。 (Tôi làm thêm giờ.)",
+        "image": "zangyou_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "しゅっちょうします",
+        "kanji": "出張します",
+        "meaning": "Đi công tác",
+        "example": "<ruby>出張<rt>しゅっちょう</rt></ruby>します。 (Tôi đi công tác.)",
+        "image": "shucchou_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "わたします",
+        "kanji": "渡します",
+        "meaning": "Trao, đưa",
+        "example": "<ruby>書類<rt>しょるい</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>します。 (Tôi đưa tài liệu.)",
+        "image": "watashimasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "かえします",
+        "kanji": "返します",
+        "meaning": "Trả lại",
+        "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>します。 (Tôi trả lại sách.)",
+        "image": "kaeshimasu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "(シートベルトを)しめます",
+        "kanji": "(シートベルトを)締めます",
+        "meaning": "Thắt dây an toàn",
+        "example": "シートベルトを<ruby>締<rt>し</rt></ruby>めます。 (Tôi thắt dây an toàn.)",
+        "image": "shiito_beruto_o_shimemasu_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "あみだな",
+        "kanji": "網棚",
+        "meaning": "Giá để hành lý (trên xe ô tô, tàu...)",
+        "example": "<ruby>網棚<rt>あみだな</rt></ruby>に<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>置<rt>お</rt></ruby>きます。 (Tôi đặt hành lý lên giá để hành lý.)",
+        "image": "amidana_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "チップ",
+        "kanji": "",
+        "meaning": "Tiền boa, tiền tip",
+        "example": "チップを<ruby>渡<rt>わた</rt></ruby>します。 (Tôi đưa tiền tip.)",
+        "image": "chippu_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "てんげん",
+        "kanji": "電源",
+        "meaning": "Nguồn điện",
+        "example": "<ruby>電源<rt>てんげん</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。 (Tôi bật nguồn điện.)",
+        "image": "tengen_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "ロボット",
+        "kanji": "",
+        "meaning": "Robot",
+        "example": "ロボットが<ruby>働<rt>はたら</rt></ruby>きます。 (Robot làm việc.)",
+        "image": "robotto_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "しょうたいじょう",
+        "kanji": "招待状",
+        "meaning": "Thiệp mời",
+        "example": "<ruby>招待状<rt>しょうたいじょう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。 (Tôi gửi thiệp mời.)",
+        "image": "shoutaijou_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "せいふく",
+        "kanji": "制服",
+        "meaning": "Đồng phục",
+        "example": "<ruby>制服<rt>せいふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ます。 (Tôi mặc đồng phục.)",
+        "image": "seifuku_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "シャツ",
+        "kanji": "",
+        "meaning": "Áo sơ mi",
+        "example": "シャツを<ruby>着<rt>き</rt></ruby>ます。 (Tôi mặc áo sơ mi.)",
+        "image": "shatsu_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "したぎ",
+        "kanji": "下着",
+        "meaning": "Đồ lót",
+        "example": "<ruby>下着<rt>したぎ</rt></ruby>を<ruby>着<rt>き</rt></ruby>ます。 (Tôi mặc đồ lót.)",
+        "image": "shitagi_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "シートベルト",
+        "kanji": "",
+        "meaning": "Dây an toàn (xe ô tô)",
+        "example": "シートベルトを<ruby>締<rt>し</rt></ruby>めます。 (Tôi thắt dây an toàn.)",
+        "image": "shiito_beruto_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "スーツ",
+        "kanji": "",
+        "meaning": "Đồ vest",
+        "example": "スーツを<ruby>着<rt>き</rt></ruby>ます。 (Tôi mặc đồ vest.)",
+        "image": "suutsu_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "~までに",
+        "kanji": "",
+        "meaning": "Trước (thời hạn~)",
+        "example": "三<ruby>時<rt>じ</rt></ruby>までに<ruby>帰<rt>かえ</rt></ruby>ります。 (Tôi sẽ về trước 3 giờ.)",
+        "image": "made_ni_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "あとで",
+        "kanji": "後で",
+        "meaning": "Sau đó",
+        "example": "あとで<ruby>電話<rt>でんわ</rt></ruby>します。 (Tôi sẽ gọi điện thoại sau.)",
+        "image": "ato_de_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "しょうしょうおまちください",
+        "kanji": "少々お待ちください",
+        "meaning": "Xin hãy đợi một chút ạ.",
+        "example": "<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>待<rt>ま</rt></ruby>ちください。 (Xin hãy đợi một chút ạ.)",
+        "image": "shoushou_omachi_kudasai_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "いくらかな",
+        "kanji": "",
+        "meaning": "Bao nhiêu thì được nhỉ?",
+        "example": "いくらかな。 (Bao nhiêu thì được nhỉ?)",
+        "image": "ikura_kana_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "すきやばしじろう",
+        "kanji": "すきやばし次郎",
+        "meaning": "Tên quán sushi ở Nhật",
+        "example": "すきやばし<ruby>次郎<rt>じろう</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>寿司屋<rt>すしや</rt></ruby>です。 (Sukiyabashi Jiro là một quán sushi nổi tiếng.)",
+        "image": "sukiyabashi_jirou_N5_bai_1.png"
+    }
+]

@@ -47,8 +47,6 @@ const LessonDetail = () => {
 
 
     const course = courses.find(course => course.id === courseId);
-    console.log('categoryId', categoryId);
-    console.log('course?.categorys', course?.categorys);
     const category = course?.categorys.find(cat => cat.id === Number(categoryId));
 
     useEffect(() => {

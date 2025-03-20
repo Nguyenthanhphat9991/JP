@@ -1,0 +1,298 @@
+[
+    {
+        "index": 1,
+        "word": "ここ",
+        "kanji": "",
+        "meaning": "Ở đây, chỗ này",
+        "example": "ここは<ruby>図書館<rt>としょかん</rt></ruby>です。 (Đây là thư viện.)",
+        "image": "koko_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "そこ",
+        "kanji": "",
+        "meaning": "Ở đó, chỗ đó",
+        "example": "そこは<ruby>会議室<rt>かいぎしつ</rt></ruby>です。 (Đó là phòng họp.)",
+        "image": "soko_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "あそこ",
+        "kanji": "",
+        "meaning": "Ở kia, chỗ kia",
+        "example": "あそこに<ruby>病院<rt>びょういん</rt></ruby>があります。 (Ở kia có bệnh viện.)",
+        "image": "asoko_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "どこ",
+        "kanji": "",
+        "meaning": "Ở đâu?",
+        "example": "<ruby>トイレ<rt>といれ</rt></ruby>はどこですか。 (Nhà vệ sinh ở đâu?)",
+        "image": "doko_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "うけつけ",
+        "kanji": "受付",
+        "meaning": "Lễ tân",
+        "example": "<ruby>受付<rt>うけつけ</rt></ruby>は<ruby>二階<rt>にかい</rt></ruby>です。 (Lễ tân ở tầng hai.)",
+        "image": "uketsuke_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "かいぎしつ",
+        "kanji": "会議室",
+        "meaning": "Phòng họp",
+        "example": "<ruby>会議室<rt>かいぎしつ</rt></ruby>はあそこです。 (Phòng họp ở kia.)",
+        "image": "kaigishitsu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "きっさてん",
+        "kanji": "喫茶店",
+        "meaning": "Quán nước",
+        "example": "<ruby>喫茶店<rt>きっさてん</rt></ruby>でコーヒーを<ruby>飲<rt>の</rt></ruby>みます。 (Tôi uống cà phê ở quán nước.)",
+        "image": "kissaten_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "じどうはんばいき/じはんき",
+        "kanji": "自動販売機/自販機",
+        "meaning": "Máy bán hàng tự động",
+        "example": "<ruby>自動販売機<rt>じどうはんばいき</rt></ruby>でジュースを<ruby>買<rt>か</rt></ruby>います。 (Tôi mua nước trái cây ở máy bán hàng tự động.)",
+        "image": "jidouhanbaiki_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "じむしょ",
+        "kanji": "事務所",
+        "meaning": "Văn phòng",
+        "example": "<ruby>事務所<rt>じむしょ</rt></ruby>は<ruby>三階<rt>さんかい</rt></ruby>です。 (Văn phòng ở tầng ba.)",
+        "image": "jimusho_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "ATM (エーティーエム)",
+        "kanji": "",
+        "meaning": "ATM",
+        "example": "ATMで<ruby>お金<rt>おかね</rt></ruby>を<ruby>下<rt>お</rt></ruby>ろします。 (Tôi rút tiền ở ATM.)",
+        "image": "ATM_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "エスカレーター",
+        "kanji": "",
+        "meaning": "Thang cuốn",
+        "example": "エスカレーターで<ruby>上<rt>あ</rt></ruby>がります。 (Tôi đi lên bằng thang cuốn.)",
+        "image": "esukareetaa_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "エレベーター",
+        "kanji": "",
+        "meaning": "Thang máy",
+        "example": "エレベーターで<ruby>下<rt>お</rt></ruby>ります。 (Tôi đi xuống bằng thang máy.)",
+        "image": "erebeetaa_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "コンビニ",
+        "kanji": "",
+        "meaning": "Cửa hàng tiện lợi",
+        "example": "コンビニで<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。 (Tôi mua cơm hộp ở cửa hàng tiện lợi.)",
+        "image": "konbini_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "トイレ/おてあらい",
+        "kanji": "",
+        "meaning": "Nhà vệ sinh",
+        "example": "<ruby>トイレ<rt>といれ</rt></ruby>はどこですか。 (Nhà vệ sinh ở đâu?)",
+        "image": "toire_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "ロビー",
+        "kanji": "",
+        "meaning": "Sảnh",
+        "example": "ロビーで<ruby>待<rt>ま</rt></ruby>ちます。 (Tôi đợi ở sảnh.)",
+        "image": "robii_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "スーパー",
+        "kanji": "",
+        "meaning": "Siêu thị",
+        "example": "スーパーで<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。 (Tôi mua đồ ăn ở siêu thị.)",
+        "image": "suupaa_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "ちか",
+        "kanji": "地下",
+        "meaning": "Tầng hầm",
+        "example": "<ruby>地下<rt>ちか</rt></ruby>に<ruby>食堂<rt>しょくどう</rt></ruby>があります。 (Có nhà ăn ở tầng hầm.)",
+        "image": "chika_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "しょくどう",
+        "kanji": "食堂",
+        "meaning": "Nhà ăn",
+        "example": "<ruby>食堂<rt>しょくどう</rt></ruby>で<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn trưa ở nhà ăn.)",
+        "image": "shokudou_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "くつ",
+        "kanji": "靴",
+        "meaning": "Giày",
+        "example": "<ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>きます。 (Tôi đi giày.)",
+        "image": "kutsu_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "ネクタイ",
+        "kanji": "",
+        "meaning": "Cà vạt",
+        "example": "ネクタイをします。 (Tôi đeo cà vạt.)",
+        "image": "nekutai_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "からあげ",
+        "kanji": "",
+        "meaning": "Gà rán",
+        "example": "からあげを<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn gà rán.)",
+        "image": "karaage_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "こうちゃ",
+        "kanji": "紅茶",
+        "meaning": "Hồng trà",
+        "example": "<ruby>紅茶<rt>こうちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みます。 (Tôi uống hồng trà.)",
+        "image": "koucha_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "べんとう/おべんとう",
+        "kanji": "弁当",
+        "meaning": "Cơm hộp",
+        "example": "お<ruby>弁当<rt>べんとう</rt></ruby>を<ruby>買<rt>か</rt></ruby>います。 (Tôi mua cơm hộp.)",
+        "image": "bentou_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "カレー",
+        "kanji": "",
+        "meaning": "Cà ri",
+        "example": "カレーライスを<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn cơm cà ri.)",
+        "image": "karee_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "サンドイッチ",
+        "kanji": "",
+        "meaning": "Sandwich",
+        "example": "サンドイッチを<ruby>作<rt>つく</rt></ruby>ります。 (Tôi làm bánh sandwich.)",
+        "image": "sandoitchi_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "ケーキ",
+        "kanji": "",
+        "meaning": "Bánh ngọt",
+        "example": "ケーキを<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn bánh ngọt.)",
+        "image": "keeki_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "パン",
+        "kanji": "",
+        "meaning": "Bánh mì",
+        "example": "パンを<ruby>焼<rt>や</rt></ruby>きます。 (Tôi nướng bánh mì.)",
+        "image": "pan_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "ライス",
+        "kanji": "",
+        "meaning": "Cơm",
+        "example": "ライスを<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn cơm.)",
+        "image": "raisu_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "ワイン",
+        "kanji": "",
+        "meaning": "Rượu vang",
+        "example": "ワインを<ruby>飲<rt>の</rt></ruby>みます。 (Tôi uống rượu vang.)",
+        "image": "wain_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "いくら",
+        "kanji": "",
+        "meaning": "Bao nhiêu tiền?",
+        "example": "これはいくらですか。 (Cái này bao nhiêu tiền?)",
+        "image": "ikura_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "~えん",
+        "kanji": "~円",
+        "meaning": "~ yên",
+        "example": "1000<ruby>円<rt>えん</rt></ruby>です。 (1000 yên.)",
+        "image": "en_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "いらっしゃいませ",
+        "kanji": "",
+        "meaning": "Chào mừng quý khách!",
+        "example": "いらっしゃいませ、どうぞ。 (Chào mừng quý khách, xin mời vào.)",
+        "image": "irasshaimase_N5_bai_1.png"
+    },
+    {
+        "index": 33,
+        "word": "すみません",
+        "kanji": "",
+        "meaning": "Xin lỗi!",
+        "example": "すみません、<ruby>道<rt>みち</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。 (Xin lỗi, hãy chỉ đường cho tôi.)",
+        "image": "sumimasen_N5_bai_1.png"
+    },
+    {
+        "index": 34,
+        "word": "ちゅうもん、おねがいします",
+        "kanji": "注文",
+        "meaning": "Cho tôi đặt món",
+        "example": "<ruby>注文<rt>ちゅうもん</rt></ruby>、おねがいします。 (Cho tôi đặt món.)",
+        "image": "chuumon_N5_bai_1.png"
+    },
+    {
+        "index": 35,
+        "word": "どうぞ",
+        "kanji": "",
+        "meaning": "Xin mời!",
+        "example": "どうぞお<ruby>入<rt>はい</rt></ruby>りください。 (Xin mời vào.)",
+        "image": "douzo_N5_bai_1.png"
+    },
+    {
+        "index": 36,
+        "word": "おかいけいは~です",
+        "kanji": "会計",
+        "meaning": "Của quý khách hết ... (tiền)",
+        "example": "お<ruby>会計<rt>かいけい</rt></ruby>は1500<ruby>円<rt>えん</rt></ruby>です。 (Của quý khách hết 1500 yên.)",
+        "image": "okaikei_N5_bai_1.png"
+    },
+    {
+        "index": 37,
+        "word": "~でおねがいします",
+        "kanji": "願い",
+        "meaning": "Cho tôi gửi ... (tiền)",
+        "example": "1000<ruby>円<rt>えん</rt></ruby>で、お<ruby>願<rt>ねが</rt></ruby>いします。 (Cho tôi gửi 1000 yên.)",
+        "image": "onegaishimasu_N5_bai_1.png"
+    }
+]

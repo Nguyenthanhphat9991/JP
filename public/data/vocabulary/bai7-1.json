@@ -1,0 +1,258 @@
+[
+    {
+        "index": 1,
+        "word": "います",
+        "kanji": "",
+        "meaning": "Có (người/động vật)",
+        "example": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>がいます。 (Trong phòng có con mèo.)",
+        "image": "imasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "あります",
+        "kanji": "",
+        "meaning": "Có (thực vật/đồ vật)",
+        "example": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。 (Trên bàn có quyển sách.)",
+        "image": "arimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "やー(など)",
+        "kanji": "",
+        "meaning": "Và... (vân vân)",
+        "example": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>や<ruby>鉛筆<rt>えんぴつ</rt></ruby>などがあります。 (Trên bàn có sách, bút chì, vân vân.)",
+        "image": "ya_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "きょうしつ",
+        "kanji": "教室",
+        "meaning": "Lớp học",
+        "example": "<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>学生<rt>がくせい</rt></ruby>がいます。 (Trong lớp học có học sinh.)",
+        "image": "kyoushitsu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "バスてい",
+        "kanji": "バス停",
+        "meaning": "Trạm xe buýt",
+        "example": "バス<ruby>停<rt>てい</rt></ruby>に人がいます。 (Ở trạm xe buýt có người.)",
+        "image": "basutei_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "まち",
+        "kanji": "",
+        "meaning": "Phố, thành phố",
+        "example": "<ruby>町<rt>まち</rt></ruby>に<ruby>店<rt>みせ</rt></ruby>がたくさんあります。 (Trong thành phố có nhiều cửa hàng.)",
+        "image": "machi_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "ビル",
+        "kanji": "",
+        "meaning": "Tòa nhà",
+        "example": "ビルの<ruby>中<rt>なか</rt></ruby>に<ruby>会社<rt>かいしゃ</rt></ruby>があります。 (Trong tòa nhà có công ty.)",
+        "image": "biru_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "へや",
+        "kanji": "部屋",
+        "meaning": "Căn phòng",
+        "example": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>ベッド<rt>beddo</rt></ruby>があります。 (Trong phòng có giường.)",
+        "image": "heya_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "うえ",
+        "kanji": "上",
+        "meaning": "Trên",
+        "example": "<ruby>棚<rt>たな</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。 (Trên kệ có sách.)",
+        "image": "ue_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "あいだ",
+        "kanji": "間",
+        "meaning": "Ở giữa",
+        "example": "<ruby>机<rt>つくえ</rt></ruby>と<ruby>椅子<rt>いす</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>がいます。 (Ở giữa bàn và ghế có con mèo.)",
+        "image": "aida_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "ひだり",
+        "kanji": "左",
+        "meaning": "Bên trái",
+        "example": "<ruby>左<rt>ひだり</rt></ruby>に<ruby>木<rt>き</rt></ruby>があります。 (Bên trái có cái cây.)",
+        "image": "hidari_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "みぎ",
+        "kanji": "右",
+        "meaning": "Bên phải",
+        "example": "<ruby>右<rt>みぎ</rt></ruby>に<ruby>建物<rt>たてもの</rt></ruby>があります。 (Bên phải có tòa nhà.)",
+        "image": "migi_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "した",
+        "kanji": "下",
+        "meaning": "Dưới",
+        "example": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>がいます。 (Dưới bàn có con mèo.)",
+        "image": "shita_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "うしろ",
+        "kanji": "後ろ",
+        "meaning": "Sau",
+        "example": "<ruby>建物<rt>たてもの</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろに<ruby>公園<rt>こうえん</rt></ruby>があります。 (Sau tòa nhà có công viên.)",
+        "image": "ushiro_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "ちかく",
+        "kanji": "近く",
+        "meaning": "Gần",
+        "example": "<ruby>駅<rt>えき</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>くに<ruby>スーパー<rt>suupaa</rt></ruby>があります。 (Gần nhà ga có siêu thị.)",
+        "image": "chikaku_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "となり",
+        "kanji": "隣",
+        "meaning": "Bên cạnh",
+        "example": "<ruby>家<rt>うち</rt></ruby>の<ruby>隣<rt>となり</rt></ruby>に<ruby>公園<rt>こうえん</rt></ruby>があります。 (Bên cạnh nhà tôi có công viên.)",
+        "image": "tonari_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "まえ",
+        "kanji": "前",
+        "meaning": "Trước",
+        "example": "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>にバス<ruby>停<rt>てい</rt></ruby>があります。 (Trước nhà ga có trạm xe buýt.)",
+        "image": "mae_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "なか",
+        "kanji": "中",
+        "meaning": "Trong",
+        "example": "<ruby>箱<rt>はこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>プレゼント<rt>purezento</rt></ruby>があります。 (Trong hộp có quà.)",
+        "image": "naka_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "そと",
+        "kanji": "外",
+        "meaning": "Bên ngoài",
+        "example": "<ruby>家<rt>うち</rt></ruby>の<ruby>外<rt>そと</rt></ruby>に<ruby>犬<rt>いぬ</rt></ruby>がいます。 (Bên ngoài nhà có con chó.)",
+        "image": "soto_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "いんかん",
+        "kanji": "印鑑",
+        "meaning": "Con dấu",
+        "example": "<ruby>印鑑<rt>いんかん</rt></ruby>は<ruby>どこ<rt>doko</rt></ruby>にありますか。 (Con dấu ở đâu?)",
+        "image": "inkan_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "クレジットカード",
+        "kanji": "",
+        "meaning": "Thẻ tín dụng",
+        "example": "クレジットカードを<ruby>使<rt>つか</rt></ruby>えますか。 (Có thể dùng thẻ tín dụng không?)",
+        "image": "kurejitto_kaado_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "かね/おかね",
+        "kanji": "お金",
+        "meaning": "Tiền",
+        "example": "<ruby>お金<rt>おかね</rt></ruby>がありません。 (Tôi không có tiền.)",
+        "image": "okane_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "たべもの",
+        "kanji": "食べ物",
+        "meaning": "Đồ ăn",
+        "example": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べ<ruby>物<rt>もの</rt></ruby>があります。 (Trong tủ lạnh có đồ ăn.)",
+        "image": "tabemono_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "のみもの",
+        "kanji": "飲み物",
+        "meaning": "Đồ uống",
+        "example": "<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>は<ruby>何<rt>なに</rt></ruby>がありますか。 (Có những đồ uống gì?)",
+        "image": "nomimono_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "はこ",
+        "kanji": "箱",
+        "meaning": "Hộp",
+        "example": "<ruby>箱<rt>はこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>何<rt>なに</rt></ruby>がありますか。 (Trong hộp có gì?)",
+        "image": "hako_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "パスポート",
+        "kanji": "",
+        "meaning": "Hộ chiếu",
+        "example": "パスポートを<ruby>忘<rt>わす</rt></ruby>れました。 (Tôi quên hộ chiếu.)",
+        "image": "pasupooto_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "れいぞうこ",
+        "kanji": "冷蔵庫",
+        "meaning": "Tủ lạnh",
+        "example": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>に<ruby>ビール<rt>biiru</rt></ruby>があります。 (Trong tủ lạnh có bia.)",
+        "image": "reizouko_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "ベッド",
+        "kanji": "",
+        "meaning": "Giường",
+        "example": "ベッドの<ruby>上<rt>うえ</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>がいます。 (Trên giường có con mèo.)",
+        "image": "beddo_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "たな",
+        "kanji": "棚",
+        "meaning": "Kệ, giá",
+        "example": "<ruby>棚<rt>たな</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。 (Trên kệ có sách.)",
+        "image": "tana_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "いぬ",
+        "kanji": "犬",
+        "meaning": "Chó",
+        "example": "<ruby>公園<rt>こうえん</rt></ruby>に<ruby>犬<rt>いぬ</rt></ruby>がいます。 (Trong công viên có con chó.)",
+        "image": "inu_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "ねこ",
+        "kanji": "猫",
+        "meaning": "Mèo",
+        "example": "<ruby>家<rt>うち</rt></ruby>に<ruby>猫<rt>ねこ</rt></ruby>がいます。 (Trong nhà có con mèo.)",
+        "image": "neko_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "き",
+        "kanji": "木",
+        "meaning": "Cây",
+        "example": "<ruby>公園<rt>こうえん</rt></ruby>に<ruby>木<rt>き</rt></ruby>があります。 (Trong công viên có cây.)",
+        "image": "ki_N5_bai_1.png"
+    }
+]

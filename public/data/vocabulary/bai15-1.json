@@ -1,0 +1,194 @@
+[
+    {
+        "index": 1,
+        "word": "ほしい",
+        "kanji": "欲しい",
+        "meaning": "Muốn",
+        "example": "<ruby>新<rt>あたら</rt></ruby>しい<ruby>車<rt>くるま</rt></ruby>が<ruby>欲<rt>ほ</rt></ruby>しいです。 (Tôi muốn một chiếc xe mới.)",
+        "image": "hoshii_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "あそびます",
+        "kanji": "遊びます",
+        "meaning": "Chơi",
+        "example": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>遊<rt>あそ</rt></ruby>びます。 (Tôi chơi ở công viên.)",
+        "image": "asobimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "あびます",
+        "kanji": "浴びます",
+        "meaning": "Tắm",
+        "example": "シャワーを<ruby>浴<rt>あ</rt></ruby>びます。 (Tôi tắm vòi sen.)",
+        "image": "abimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "けっこんします",
+        "kanji": "結婚します",
+        "meaning": "Kết hôn",
+        "example": "<ruby>来年<rt>らいねん</rt></ruby>、<ruby>結婚<rt>けっこん</rt></ruby>します。 (Tôi sẽ kết hôn vào năm sau.)",
+        "image": "kekkon_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "むかえます",
+        "kanji": "迎えます",
+        "meaning": "Đón",
+        "example": "<ruby>駅<rt>えき</rt></ruby>で<ruby>友達<rt>ともだち</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えます。 (Tôi đón bạn ở nhà ga.)",
+        "image": "mukaemasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "しょくじします",
+        "kanji": "食事します",
+        "meaning": "Dùng bữa",
+        "example": "<ruby>レストラン<rt>resutoran</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>します。 (Tôi ăn ở nhà hàng.)",
+        "image": "shokuji_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "じゅぎょう",
+        "kanji": "授業",
+        "meaning": "Giờ học",
+        "example": "<ruby>授業<rt>じゅぎょう</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まります。 (Giờ học bắt đầu.)",
+        "image": "jugyou_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "さいふ",
+        "kanji": "財布",
+        "meaning": "Ví",
+        "example": "<ruby>財布<rt>さいふ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れました。 (Tôi quên ví.)",
+        "image": "saifu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "シャワー",
+        "kanji": "",
+        "meaning": "Vòi hoa sen",
+        "example": "シャワーを<ruby>浴<rt>あ</rt></ruby>びます。 (Tôi tắm vòi sen.)",
+        "image": "shawaa_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "スキー",
+        "kanji": "",
+        "meaning": "Trượt tuyết",
+        "example": "スキーをします。 (Tôi trượt tuyết.)",
+        "image": "sukii_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "テニス",
+        "kanji": "",
+        "meaning": "Tennis",
+        "example": "テニスをします。 (Tôi chơi tennis.)",
+        "image": "tenisu_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "つり",
+        "kanji": "釣り",
+        "meaning": "Câu cá",
+        "example": "<ruby>釣<rt>つ</rt></ruby>りをします。 (Tôi câu cá.)",
+        "image": "tsuri_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "ぶんか",
+        "kanji": "文化",
+        "meaning": "Văn hóa",
+        "example": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học văn hóa Nhật Bản.)",
+        "image": "bunka_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "せいかつ",
+        "kanji": "生活",
+        "meaning": "Cuộc sống",
+        "example": "<ruby>日本<rt>にほん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>したいです。 (Tôi muốn sống ở Nhật Bản.)",
+        "image": "seikatsu_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "デート",
+        "kanji": "",
+        "meaning": "Hẹn hò",
+        "example": "デートをします。 (Tôi đi hẹn hò.)",
+        "image": "deeto_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "つぎ",
+        "kanji": "次",
+        "meaning": "Tiếp theo",
+        "example": "<ruby>次<rt>つぎ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。 (Tiếp theo chúng ta làm gì?)",
+        "image": "tsugi_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "あまい",
+        "kanji": "甘い",
+        "meaning": "Ngọt",
+        "example": "<ruby>甘<rt>あま</rt></ruby>い<ruby>ケーキ<rt>keeki</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。 (Tôi thích bánh ngọt.)",
+        "image": "amai_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "やきそば",
+        "kanji": "焼きそば",
+        "meaning": "Mỳ soba xào",
+        "example": "<ruby>焼<rt>や</rt></ruby>きそばを<ruby>作<rt>つく</rt></ruby>ります。 (Tôi làm mỳ soba xào.)",
+        "image": "yakisoba_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "つかれました",
+        "kanji": "疲れました",
+        "meaning": "Tôi mệt rồi.",
+        "example": "<ruby>疲<rt>つか</rt></ruby>れました。 (Tôi mệt rồi.)",
+        "image": "tsukaremashita_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "のどがかわきました",
+        "kanji": "喉が渇きました",
+        "meaning": "Tôi khát.",
+        "example": "<ruby>喉<rt>のど</rt></ruby>が<ruby>渇<rt>かわ</rt></ruby>きました。 (Tôi khát.)",
+        "image": "nodo_ga_kawakimashita_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "おなかがすきました",
+        "kanji": "お腹が空きました",
+        "meaning": "Tôi đói.",
+        "example": "<ruby>お腹<rt>なか</rt></ruby>が<ruby>空<rt>す</rt></ruby>きました。 (Tôi đói.)",
+        "image": "onaka_ga_sukimashita_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "おなかがいっぱいです",
+        "kanji": "お腹がいっぱいです",
+        "meaning": "Tôi no rồi.",
+        "example": "<ruby>お腹<rt>なか</rt></ruby>が<ruby>いっぱい</rt>です。 (Tôi no rồi.)",
+        "image": "onaka_ga_ippai_desu_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "ちょっと",
+        "kanji": "",
+        "meaning": "Một chút",
+        "example": "ちょっと<ruby>待<rt>ま</rt></ruby>ってください。 (Xin hãy đợi một chút.)",
+        "image": "chotto_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "またこんどね",
+        "kanji": "また今度ね",
+        "meaning": "Hẹn gặp lại lần sau.",
+        "example": "また<ruby>今度<rt>こんど</rt></ruby>ね。 (Hẹn gặp lại lần sau nhé.)",
+        "image": "mata_kondo_ne_N5_bai_1.png"
+    }
+]

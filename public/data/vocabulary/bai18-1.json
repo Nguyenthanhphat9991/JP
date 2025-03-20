@@ -1,0 +1,290 @@
+[
+    {
+        "index": 1,
+        "word": "あらいます",
+        "kanji": "洗います",
+        "meaning": "Rửa",
+        "example": "<ruby>手<rt>て</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。 (Tôi rửa tay.)",
+        "image": "araimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "おします",
+        "kanji": "押します",
+        "meaning": "Ấn, nhấn",
+        "example": "ボタンを<ruby>押<rt>お</rt></ruby>します。 (Tôi nhấn nút.)",
+        "image": "oshimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "おふろにはいります",
+        "kanji": "お風呂に入ります",
+        "meaning": "Tắm bồn",
+        "example": "<ruby>お風呂<rt>おふろ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。 (Tôi tắm bồn.)",
+        "image": "ofuro_ni_hairimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "きます",
+        "kanji": "着ます",
+        "meaning": "Mặc (đồ)",
+        "example": "<ruby>服<rt>ふく</rt></ruby>を<ruby>着<rt>き</rt></ruby>ます。 (Tôi mặc quần áo.)",
+        "image": "kimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "つれていきます",
+        "kanji": "連れて行きます",
+        "meaning": "Đưa đi",
+        "example": "<ruby>子供<rt>こども</rt></ruby>を<ruby>公園<rt>こうえん</rt></ruby>へ<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>きます。 (Tôi đưa con đến công viên.)",
+        "image": "tsurete_ikimasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "つれてきます",
+        "kanji": "連れて来ます",
+        "meaning": "Đưa đến",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>を<ruby>家<rt>いえ</rt></ruby>に<ruby>連<rt>つ</rt></ruby>れて<ruby>来<rt>き</rt></ruby>ます。 (Tôi đưa bạn đến nhà.)",
+        "image": "tsurete_kimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "ならべます",
+        "kanji": "並べます",
+        "meaning": "Sắp xếp",
+        "example": "<ruby>椅子<rt>いす</rt></ruby>を<ruby>並<rt>なら</rt></ruby>べます。 (Tôi sắp xếp ghế.)",
+        "image": "narabemasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "のります",
+        "kanji": "乗ります",
+        "meaning": "Lên (xe)",
+        "example": "<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>ります。 (Tôi lên tàu điện.)",
+        "image": "norimasu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "はらいます",
+        "kanji": "払います",
+        "meaning": "Trả tiền",
+        "example": "<ruby>お金<rt>おかね</rt></ruby>を<ruby>払<rt>はら</rt></ruby>います。 (Tôi trả tiền.)",
+        "image": "haraimasu_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "みがきます",
+        "kanji": "磨きます",
+        "meaning": "Đánh, chải",
+        "example": "<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>きます。 (Tôi đánh răng.)",
+        "image": "migakimasu_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "(みずが)でます",
+        "kanji": "(水が)出ます",
+        "meaning": "(Nước) ra, xuất hiện",
+        "example": "<ruby>水<rt>みず</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。 (Nước chảy ra.)",
+        "image": "mizu_ga_demasu_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "よやくします",
+        "kanji": "予約します",
+        "meaning": "Đặt trước",
+        "example": "<ruby>レストラン<rt>resutoran</rt></ruby>を<ruby>予約<rt>よやく</rt></ruby>します。 (Tôi đặt bàn nhà hàng.)",
+        "image": "yoyaku_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "わたります",
+        "kanji": "渡ります",
+        "meaning": "Băng qua",
+        "example": "<ruby>橋<rt>はし</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>ります。 (Tôi băng qua cầu.)",
+        "image": "watarimasu_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "あんしょうばんごう",
+        "kanji": "暗証番号",
+        "meaning": "Mật khẩu",
+        "example": "<ruby>暗証番号<rt>あんしょうばんごう</rt></ruby>を<ruby>入力<rt>にゅうりょく</rt></ruby>します。 (Tôi nhập mật khẩu.)",
+        "image": "anshou_bangou_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "かど",
+        "kanji": "角",
+        "meaning": "Ngã rẽ",
+        "example": "<ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がります。 (Rẽ phải ở góc.)",
+        "image": "kado_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "きゅうりょう",
+        "kanji": "給料",
+        "meaning": "Tiền lương",
+        "example": "<ruby>給料<rt>きゅうりょう</rt></ruby>を<ruby>もらい</rt>ます。 (Tôi nhận lương.)",
+        "image": "kyuuryou_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "ゲーム",
+        "kanji": "",
+        "meaning": "Game",
+        "example": "ゲームをします。 (Tôi chơi game.)",
+        "image": "geemu_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "こうさてん",
+        "kanji": "交差点",
+        "meaning": "Giao lộ",
+        "example": "<ruby>交差点<rt>こうさてん</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>ります。 (Tôi băng qua giao lộ.)",
+        "image": "kousaten_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "りょう",
+        "kanji": "寮",
+        "meaning": "Kí túc xá",
+        "example": "<ruby>寮<rt>りょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。 (Tôi sống ở ký túc xá.)",
+        "image": "ryou_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "ボタン",
+        "kanji": "",
+        "meaning": "Nút",
+        "example": "ボタンを<ruby>押<rt>お</rt></ruby>します。 (Tôi nhấn nút.)",
+        "image": "botan_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "きんがく",
+        "kanji": "金額",
+        "meaning": "Số tiền",
+        "example": "<ruby>金額<rt>きんがく</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>します。 (Tôi xác nhận số tiền.)",
+        "image": "kingaku_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "こくばん",
+        "kanji": "黒板",
+        "meaning": "Bảng",
+        "example": "<ruby>黒板<rt>こくばん</rt></ruby>に<ruby>書<rt>か</rt></ruby>きます。 (Tôi viết lên bảng.)",
+        "image": "kokuban_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "かお",
+        "kanji": "顔",
+        "meaning": "Khuôn mặt",
+        "example": "<ruby>顔<rt>かお</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>います。 (Tôi rửa mặt.)",
+        "image": "kao_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "ボトル",
+        "kanji": "",
+        "meaning": "Chai",
+        "example": "ボトルを<ruby>開<rt>あ</rt></ruby>けます。 (Tôi mở chai.)",
+        "image": "botoru_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "かるい",
+        "kanji": "軽い",
+        "meaning": "Nhẹ",
+        "example": "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>軽<rt>かる</rt></ruby>いです。 (Hành lý nhẹ.)",
+        "image": "karui_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "あかるい",
+        "kanji": "明るい",
+        "meaning": "Tươi sáng, sáng sủa",
+        "example": "<ruby>部屋<rt>へや</rt></ruby>が<ruby>明<rt>あか</rt></ruby>るいです。 (Phòng sáng sủa.)",
+        "image": "akarui_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "かっこいい",
+        "kanji": "",
+        "meaning": "Đẹp, ngầu",
+        "example": "かっこいい<ruby>車<rt>くるま</rt></ruby>です。 (Chiếc xe ngầu.)",
+        "image": "kakkoii_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "わかい",
+        "kanji": "若い",
+        "meaning": "Trẻ",
+        "example": "<ruby>若<rt>わか</rt></ruby>い<ruby>人<rt>ひと</rt></ruby>です。 (Người trẻ.)",
+        "image": "wakai_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "かわいい",
+        "kanji": "可愛い",
+        "meaning": "Đáng yêu",
+        "example": "かわいい<ruby>猫<rt>ねこ</rt></ruby>です。 (Con mèo đáng yêu.)",
+        "image": "kawaii_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "ねっしん",
+        "kanji": "熱心",
+        "meaning": "Nhiệt tình",
+        "example": "<ruby>熱心<rt>ねっしん</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học tập nhiệt tình.)",
+        "image": "nesshin_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "まじめ",
+        "kanji": "真面目",
+        "meaning": "Nghiêm túc, chăm chỉ",
+        "example": "<ruby>真面目<rt>まじめ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>です。 (Người chăm chỉ.)",
+        "image": "majime_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "まっすぐ",
+        "kanji": "",
+        "meaning": "Thẳng",
+        "example": "まっすぐ<ruby>行<rt>い</rt></ruby>きます。 (Đi thẳng.)",
+        "image": "massugu_N5_bai_1.png"
+    },
+    {
+        "index": 33,
+        "word": "まず",
+        "kanji": "",
+        "meaning": "Đầu tiên",
+        "example": "まず、<ruby>自己紹介<rt>じこしょうかい</rt></ruby>をします。 (Đầu tiên, tôi tự giới thiệu.)",
+        "image": "mazu_N5_bai_1.png"
+    },
+    {
+        "index": 34,
+        "word": "どうやって",
+        "kanji": "",
+        "meaning": "Như thế nào?",
+        "example": "どうやって<ruby>行<rt>い</rt></ruby>きますか。 (Đi bằng cách nào?)",
+        "image": "dou_yatte_N5_bai_1.png"
+    },
+    {
+        "index": 35,
+        "word": "~め",
+        "kanji": "",
+        "meaning": "~ thứ",
+        "example": "二<ruby>回<rt>かい</rt></ruby><ruby>目<rt>め</rt></ruby>です。 (Lần thứ hai.)",
+        "image": "me_N5_bai_1.png"
+    },
+    {
+        "index": 36,
+        "word": "~に いきたいんですが",
+        "kanji": "",
+        "meaning": "Tôi muốn đi đến ~",
+        "example": "<ruby>駅<rt>えき</rt></ruby>に<ruby>行<rt>い</rt></ruby>きたいんですが。 (Tôi muốn đi đến nhà ga.)",
+        "image": "ni_ikitain_desu_ga_N5_bai_1.png"
+    }
+]

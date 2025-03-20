@@ -1,0 +1,50 @@
+body {
+    background-color: #f8f9fa;
+    font-family: "Noto Sans JP", sans-serif;
+}
+
+.grammar-card {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.grammar-card:hover {
+    transform: scale(1.02);
+}
+
+.section-title {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.formula, .usage, .example {
+    background: #fffaf0;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.example:hover {
+    background: #fff3e0;
+}
+
+.icon {
+    font-size: 18px;
+    margin-right: 8px;
+}
+
+.japanese-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1a237e;
+}
+
+.translation {
+    font-style: italic;
+    color: #6c757d;
+}

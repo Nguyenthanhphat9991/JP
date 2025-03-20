@@ -1,0 +1,306 @@
+[
+    {
+        "index": 1,
+        "word": "すき",
+        "kanji": "好き",
+        "meaning": "Thích",
+        "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>猫<rt>ねこ</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。 (Tôi thích mèo.)",
+        "image": "suki_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "きらい",
+        "kanji": "嫌い",
+        "meaning": "Ghét",
+        "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>虫<rt>むし</rt></ruby>が<ruby>嫌<rt>きら</rt></ruby>いです。 (Tôi ghét côn trùng.)",
+        "image": "kirai_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "すてき",
+        "kanji": "素敵",
+        "meaning": "Tuyệt vời",
+        "example": "あの<ruby>ドレス<rt>doresu</rt></ruby>は<ruby>素敵<rt>すてき</rt></ruby>です。 (Chiếc váy đó thật tuyệt vời.)",
+        "image": "suteki_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "じょうず",
+        "kanji": "上手",
+        "meaning": "Giỏi",
+        "example": "<ruby>彼<rt>かれ</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>です。 (Anh ấy nấu ăn giỏi.)",
+        "image": "jouzu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "へた",
+        "kanji": "下手",
+        "meaning": "Kém",
+        "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>歌<rt>うた</rt></ruby>が<ruby>下手<rt>へた</rt></ruby>です。 (Tôi hát kém.)",
+        "image": "heta_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "とくい",
+        "kanji": "得意",
+        "meaning": "Giỏi, điểm mạnh",
+        "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>数学<rt>すうがく</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>です。 (Toán học là điểm mạnh của tôi.)",
+        "image": "tokui_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "にがて",
+        "kanji": "苦手",
+        "meaning": "Kém, điểm yếu",
+        "example": "<ruby>私<rt>わたし</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>です。 (Tiếng Anh là điểm yếu của tôi.)",
+        "image": "nigate_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "あまいもの",
+        "kanji": "甘い物",
+        "meaning": "Đồ ngọt",
+        "example": "<ruby>甘<rt>あま</rt></ruby>い<ruby>物<rt>もの</rt></ruby>が<ruby>好<rt>す</rt></ruby>きです。 (Tôi thích đồ ngọt.)",
+        "image": "amai_mono_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "おにぎらず",
+        "kanji": "おにぎらず",
+        "meaning": "Cơm cuộn",
+        "example": "おにぎらずを<ruby>作<rt>つく</rt></ruby>ります。 (Tôi làm cơm cuộn.)",
+        "image": "onigirazu_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "しょくじ",
+        "kanji": "食事",
+        "meaning": "Bữa ăn, dùng bữa",
+        "example": "<ruby>食事<rt>しょくじ</rt></ruby>をしましょう。 (Chúng ta cùng ăn nhé.)",
+        "image": "shokuji_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "え",
+        "kanji": "絵",
+        "meaning": "Tranh, hội họa",
+        "example": "<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>か</rt></ruby>きます。 (Tôi vẽ tranh.)",
+        "image": "e_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "うた",
+        "kanji": "歌",
+        "meaning": "Bài hát",
+        "example": "<ruby>歌<rt>うた</rt></ruby>を<ruby>歌<rt>うた</rt></ruby>います。 (Tôi hát.)",
+        "image": "uta_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "ダンス",
+        "kanji": "",
+        "meaning": "Nhảy",
+        "example": "ダンスをします。 (Tôi nhảy.)",
+        "image": "dansu_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "すうがく",
+        "kanji": "数学",
+        "meaning": "Số học, toán",
+        "example": "<ruby>数学<rt>すうがく</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học toán.)",
+        "image": "suugaku_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "りょこう",
+        "kanji": "旅行",
+        "meaning": "Du lịch",
+        "example": "<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi du lịch.)",
+        "image": "ryokou_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "スポーツ",
+        "kanji": "",
+        "meaning": "Thể thao",
+        "example": "スポーツをします。 (Tôi chơi thể thao.)",
+        "image": "supootsu_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "すいえい",
+        "kanji": "水泳",
+        "meaning": "Bơi lội",
+        "example": "<ruby>水泳<rt>すいえい</rt></ruby>をします。 (Tôi bơi.)",
+        "image": "suiei_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "すもう",
+        "kanji": "",
+        "meaning": "Sumo",
+        "example": "すもうを<ruby>見<rt>み</rt></ruby>ます。 (Tôi xem sumo.)",
+        "image": "sumou_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "やきゅう",
+        "kanji": "野球",
+        "meaning": "Bóng chày",
+        "example": "<ruby>野球<rt>やきゅう</rt></ruby>をします。 (Tôi chơi bóng chày.)",
+        "image": "yakyuu_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "おくれます",
+        "kanji": "遅れます",
+        "meaning": "Đến muộn",
+        "example": "<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れます。 (Tàu đến muộn.)",
+        "image": "okuremasu_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "つくります",
+        "kanji": "作ります",
+        "meaning": "Làm, nấu...",
+        "example": "<ruby>料理<rt>りょうり</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。 (Tôi nấu ăn.)",
+        "image": "tsukurimasu_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "わかります",
+        "kanji": "分かります",
+        "meaning": "Hiểu, biết",
+        "example": "<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かります。 (Tôi hiểu tiếng Nhật.)",
+        "image": "wakarimasu_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "~かた/(よみかた, つくりかた)",
+        "kanji": "方/(読み方, 作り方)",
+        "meaning": "Cách - (cách đọc, cách làm)",
+        "example": "<ruby>漢字<rt>かんじ</rt></ruby>の<ruby>読<rt>よ</rt></ruby>み<ruby>方<rt>かた</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。 (Hãy chỉ cho tôi cách đọc chữ Kanji.)",
+        "image": "kata_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "よく",
+        "kanji": "",
+        "meaning": "Rõ, kỹ",
+        "example": "よく<ruby>分<rt>わ</rt></ruby>かりません。 (Tôi không hiểu rõ lắm.)",
+        "image": "yoku_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "だいたい",
+        "kanji": "",
+        "meaning": "Đại khái",
+        "example": "だいたい<ruby>分<rt>わ</rt></ruby>かります。 (Tôi hiểu đại khái.)",
+        "image": "daitai_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "すこし",
+        "kanji": "少し",
+        "meaning": "Một chút, hơi",
+        "example": "<ruby>少<rt>すこ</rt></ruby>し<ruby>疲<rt>つか</rt></ruby>れました。 (Tôi hơi mệt.)",
+        "image": "sukoshi_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "ぜんぜん (~ない)",
+        "kanji": "全然 (~ない)",
+        "meaning": "Hoàn toàn (không)",
+        "example": "<ruby>全然<rt>ぜんぜん</rt></ruby>分<ruby>か<rt>わ</rt></ruby>かりません。 (Tôi hoàn toàn không hiểu.)",
+        "image": "zenzen_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "だいたい",
+        "kanji": "",
+        "meaning": "Đại khái",
+        "example": "だいたい<ruby>時間<rt>じかん</rt></ruby>は<ruby>分<rt>わ</rt></ruby>かります。 (Tôi biết đại khái thời gian.)",
+        "image": "daitai_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "やくそく",
+        "kanji": "約束",
+        "meaning": "Lời hứa",
+        "example": "<ruby>約束<rt>やくそく</rt></ruby>をしました。 (Tôi đã hứa.)",
+        "image": "yakusoku_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "ようじ",
+        "kanji": "用事",
+        "meaning": "Việc bận",
+        "example": "<ruby>用事<rt>ようじ</rt></ruby>があります。 (Tôi có việc bận.)",
+        "image": "youji_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "チケット",
+        "kanji": "",
+        "meaning": "Vé",
+        "example": "チケットを<ruby>買<rt>か</rt></ruby>いました。 (Tôi đã mua vé.)",
+        "image": "chiketto_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "どうして",
+        "kanji": "",
+        "meaning": "Tại sao",
+        "example": "どうしてですか。 (Tại sao vậy?)",
+        "image": "doushite_N5_bai_1.png"
+    },
+    {
+        "index": 33,
+        "word": "~から",
+        "kanji": "",
+        "meaning": "Vì...",
+        "example": "<ruby>疲<rt>つか</rt></ruby>れたからです。 (Vì tôi mệt.)",
+        "image": "kara_N5_bai_1.png"
+    },
+    {
+        "index": 34,
+        "word": "どんな",
+        "kanji": "",
+        "meaning": "Loại nào, kiểu nào",
+        "example": "どんな<ruby>映画<rt>えいが</rt></ruby>ですか。 (Phim kiểu nào?)",
+        "image": "donna_N5_bai_1.png"
+    },
+    {
+        "index": 35,
+        "word": "えっと〜",
+        "kanji": "",
+        "meaning": "Um... (kéo dài thời gian suy nghĩ)",
+        "example": "えっと〜、<ruby>明日<rt>あした</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいです。 (Um... ngày mai tôi bận.)",
+        "image": "etto_N5_bai_1.png"
+    },
+    {
+        "index": 36,
+        "word": "いつか",
+        "kanji": "",
+        "meaning": "Lúc nào đó",
+        "example": "いつか<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きたいです。 (Tôi muốn đi Nhật Bản vào lúc nào đó.)",
+        "image": "itsuka_N5_bai_1.png"
+    },
+    {
+        "index": 37,
+        "word": "おまたせしました",
+        "kanji": "",
+        "meaning": "Đã để quý khách chờ lâu.",
+        "example": "お<ruby>待<rt>ま</rt></ruby>たせしました。 (Xin lỗi đã để quý khách chờ lâu.)",
+        "image": "omatase_shimashita_N5_bai_1.png"
+    },
+    {
+        "index": 38,
+        "word": "それはよかったです",
+        "kanji": "",
+        "meaning": "Thật tốt.",
+        "example": "それはよかったです。 (Thật tốt.)",
+        "image": "sore_wa_yokatta_desu_N5_bai_1.png"
+    }
+]

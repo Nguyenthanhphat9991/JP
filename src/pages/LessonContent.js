@@ -3,9 +3,10 @@ import { useParams, Link } from "react-router-dom";
 import { Tab, Tabs } from "react-bootstrap";
 import VocabularyFlashcards from "../components/VocabularyFlashcards";
 import './style.css';
+import Grammars from "../components/Grammars";
 
 const LessonContent = () => {
-    const { courseId, lessonId } = useParams();
+    const { courseId, lessonId, categoryId } = useParams();
     const [activeTab, setActiveTab] = useState("vocabulary");
 
     return (
@@ -26,7 +27,7 @@ const LessonContent = () => {
                     <Tab eventKey="vocabulary" title="Từ vựng">
                         <div className="d-flex justify-content-end mb-3">
                             <Link
-                                to={`/courses/${courseId}/categories/1/lessons/${lessonId}/quiz`}
+                                to={`/courses/${courseId}/categories/${categoryId}/lessons/${lessonId}/quiz`}
                                 className="btn btn-success"
                             >
                                 Ôn tập từ vựng
@@ -34,16 +35,13 @@ const LessonContent = () => {
                         </div>
                         <VocabularyFlashcards />
                     </Tab>
+                    <Tab eventKey="grammar" title="Ngữ pháp">
+                        <Grammars />
+                    </Tab>
                     <Tab eventKey="kanji" title="Kanji">
                         <div className="content-card shadow rounded-4 p-4 bg-white text-center">
                             <h2 className="text-secondary fw-bold">Kanji</h2>
                             <p className="lead text-muted">Danh sách chữ Hán sẽ hiển thị tại đây.</p>
-                        </div>
-                    </Tab>
-                    <Tab eventKey="grammar" title="Ngữ pháp">
-                        <div className="content-card shadow rounded-4 p-4 bg-white text-center">
-                            <h2 className="text-secondary fw-bold">Ngữ pháp</h2>
-                            <p className="lead text-muted">Các cấu trúc ngữ pháp sẽ hiển thị tại đây.</p>
                         </div>
                     </Tab>
                     <Tab eventKey="listening" title="Nghe hiểu">

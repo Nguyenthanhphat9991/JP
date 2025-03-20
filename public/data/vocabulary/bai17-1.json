@@ -1,0 +1,242 @@
+[
+    {
+        "index": 1,
+        "word": "いれます",
+        "kanji": "入れます",
+        "meaning": "Cho vào",
+        "example": "<ruby>コーヒー<rt>koohii</rt></ruby>に<ruby>砂糖<rt>さとう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。 (Tôi cho đường vào cà phê.)",
+        "image": "iremasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "おきます",
+        "kanji": "置きます",
+        "meaning": "Đặt, để",
+        "example": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>置<rt>お</rt></ruby>きます。 (Tôi đặt sách lên bàn.)",
+        "image": "okimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "かいます",
+        "kanji": "飼います",
+        "meaning": "Nuôi",
+        "example": "<ruby>猫<rt>ねこ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>っています。 (Tôi đang nuôi mèo.)",
+        "image": "kaimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "てつだいます",
+        "kanji": "手伝います",
+        "meaning": "Giúp",
+        "example": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>の<rt>no</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>います。 (Tôi giúp mang hành lý.)",
+        "image": "tetsudaimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "うんてんします",
+        "kanji": "運転します",
+        "meaning": "Lái",
+        "example": "<ruby>車<rt>くるま</rt></ruby>を<ruby>運転<rt>うんてん</rt></ruby>します。 (Tôi lái xe.)",
+        "image": "unten_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "さわります",
+        "kanji": "触ります",
+        "meaning": "Chạm",
+        "example": "ボタンに<ruby>触<rt>さわ</rt></ruby>ります。 (Tôi chạm vào nút.)",
+        "image": "sawarimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "いそぎます",
+        "kanji": "急ぎます",
+        "meaning": "Vội",
+        "example": "<ruby>急<rt>いそ</rt></ruby>いでください。 (Hãy nhanh lên.)",
+        "image": "isogimasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "はいります",
+        "kanji": "入ります",
+        "meaning": "Vào",
+        "example": "<ruby>部屋<rt>へや</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。 (Tôi vào phòng.)",
+        "image": "hairimasu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "でます",
+        "kanji": "出ます",
+        "meaning": "Ra",
+        "example": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>出<rt>で</rt></ruby>ます。 (Tôi ra khỏi phòng.)",
+        "image": "demasu_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "はしります",
+        "kanji": "走ります",
+        "meaning": "Chạy",
+        "example": "<ruby>道<rt>みち</rt></ruby>を<ruby>走<rt>はし</rt></ruby>ります。 (Tôi chạy trên đường.)",
+        "image": "hashirimasu_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "まがります",
+        "kanji": "曲がります",
+        "meaning": "Quẹo, rẽ",
+        "example": "<ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がります。 (Tôi rẽ phải ở góc.)",
+        "image": "magarimasu_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "とめます",
+        "kanji": "止めます",
+        "meaning": "Dừng lại",
+        "example": "<ruby>車<rt>くるま</rt></ruby>を<ruby>止<rt>と</rt></ruby>めます。 (Tôi dừng xe.)",
+        "image": "tomemasu_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "とります",
+        "kanji": "取ります",
+        "meaning": "Lấy",
+        "example": "<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ります。 (Tôi chụp ảnh.)",
+        "image": "torimasu_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "あけます",
+        "kanji": "開けます",
+        "meaning": "Mở",
+        "example": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けます。 (Tôi mở cửa sổ.)",
+        "image": "akemasu_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "しめます",
+        "kanji": "閉めます",
+        "meaning": "Đóng",
+        "example": "<ruby>窓<rt>まど</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めます。 (Tôi đóng cửa sổ.)",
+        "image": "shimemasu_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "けします",
+        "kanji": "消します",
+        "meaning": "Tắt, xóa",
+        "example": "<ruby>電気<rt>でんき</rt></ruby>を<ruby>消<rt>け</rt></ruby>します。 (Tôi tắt điện.)",
+        "image": "keshimasu_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "つけます",
+        "kanji": "つけます",
+        "meaning": "Bật",
+        "example": "<ruby>電気<rt>でんき</rt></ruby>をつけます。 (Tôi bật điện.)",
+        "image": "tsukemasu_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "びょうき",
+        "kanji": "病気",
+        "meaning": "Bệnh, ốm",
+        "example": "<ruby>病気<rt>びょうき</rt></ruby>です。 (Tôi bị ốm.)",
+        "image": "byouki_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "でんき",
+        "kanji": "電気",
+        "meaning": "Điện",
+        "example": "<ruby>電気<rt>でんき</rt></ruby>をつけます。 (Tôi bật điện.)",
+        "image": "denki_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "しお",
+        "kanji": "塩",
+        "meaning": "Muối",
+        "example": "<ruby>塩<rt>しお</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>し<ruby>入<rt>い</rt></ruby>れます。 (Tôi cho một chút muối.)",
+        "image": "shio_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "さとう",
+        "kanji": "砂糖",
+        "meaning": "Đường",
+        "example": "<ruby>砂糖<rt>さとう</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。 (Tôi cho đường.)",
+        "image": "satou_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "びじゅつかん",
+        "kanji": "美術館",
+        "meaning": "Bảo tàng mỹ thuật",
+        "example": "<ruby>美術館<rt>びじゅつかん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi đến bảo tàng mỹ thuật.)",
+        "image": "bijutsukan_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "フリー",
+        "kanji": "",
+        "meaning": "Miễn phí",
+        "example": "フリーです。 (Miễn phí.)",
+        "image": "furii_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "にもつ",
+        "kanji": "荷物",
+        "meaning": "Hàng hóa",
+        "example": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。 (Tôi gửi hành lý.)",
+        "image": "nimotsu_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "かわ",
+        "kanji": "川",
+        "meaning": "Sông",
+        "example": "<ruby>川<rt>かわ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぎます。 (Tôi bơi ở sông.)",
+        "image": "kawa_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "こえ",
+        "kanji": "声",
+        "meaning": "Giọng nói",
+        "example": "<ruby>声<rt>こえ</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいです。 (Giọng nói lớn.)",
+        "image": "koe_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "アパート",
+        "kanji": "",
+        "meaning": "Căn hộ",
+        "example": "アパートに<ruby>住<rt>す</rt></ruby>んでいます。 (Tôi sống trong căn hộ.)",
+        "image": "apaato_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "しんごう",
+        "kanji": "信号",
+        "meaning": "Đèn tín hiệu",
+        "example": "<ruby>信号<rt>しんごう</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>です。 (Đèn tín hiệu màu đỏ.)",
+        "image": "shingou_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "だめ",
+        "kanji": "",
+        "meaning": "Không được",
+        "example": "だめです。 (Không được.)",
+        "image": "dame_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "あぶない",
+        "kanji": "危ない",
+        "meaning": "Nguy hiểm",
+        "example": "<ruby>危<rt>あぶ</rt></ruby>ないです。 (Nguy hiểm.)",
+        "image": "abunai_N5_bai_1.png"
+    }
+]

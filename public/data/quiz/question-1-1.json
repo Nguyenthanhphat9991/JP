@@ -2,31 +2,33 @@
     {
         "id": 1,
         "question_text": "あなた có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Tôi",
+                "answer_text": "Cái gì",
                 "is_correct": false
             },
             {
                 "id": 2,
-                "answer_text": "Bạn",
+                "answer_text": "Ai (lịch sự)",
                 "is_correct": true
             },
             {
                 "id": 3,
-                "answer_text": "Anh ấy",
+                "answer_text": "Ở đâu",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Cô ấy",
+                "answer_text": "Khi nào",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 2,
+        "type": "choice",
         "question_text": "<ruby>私<rt>わたし</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -53,6 +55,7 @@
     },
     {
         "id": 3,
+        "type": "choice",
         "question_text": "かのじょ có nghĩa là gì?",
         "answers": [
             {
@@ -79,6 +82,7 @@
     },
     {
         "id": 4,
+        "type": "choice",
         "question_text": "かれ có nghĩa là gì?",
         "answers": [
             {
@@ -105,6 +109,7 @@
     },
     {
         "id": 5,
+        "type": "choice",
         "question_text": "<ruby>人<rt>ひと</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -131,6 +136,7 @@
     },
     {
         "id": 6,
+        "type": "choice",
         "question_text": "~さん là gì?",
         "answers": [
             {
@@ -157,6 +163,7 @@
     },
     {
         "id": 7,
+        "type": "choice",
         "question_text": "<ruby>誰<rt>だれ</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -183,6 +190,7 @@
     },
     {
         "id": 8,
+        "type": "choice",
         "question_text": "<ruby>医者<rt>いしゃ</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -209,6 +217,7 @@
     },
     {
         "id": 9,
+        "type": "choice",
         "question_text": "<ruby>歌手<rt>かしゅ</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -235,6 +244,7 @@
     },
     {
         "id": 10,
+        "type": "choice",
         "question_text": "<ruby>学生<rt>がくせい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -261,6 +271,7 @@
     },
     {
         "id": 11,
+        "type": "choice",
         "question_text": "<ruby>先生<rt>せんせい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -287,6 +298,7 @@
     },
     {
         "id": 12,
+        "type": "choice",
         "question_text": "<ruby>教師<rt>きょうし</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -313,6 +325,7 @@
     },
     {
         "id": 13,
+        "type": "choice",
         "question_text": "<ruby>銀行員<rt>ぎんこういん</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -339,6 +352,7 @@
     },
     {
         "id": 14,
+        "type": "choice",
         "question_text": "<ruby>警察官<rt>けいさつかん</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -365,6 +379,7 @@
     },
     {
         "id": 15,
+        "type": "choice",
         "question_text": "<ruby>会社員<rt>かいしゃいん</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -391,6 +406,7 @@
     },
     {
         "id": 16,
+        "type": "choice",
         "question_text": "<ruby>社員<rt>しゃいん</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -417,6 +433,7 @@
     },
     {
         "id": 17,
+        "type": "choice",
         "question_text": "<ruby>留学生<rt>りゅうがくせい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -443,6 +460,7 @@
     },
     {
         "id": 18,
+        "type": "choice",
         "question_text": "ベトナム có nghĩa là gì?",
         "answers": [
             {
@@ -469,6 +487,7 @@
     },
     {
         "id": 19,
+        "type": "choice",
         "question_text": "<ruby>日本<rt>にほん</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -495,6 +514,7 @@
     },
     {
         "id": 20,
+        "type": "choice",
         "question_text": "<ruby>中国<rt>ちゅうごく</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -521,6 +541,7 @@
     },
     {
         "id": 21,
+        "type": "choice",
         "question_text": "<ruby>韓国<rt>かんこく</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -547,6 +568,7 @@
     },
     {
         "id": 22,
+        "type": "choice",
         "question_text": "アメリカ có nghĩa là gì?",
         "answers": [
             {
@@ -573,6 +595,7 @@
     },
     {
         "id": 23,
+        "type": "choice",
         "question_text": "<ruby>国<rt>くに</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -599,6 +622,7 @@
     },
     {
         "id": 24,
+        "type": "choice",
         "question_text": "<ruby>人<rt>じん</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -625,6 +649,7 @@
     },
     {
         "id": 25,
+        "type": "choice",
         "question_text": "<ruby>会社<rt>かいしゃ</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -651,6 +676,7 @@
     },
     {
         "id": 26,
+        "type": "choice",
         "question_text": "<ruby>学校<rt>がっこう</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -677,6 +703,7 @@
     },
     {
         "id": 27,
+        "type": "choice",
         "question_text": "<ruby>大学<rt>だいがく</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -703,6 +730,7 @@
     },
     {
         "id": 28,
+        "type": "choice",
         "question_text": "<ruby>病院<rt>びょういん</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -729,6 +757,7 @@
     },
     {
         "id": 29,
+        "type": "choice",
         "question_text": "はじめまして có nghĩa là gì?",
         "answers": [
             {
@@ -755,6 +784,7 @@
     },
     {
         "id": 30,
+        "type": "choice",
         "question_text": "~からきました có nghĩa là gì?",
         "answers": [
             {
@@ -781,6 +811,7 @@
     },
     {
         "id": 31,
+        "type": "choice",
         "question_text": "(どうぞ) よろしくおねがいします có nghĩa là gì?",
         "answers": [
             {
@@ -807,6 +838,7 @@
     },
     {
         "id": 32,
+        "type": "choice",
         "question_text": "しつれいですが có nghĩa là gì?",
         "answers": [
             {
@@ -833,6 +865,7 @@
     },
     {
         "id": 33,
+        "type": "choice",
         "question_text": "おなまえは có nghĩa là gì?",
         "answers": [
             {
@@ -859,6 +892,7 @@
     },
     {
         "id": 34,
+        "type": "choice",
         "question_text": "おしごとは có nghĩa là gì?",
         "answers": [
             {
@@ -885,6 +919,7 @@
     },
     {
         "id": 35,
+        "type": "choice",
         "question_text": "はい、そうです có nghĩa là gì?",
         "answers": [
             {
@@ -911,6 +946,7 @@
     },
     {
         "id": 36,
+        "type": "choice",
         "question_text": "いいえ、ちがいます có nghĩa là gì?",
         "answers": [
             {
@@ -937,6 +973,7 @@
     },
     {
         "id": 37,
+        "type": "choice",
         "question_text": "<ruby>方<rt>かた</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -964,6 +1001,7 @@
     {
         "id": 38,
         "question_text": "どなた có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -986,5 +1024,221 @@
                 "is_correct": false
             }
         ]
+    },
+    {
+        "id": 39,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bạn = ____",
+        "correct_answer": "あなた"
+    },
+    {
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tôi = ____",
+        "correct_answer": "わたし/私"
+    },
+    {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cô ấy = ____",
+        "correct_answer": "かのじょ/彼女"
+    },
+    {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Anh ấy = ____",
+        "correct_answer": "かれ/彼"
+    },
+    {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Người kia = ____",
+        "correct_answer": "あのひと/あのかた/人/方"
+    },
+    {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: ~ (hậu tố đặt sau tên) = ____",
+        "correct_answer": "~さん"
+    },
+    {
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ai = ____",
+        "correct_answer": "だれ/どなた/誰"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bác sĩ = ____",
+        "correct_answer": "いしゃ/医者"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ca sĩ = ____",
+        "correct_answer": "かしゅ/歌手"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Học sinh = ____",
+        "correct_answer": "がくせい/学生"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giáo viên (xưng hô) = ____",
+        "correct_answer": "せんせい/先生"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giáo viên = ____",
+        "correct_answer": "きょうし/教師"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhân viên ngân hàng = ____",
+        "correct_answer": "ぎんこういん/銀行員"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cảnh sát = ____",
+        "correct_answer": "けいさつかん/警察官"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhân viên công ty = ____",
+        "correct_answer": "かいしゃいん/会社員"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhân viên ~ (công ty) = ____",
+        "correct_answer": "~のしゃいん/社員"
+    },
+    {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Du học sinh = ____",
+        "correct_answer": "りゅうがくせい/留学生"
+    },
+    {
+        "id": 56,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Việt Nam = ____",
+        "correct_answer": "ベトナム"
+    },
+    {
+        "id": 57,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhật Bản = ____",
+        "correct_answer": "にほん/日本"
+    },
+    {
+        "id": 58,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trung Quốc = ____",
+        "correct_answer": "ちゅうごく/中国"
+    },
+    {
+        "id": 59,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hàn Quốc = ____",
+        "correct_answer": "かんこく/韓国"
+    },
+    {
+        "id": 60,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mỹ = ____",
+        "correct_answer": "アメリカ"
+    },
+    {
+        "id": 61,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đất nước = ____",
+        "correct_answer": "くに/国"
+    },
+    {
+        "id": 62,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Người nước ~ = ____",
+        "correct_answer": "~じん/人"
+    },
+    {
+        "id": 63,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Công ty = ____",
+        "correct_answer": "かいしゃ/会社"
+    },
+    {
+        "id": 64,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trường = ____",
+        "correct_answer": "がっこう/学校"
+    },
+    {
+        "id": 65,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đại học = ____",
+        "correct_answer": "だいがく/大学"
+    },
+    {
+        "id": 66,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bệnh viện = ____",
+        "correct_answer": "びょういん/病院"
+    },
+    {
+        "id": 67,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Rất vui được gặp anh (chị) = ____",
+        "correct_answer": "はじめまして"
+    },
+    {
+        "id": 68,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tôi đến từ ... = ____",
+        "correct_answer": "~からきました"
+    },
+    {
+        "id": 69,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Rất mong được anh (chị) giúp đỡ = ____",
+        "correct_answer": "(どうぞ) よろしくおねがいします"
+    },
+    {
+        "id": 70,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Xin lỗi anh (chị) / Làm phiền anh (chị) = ____",
+        "correct_answer": "しつれいですが、･･･"
+    },
+    {
+        "id": 71,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tên anh (chị) là? = ____",
+        "correct_answer": "おなまえは"
+    },
+    {
+        "id": 72,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nghề nghiệp anh (chị) là? = ____",
+        "correct_answer": "おしごとは/お仕事は"
+    },
+    {
+        "id": 73,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vâng, đúng vậy = ____",
+        "correct_answer": "はい、そうです"
+    },
+    {
+        "id": 74,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Không, không phải = ____",
+        "correct_answer": "いいえ、ちがいます/違います"
     }
 ]

@@ -1,0 +1,770 @@
+[
+  {
+    "id": 1,
+    "question_text": "<ruby>電源を切ります<rt>てんげんをきります</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Bật nguồn điện",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Ngắt, tắt (nguồn điện)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Sửa chữa nguồn điện",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Kiểm tra nguồn điện",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question_text": "<ruby>見せます<rt>みせます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Giấu",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Cho xem",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tìm kiếm",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Mua",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question_text": "<ruby>載せます<rt>のせます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Lấy xuống",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Chất lên (xe)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Dỡ xuống",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Kéo",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question_text": "<ruby>脱ぎます<rt>ぬぎます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Mặc",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Cởi",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Giặt",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Là",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question_text": "<ruby>残業します<rt>ざんぎょうします</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Nghỉ việc",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Làm thêm giờ",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Nghỉ phép",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Đi du lịch",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question_text": "<ruby>出張します<rt>しゅっちょうします</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đi học",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Đi công tác",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Đi chơi",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Đi mua sắm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question_text": "<ruby>渡します<rt>わたします</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Nhận",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Trao, đưa",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Mượn",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Thuê",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question_text": "<ruby>返します<rt>かえします</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Mượn",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Trả lại",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Cho mượn",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Thuê",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question_text": "<ruby>（シートベルトを）締めます<rt>（シートベルトを）しめます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Mở dây an toàn",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Thắt dây an toàn",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Kiểm tra dây an toàn",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Mua dây an toàn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question_text": "<ruby>網棚<rt>あみだな</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Ghế ngồi",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Giá để hành lý (trên xe ô tô, tàu...)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Cửa sổ",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tay nắm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question_text": "チップ có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Tiền lương",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Tiền boa, tiền tip",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tiền thưởng",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tiền tiết kiệm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question_text": "<ruby>電源<rt>てんげん</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Ổ cắm điện",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Nguồn điện",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Dây điện",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Công tắc điện",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question_text": "ロボット có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Người máy",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Robot",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Máy tính",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Điện thoại",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question_text": "<ruby>招待状<rt>しょうたいじょう</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Giấy chứng nhận",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Thiệp mời",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Thư giới thiệu",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Vé vào cửa",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question_text": "<ruby>制服<rt>せいふく</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Quần áo thường ngày",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Đồng phục",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Trang phục thể thao",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Trang phục dạ hội",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question_text": "シャツ có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Áo khoác",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Áo sơ mi",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Áo len",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Áo thun",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question_text": "<ruby>下着<rt>したぎ</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Quần áo ngủ",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Đồ lót",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Quần áo bơi",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Quần áo thể thao",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question_text": "シートベルト có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Gương chiếu hậu",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Dây an toàn (xe ô tô)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tay lái",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Phanh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question_text": "スーツ có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Áo khoác",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Đồ vest",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Quần jean",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Áo phông",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question_text": "〜までに có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Sau (thời hạn~)",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Trước (thời hạn~)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Trong (thời hạn~)",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Vào (thời hạn~)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question_text": "<ruby>後で<rt>あとで</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Trước đó",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Sau đó",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Ngay lập tức",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Cùng lúc",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question_text": "<ruby>少々お待ちください<rt>しょうしょうおまちください</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Xin hãy đến ngay",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Xin hãy đợi một chút ạ",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Xin hãy gọi lại sau",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Xin hãy đến sớm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question_text": "いくらかな có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Mấy giờ rồi?",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Bao nhiêu thì được nhỉ?",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Ở đâu vậy?",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Ai vậy?",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question_text": "<ruby>すきやばし次郎<rt>すきやばしじろう</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Tên một loại sushi",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Tên quán sushi ở Nhật",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tên một đầu bếp nổi tiếng",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tên một món ăn Nhật Bản",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Ngắt, tắt (nguồn điện) = ____",
+    "correct_answer": "てんげんをきります/電源を切ります"
+  },
+  {
+    "id": 26,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Cho xem = ____",
+    "correct_answer": "みせます/見せます"
+  },
+  {
+    "id": 27,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Chất lên (xe) = ____",
+    "correct_answer": "のせます/載せます"
+  },
+  {
+    "id": 28,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Cởi = ____",
+    "correct_answer": "ぬぎます/脱ぎます"
+  },
+  {
+    "id": 29,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Làm thêm giờ = ____",
+    "correct_answer": "ざんぎょうします/残業します"
+  },
+  {
+    "id": 30,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Đi công tác = ____",
+    "correct_answer": "しゅっちょうします/出張します"
+  },
+  {
+    "id": 31,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Trao, đưa = ____",
+    "correct_answer": "わたします/渡します"
+  },
+  {
+    "id": 32,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Trả lại = ____",
+    "correct_answer": "かえします/返します"
+  },
+  {
+    "id": 33,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Thắt dây an toàn = ____",
+    "correct_answer": "(シートベルトを)しめます/(シートベルトを)締めます"
+  },
+  {
+    "id": 34,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Giá để hành lý (trên xe ô tô, tàu...) = ____",
+    "correct_answer": "あみだな/網棚"
+  },
+  {
+    "id": 35,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Tiền boa, tiền tip = ____",
+    "correct_answer": "チップ"
+  },
+  {
+    "id": 36,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Nguồn điện = ____",
+    "correct_answer": "てんげん/電源"
+  },
+  {
+    "id": 37,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Robot = ____",
+    "correct_answer": "ロボット"
+  },
+  {
+    "id": 38,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Thiệp mời = ____",
+    "correct_answer": "しょうたいじょう/招待状"
+  },
+  {
+    "id": 39,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Đồng phục = ____",
+    "correct_answer": "せいふく/制服"
+  },
+  {
+    "id": 40,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Áo sơ mi = ____",
+    "correct_answer": "シャツ"
+  },
+  {
+    "id": 41,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Đồ lót = ____",
+    "correct_answer": "したぎ/下着"
+  },
+  {
+    "id": 42,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Dây an toàn (xe ô tô) = ____",
+    "correct_answer": "シートベルト"
+  },
+  {
+    "id": 43,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Đồ vest = ____",
+    "correct_answer": "スーツ"
+  },
+  {
+    "id": 44,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Trước (thời hạn~) = ____",
+    "correct_answer": "~までに"
+  },
+  {
+    "id": 45,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Sau đó = ____",
+    "correct_answer": "あとで/後で"
+  },
+  {
+    "id": 46,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Xin hãy đợi một chút ạ. = ____",
+    "correct_answer": "しょうしょうおまちください/少々お待ちください"
+  },
+  {
+    "id": 47,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Bao nhiêu thì được nhỉ? = ____",
+    "correct_answer": "いくらかな"
+  },
+  {
+    "id": 48,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Tên quán sushi ở Nhật = ____",
+    "correct_answer": "すきやばしじろう/すきやばし次郎"
+  }
+]

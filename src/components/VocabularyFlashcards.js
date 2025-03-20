@@ -11,8 +11,11 @@ const VocabularyFlashcards = () => {
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 10;
 
+
   useEffect(() => {
     const fileName = `/data/vocabulary/bai${lessonId}-${courseId}.json`;
+  console.log('fileName:', fileName);
+
     fetch(`${fileName}`)
       .then(response => {
         if (!response.ok) {

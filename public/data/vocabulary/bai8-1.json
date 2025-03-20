@@ -1,0 +1,362 @@
+[
+    {
+        "index": 1,
+        "word": "あに",
+        "kanji": "兄",
+        "meaning": "Anh trai",
+        "example": "<ruby>兄<rt>あに</rt></ruby>は<ruby>大学生<rt>だいがくせい</rt></ruby>です。 (Anh trai tôi là sinh viên đại học.)",
+        "image": "ani_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "おとうと",
+        "kanji": "弟",
+        "meaning": "Em trai",
+        "example": "<ruby>弟<rt>おとうと</rt></ruby>は<ruby>小学生<rt>しょうがくせい</rt></ruby>です。 (Em trai tôi là học sinh tiểu học.)",
+        "image": "otouto_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "あね",
+        "kanji": "姉",
+        "meaning": "Chị gái",
+        "example": "<ruby>姉<rt>あね</rt></ruby>は<ruby>会社員<rt>かいしゃいん</rt></ruby>です。 (Chị gái tôi là nhân viên công ty.)",
+        "image": "ane_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "いもうと",
+        "kanji": "妹",
+        "meaning": "Em gái",
+        "example": "<ruby>妹<rt>いもうと</rt></ruby>は<ruby>中学生<rt>ちゅうがくせい</rt></ruby>です。 (Em gái tôi là học sinh trung học.)",
+        "image": "imouto_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "きょうだい",
+        "kanji": "兄弟",
+        "meaning": "Anh chị em",
+        "example": "<ruby>兄弟<rt>きょうだい</rt></ruby>は<ruby>何人<rt>なんにん</rt></ruby>ですか。 (Bạn có mấy anh chị em?)",
+        "image": "kyoudai_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "そふ",
+        "kanji": "祖父",
+        "meaning": "Ông",
+        "example": "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>です。 (Ông tôi khỏe mạnh.)",
+        "image": "sofu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "そぼ",
+        "kanji": "祖母",
+        "meaning": "Bà",
+        "example": "<ruby>祖母<rt>そぼ</rt></ruby>は<ruby>料理<rt>りょうり</rt></ruby>が<ruby>上手<rt>じょうず</rt></ruby>です。 (Bà tôi nấu ăn giỏi.)",
+        "image": "sobo_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "ちち",
+        "kanji": "父",
+        "meaning": "Ba, bố",
+        "example": "<ruby>父<rt>ちち</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>です。 (Ba tôi là giáo viên.)",
+        "image": "chichi_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "はは",
+        "kanji": "母",
+        "meaning": "Mẹ",
+        "example": "<ruby>母<rt>はは</rt></ruby>は<ruby>看護師<rt>かんごし</rt></ruby>です。 (Mẹ tôi là y tá.)",
+        "image": "haha_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "こども",
+        "kanji": "子ども",
+        "meaning": "Trẻ em, con nít",
+        "example": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>子供<rt>こども</rt></ruby>が<ruby>遊<rt>あそ</rt></ruby>んでいます。 (Trẻ em đang chơi ở công viên.)",
+        "image": "kodomo_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "おとこのこ",
+        "kanji": "男の子",
+        "meaning": "Cậu bé, bé trai",
+        "example": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>走<rt>はし</rt></ruby>っています。 (Bé trai đang chạy.)",
+        "image": "otokonoko_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "おんなのこ",
+        "kanji": "女の子",
+        "meaning": "Cô bé, bé gái",
+        "example": "<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>が<ruby>笑<rt>わら</rt></ruby>っています。 (Bé gái đang cười.)",
+        "image": "onnanoko_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "おとこのひと",
+        "kanji": "男の人",
+        "meaning": "Người đàn ông",
+        "example": "<ruby>男<rt>おとこ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>立<rt>た</rt></ruby>っています。 (Người đàn ông đang đứng.)",
+        "image": "otokonohito_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "おんなのひと",
+        "kanji": "女の人",
+        "meaning": "Người phụ nữ",
+        "example": "<ruby>女<rt>おんな</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>座<rt>すわ</rt></ruby>っています。 (Người phụ nữ đang ngồi.)",
+        "image": "onnanohito_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "おきゃくさん",
+        "kanji": "お客さん",
+        "meaning": "Khách hàng",
+        "example": "<ruby>お客<rt>おきゃく</rt></ruby>さんが<ruby>来<rt>き</rt></ruby>ました。 (Khách hàng đã đến.)",
+        "image": "okyakusan_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "てんいん",
+        "kanji": "店員",
+        "meaning": "Nhân viên cửa hàng",
+        "example": "<ruby>店員<rt>てんいん</rt></ruby>が<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>しています。 (Nhân viên cửa hàng đang giải thích sản phẩm.)",
+        "image": "tenin_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "みせ",
+        "kanji": "店",
+        "meaning": "Cửa hàng",
+        "example": "<ruby>店<rt>みせ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ります。 (Tôi vào cửa hàng.)",
+        "image": "mise_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "てんない",
+        "kanji": "店内",
+        "meaning": "Trong cửa hàng",
+        "example": "<ruby>店内<rt>てんない</rt></ruby>は<ruby>賑<rt>にぎ</rt></ruby>やかです。 (Trong cửa hàng rất náo nhiệt.)",
+        "image": "tennai_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "かびん",
+        "kanji": "花瓶",
+        "meaning": "Bình hoa",
+        "example": "<ruby>花瓶<rt>かびん</rt></ruby>に<ruby>花<rt>はな</rt></ruby>を<ruby>生<rt>い</rt></ruby>けます。 (Tôi cắm hoa vào bình hoa.)",
+        "image": "kabin_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "たんす",
+        "kanji": "箪笥",
+        "meaning": "Cái tủ",
+        "example": "<ruby>箪笥<rt>たんす</rt></ruby>に<ruby>服<rt>ふく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。 (Tôi cho quần áo vào tủ.)",
+        "image": "tansu_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "まど",
+        "kanji": "窓",
+        "meaning": "Cửa sổ",
+        "example": "<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けます。 (Tôi mở cửa sổ.)",
+        "image": "mado_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "ドア",
+        "kanji": "",
+        "meaning": "Cửa",
+        "example": "ドアを<ruby>閉<rt>し</rt></ruby>めます。 (Tôi đóng cửa.)",
+        "image": "doa_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "りんご",
+        "kanji": "林檎",
+        "meaning": "Quả táo",
+        "example": "りんごを<ruby>買<rt>か</rt></ruby>います。 (Tôi mua táo.)",
+        "image": "ringo_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "コップ",
+        "kanji": "",
+        "meaning": "Cái cốc",
+        "example": "コップに<ruby>水<rt>みず</rt></ruby>を<ruby>入<rt>い</rt></ruby>れます。 (Tôi cho nước vào cốc.)",
+        "image": "koppu_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "エアコン",
+        "kanji": "",
+        "meaning": "Điều hòa",
+        "example": "エアコンを<ruby>付<rt>つ</rt></ruby>けます。 (Tôi bật điều hòa.)",
+        "image": "eakon_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "ひとつ",
+        "kanji": "",
+        "meaning": "1 cái",
+        "example": "りんごをひとつください。 (Cho tôi một quả táo.)",
+        "image": "hitotsu_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "ふたつ",
+        "kanji": "",
+        "meaning": "2 cái",
+        "example": "コップをふたつください。 (Cho tôi hai cái cốc.)",
+        "image": "futatsu_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "みっつ",
+        "kanji": "",
+        "meaning": "3 cái",
+        "example": "椅子をみっつください。 (Cho tôi ba cái ghế.)",
+        "image": "mittsu_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "よっつ",
+        "kanji": "",
+        "meaning": "4 cái",
+        "example": "本をよっつください。 (Cho tôi bốn quyển sách.)",
+        "image": "yottsu_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "いつつ",
+        "kanji": "",
+        "meaning": "5 cái",
+        "example": "ペンをいつつください。 (Cho tôi năm cái bút.)",
+        "image": "itsutsu_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "むっつ",
+        "kanji": "",
+        "meaning": "6 cái",
+        "example": "皿をむっつください。 (Cho tôi sáu cái đĩa.)",
+        "image": "muttsu_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "ななつ",
+        "kanji": "",
+        "meaning": "7 cái",
+        "example": "りんごをななつください。 (Cho tôi bảy quả táo.)",
+        "image": "nanatsu_N5_bai_1.png"
+    },
+    {
+        "index": 33,
+        "word": "やっつ",
+        "kanji": "",
+        "meaning": "8 cái",
+        "example": "椅子をやっつください。 (Cho tôi tám cái ghế.)",
+        "image": "yattsu_N5_bai_1.png"
+    },
+    {
+        "index": 34,
+        "word": "ここのつ",
+        "kanji": "",
+        "meaning": "9 cái",
+        "example": "本をここのつください。 (Cho tôi chín quyển sách.)",
+        "image": "kokonotsu_N5_bai_1.png"
+    },
+    {
+        "index": 35,
+        "word": "とお",
+        "kanji": "",
+        "meaning": "10 cái",
+        "example": "ペンをとおください。 (Cho tôi mười cái bút.)",
+        "image": "too_N5_bai_1.png"
+    },
+    {
+        "index": 36,
+        "word": "いくつ",
+        "kanji": "",
+        "meaning": "Bao nhiêu?",
+        "example": "りんごはいくつありますか。 (Có bao nhiêu quả táo?)",
+        "image": "ikutsu_N5_bai_1.png"
+    },
+    {
+        "index": 37,
+        "word": "ひとり",
+        "kanji": "一人",
+        "meaning": "1 người",
+        "example": "一人で<ruby>来<rt>き</rt></ruby>ました。 (Tôi đến một mình.)",
+        "image": "hitori_N5_bai_1.png"
+    },
+    {
+        "index": 38,
+        "word": "ふたり",
+        "kanji": "二人",
+        "meaning": "2 người",
+        "example": "二人で<ruby>食事<rt>しょくじ</rt></ruby>をします。 (Chúng tôi ăn tối cùng nhau.)",
+        "image": "futari_N5_bai_1.png"
+    },
+    {
+        "index": 39,
+        "word": "さんにん",
+        "kanji": "三人",
+        "meaning": "3 người",
+        "example": "三人で<ruby>旅行<rt>りょこう</rt></ruby>に行きます。 (Chúng tôi đi du lịch ba người.)",
+        "image": "sannin_N5_bai_1.png"
+    },
+    {
+        "index": 40,
+        "word": "よにん",
+        "kanji": "四人",
+        "meaning": "4 người",
+        "example": "<ruby>四人<rt>よにん</rt></ruby>で<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。 (Chúng tôi xem phim bốn người.)",
+        "image": "yonin_N5_bai_1.png"
+    },
+    {
+        "index": 41,
+        "word": "~にん",
+        "kanji": "人",
+        "meaning": "~ người",
+        "example": "<ruby>五人<rt>ごにん</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>をします。 (Chúng tôi ăn tối năm người.)",
+        "image": "nin_N5_bai_1.png"
+    },
+    {
+        "index": 42,
+        "word": "なんにん",
+        "kanji": "何人",
+        "meaning": "Bao nhiêu người?",
+        "example": "<ruby>何人<rt>なんにん</rt></ruby>ですか。 (Có bao nhiêu người?)",
+        "image": "nannin_N5_bai_1.png"
+    },
+    {
+        "index": 43,
+        "word": "すごいひとですね",
+        "kanji": "",
+        "meaning": "Đông người thật đấy!",
+        "example": "すごいひとですね、<ruby>祭<rt>まつ</rt></ruby>りですか。 (Đông người thật đấy! Có phải lễ hội không?)",
+        "image": "sugoi_hito_desu_ne_N5_bai_1.png"
+    },
+    {
+        "index": 44,
+        "word": "じゃ...",
+        "kanji": "",
+        "meaning": "Thế thì, vậy thì...",
+        "example": "じゃ、また<ruby>明日<rt>あした</rt></ruby>。 (Vậy thì, hẹn gặp lại ngày mai.)",
+        "image": "ja_N5_bai_1.png"
+    },
+    {
+        "index": 45,
+        "word": "いいですね",
+        "kanji": "",
+        "meaning": "Được đấy nhỉ, hay quá",
+        "example": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>に行きませんか。いいですね。 (Đi xem phim không? Được đấy nhỉ.)",
+        "image": "ii_desu_ne_N5_bai_1.png"
+    }
+]

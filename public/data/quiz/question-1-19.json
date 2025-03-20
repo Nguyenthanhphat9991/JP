@@ -1,0 +1,866 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>会社を辞めます<rt>かいしゃをやめます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Hoa nở",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nghỉ (việc)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chuẩn bị",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Luyện tập",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "<ruby>花が咲きます<rt>はながさきます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nghỉ (việc)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Hoa nở",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Luyện tập",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tốt nghiệp",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>準備します<rt>じゅんびします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Hoa nở",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chuẩn bị",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tốt nghiệp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Vận động",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>練習します<rt>れんしゅうします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chuẩn bị",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Luyện tập",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Vận động",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mang đến",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "<ruby>卒業します<rt>そつぎょうします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Luyện tập",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tốt nghiệp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mang đến",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mang đi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>運動します<rt>うんどうします</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tốt nghiệp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Vận động",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mang đi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bắt đầu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "<ruby>持って来ます<rt>もってきます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Vận động",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mang đến",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bắt đầu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trở nên, trở thành",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>持って行きます<rt>もっていきます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mang đến",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mang đi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trở nên, trở thành",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "(Học sinh, sinh viên) năm -",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>始めます<rt>はじめます</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mang đi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bắt đầu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "(Học sinh, sinh viên) năm -",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Khi -, vào khoảng -",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "なります có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bắt đầu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trở nên, trở thành",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Khi -, vào khoảng -",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tương lai",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "〜年生 có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trở nên, trở thành",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "(Học sinh, sinh viên) năm -",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tương lai",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Điểm tối đa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "〜頃 có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "(Học sinh, sinh viên) năm -",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Khi -, vào khoảng -",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Điểm tối đa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Con đường",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>将来<rt>しょうらい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Khi -, vào khoảng -",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tương lai",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Điểm tối đa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Con đường",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>満点<rt>まんてん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tương lai",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Điểm tối đa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Con đường",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Lá đỏ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "<ruby>道<rt>みち</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Điểm tối đa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Con đường",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Lá đỏ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thuốc",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>紅葉<rt>こうよう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Con đường",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Lá đỏ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thuốc",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Dần dần",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>薬<rt>くすり</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Lá đỏ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thuốc",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Dần dần",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sắp",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "だんだん có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thuốc",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Dần dần",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sắp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Khá là",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "もうすぐ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Dần dần",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sắp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Khá là",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Quan hệ tốt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "ずいぶん có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Sắp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Khá là",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Quan hệ tốt",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ấm áp",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "<ruby>仲がいい<rt>なかがいい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Khá là",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Quan hệ tốt",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ấm áp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mát mẻ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "<ruby>暖かい<rt>あたたかい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Quan hệ tốt",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ấm áp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mát mẻ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Buồn ngủ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "<ruby>涼しい<rt>すずしい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ấm áp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mát mẻ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Buồn ngủ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "<ruby>眠い<rt>ねむい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mát mẻ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Buồn ngủ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bản thân",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "<ruby>痛い<rt>いたい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Buồn ngủ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đau",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bản thân",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tôi muốn thổ lộ tình cảm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "<ruby>自分<rt>じぶん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đau",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bản thân",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tôi muốn thổ lộ tình cảm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nghỉ (việc)",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "<ruby>気持ちを告白したい<rt>きもちをこくはくしたい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bản thân",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tôi muốn thổ lộ tình cảm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nghỉ (việc)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hoa nở",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nghỉ (việc) = ____",
+        "correct_answer": "(かいしゃを)やめます/(会社を)辞めます"
+    },
+    {
+        "id": 29,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: (Hoa) nở = ____",
+        "correct_answer": "(はなが)さきます/(花が)咲きます"
+    },
+    {
+        "id": 30,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chuẩn bị = ____",
+        "correct_answer": "じゅんびします/準備します"
+    },
+    {
+        "id": 31,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Luyện tập = ____",
+        "correct_answer": "れんしゅうします/練習します"
+    },
+    {
+        "id": 32,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tốt nghiệp = ____",
+        "correct_answer": "そつぎょうします/卒業します"
+    },
+    {
+        "id": 33,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vận động = ____",
+        "correct_answer": "うんどうします/運動します"
+    },
+    {
+        "id": 34,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mang đến = ____",
+        "correct_answer": "もってきます/持って来ます"
+    },
+    {
+        "id": 35,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mang đi = ____",
+        "correct_answer": "もっていきます/持って行きます"
+    },
+    {
+        "id": 36,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bắt đầu = ____",
+        "correct_answer": "はじめます/始めます"
+    },
+    {
+        "id": 37,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trở nên, trở thành = ____",
+        "correct_answer": "なります"
+    },
+    {
+        "id": 38,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: (Học sinh, sinh viên) năm - = ____",
+        "correct_answer": "~ねんせい/~年生"
+    },
+    {
+        "id": 39,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Khi -, vào khoảng - = ____",
+        "correct_answer": "~ごろ/~頃"
+    },
+    {
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tương lai = ____",
+        "correct_answer": "しょうらい/将来"
+    },
+    {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Điểm tối đa = ____",
+        "correct_answer": "まんてん/満点"
+    },
+    {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Con đường = ____",
+        "correct_answer": "みち/道"
+    },
+    {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lá đỏ = ____",
+        "correct_answer": "こうよう/紅葉"
+    },
+    {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thuốc = ____",
+        "correct_answer": "くすり/薬"
+    },
+    {
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dần dần = ____",
+        "correct_answer": "だんだん"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sắp = ____",
+        "correct_answer": "もうすぐ"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Khá là = ____",
+        "correct_answer": "ずいぶん"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quan hệ tốt = ____",
+        "correct_answer": "なかがいい/仲がいい"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ấm áp = ____",
+        "correct_answer": "あたたかい/暖かい"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mát mẻ = ____",
+        "correct_answer": "すずしい/涼しい"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Buồn ngủ = ____",
+        "correct_answer": "ねむい/眠い"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đau = ____",
+        "correct_answer": "いたい/痛い"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bản thân = ____",
+        "correct_answer": "じぶん/自分"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tôi muốn thổ lộ tình cảm = ____",
+        "correct_answer": "きもちをこくはくしたい/気持ちを告白したい"
+    }
+]

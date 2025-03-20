@@ -31,7 +31,11 @@ const App = () => {
               element={<LessonContent />}
             />
             <Route
-              path="/courses/:courseId/categories/1/lessons/:lessonId/quiz"
+              path="/courses/:courseId/categories/:categoryId/lessons/:lessonId/quiz"
+              element={<QuizPage />}
+            />
+            <Route
+              path="/courses/:courseId/categories/:categoryId/quiz"
               element={<QuizPage />}
             />
           </Routes>

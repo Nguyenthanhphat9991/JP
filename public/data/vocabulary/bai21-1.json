@@ -1,0 +1,202 @@
+[
+    {
+        "index": 1,
+        "word": "いいます",
+        "kanji": "言います",
+        "meaning": "Nói",
+        "example": "<ruby>何<rt>なに</rt></ruby>か<ruby>言<rt>い</rt></ruby>ってください。 (Hãy nói gì đó.)",
+        "image": "iimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "しんぱいします",
+        "kanji": "心配します",
+        "meaning": "Lo lắng",
+        "example": "<ruby>心配<rt>しんぱい</rt></ruby>しないでください。 (Xin đừng lo lắng.)",
+        "image": "shinpai_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "すてます",
+        "kanji": "捨てます",
+        "meaning": "Vứt",
+        "example": "ゴミを<ruby>捨<rt>す</rt></ruby>てます。 (Tôi vứt rác.)",
+        "image": "sutemasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "なくします",
+        "kanji": "無くします",
+        "meaning": "Làm mất",
+        "example": "<ruby>財布<rt>さいふ</rt></ruby>を<ruby>無<rt>な</rt></ruby>くしました。 (Tôi làm mất ví.)",
+        "image": "nakushimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "さわぎます",
+        "kanji": "騒ぎます",
+        "meaning": "Làm ồn",
+        "example": "<ruby>騒<rt>さわ</rt></ruby>がないでください。 (Xin đừng làm ồn.)",
+        "image": "sawagimasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "わすれます",
+        "kanji": "忘れます",
+        "meaning": "Quên",
+        "example": "<ruby>名前<rt>なまえ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れました。 (Tôi quên tên.)",
+        "image": "wasuremasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "じ",
+        "kanji": "字",
+        "meaning": "Chữ",
+        "example": "<ruby>字<rt>じ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。 (Tôi viết chữ.)",
+        "image": "ji_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "しりょう",
+        "kanji": "資料",
+        "meaning": "Tài liệu",
+        "example": "<ruby>資料<rt>しりょう</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。 (Tôi đọc tài liệu.)",
+        "image": "shiryou_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "へんじ",
+        "kanji": "返事",
+        "meaning": "Hồi đáp",
+        "example": "<ruby>返事<rt>へんじ</rt></ruby>をください。 (Hãy trả lời.)",
+        "image": "henji_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "かぜ",
+        "kanji": "風邪",
+        "meaning": "Cảm",
+        "example": "<ruby>風邪<rt>かぜ</rt></ruby>をひきました。 (Tôi bị cảm.)",
+        "image": "kaze_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "アレルギー",
+        "kanji": "",
+        "meaning": "Dị ứng",
+        "example": "アレルギーがあります。 (Tôi bị dị ứng.)",
+        "image": "arerugii_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "きぶん",
+        "kanji": "気分",
+        "meaning": "Tâm trạng, tình thần (tốt/xấu)",
+        "example": "<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。 (Tôi cảm thấy không khỏe.)",
+        "image": "kibun_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "ねつ/(ねつがあります)",
+        "kanji": "熱/(熱があります)",
+        "meaning": "Sốt",
+        "example": "<ruby>熱<rt>ねつ</rt></ruby>があります。 (Tôi bị sốt.)",
+        "image": "netsu_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "べんぴ/(べんぴをします)",
+        "kanji": "便秘/(便秘をします)",
+        "meaning": "Táo bón",
+        "example": "<ruby>便秘<rt>べんぴ</rt></ruby>をします。 (Tôi bị táo bón.)",
+        "image": "benpi_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "せき/(せきがでます/をします)",
+        "kanji": "咳/(咳が出ます/をします)",
+        "meaning": "Ho",
+        "example": "<ruby>咳<rt>せき</rt></ruby>が<ruby>出<rt>で</rt></ruby>ます。 (Tôi bị ho.)",
+        "image": "seki_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "かゆい",
+        "kanji": "痒い",
+        "meaning": "Ngứa",
+        "example": "<ruby>体<rt>からだ</rt></ruby>が<ruby>痒<rt>かゆ</rt></ruby>いです。 (Tôi bị ngứa người.)",
+        "image": "kayui_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "おなか",
+        "kanji": "",
+        "meaning": "Bụng",
+        "example": "<ruby>お腹<rt>なか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。 (Tôi bị đau bụng.)",
+        "image": "onaka_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "のど",
+        "kanji": "",
+        "meaning": "Họng",
+        "example": "<ruby>喉<rt>のど</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いです。 (Tôi bị đau họng.)",
+        "image": "nodo_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "よるおそく",
+        "kanji": "夜遅く",
+        "meaning": "Tối khuya, tối muộn",
+        "example": "<ruby>夜遅<rt>よるおそ</rt></ruby>くに<ruby>帰<rt>かえ</rt></ruby>ります。 (Tôi về nhà muộn.)",
+        "image": "yoru_osoku_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "これから",
+        "kanji": "",
+        "meaning": "Sau đây, từ giờ trở đi",
+        "example": "これから<ruby>よろしくお願<rt>ねが</rt></ruby>いします。 (Mong được giúp đỡ từ bây giờ.)",
+        "image": "kore_kara_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "なかなか〜ない",
+        "kanji": "",
+        "meaning": "Mãi mà không -",
+        "example": "なかなか<ruby>寝<rt>ね</rt></ruby>られません。 (Tôi mãi mà không ngủ được.)",
+        "image": "nakanaka_nai_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "まだ",
+        "kanji": "",
+        "meaning": "Chưa",
+        "example": "まだ<ruby>時間<rt>じかん</rt></ruby>があります。 (Vẫn còn thời gian.)",
+        "image": "mada_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "どうしましたか",
+        "kanji": "",
+        "meaning": "Cậu sao thế? (hỏi người khác)",
+        "example": "どうしましたか。 (Cậu sao thế?)",
+        "image": "dou_shimashita_ka_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "どうしたのかな",
+        "kanji": "",
+        "meaning": "Có chuyện gì thế nhỉ? (tự hỏi)",
+        "example": "どうしたのかな。 (Có chuyện gì thế nhỉ?)",
+        "image": "dou_shita_no_kana_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "おだいじに",
+        "kanji": "お大事に",
+        "meaning": "Chú ý giữ gìn sức khỏe",
+        "example": "お<ruby>大事<rt>だいじ</rt></ruby>に。 (Chú ý giữ gìn sức khỏe nhé.)",
+        "image": "odaiji_ni_N5_bai_1.png"
+    }
+]

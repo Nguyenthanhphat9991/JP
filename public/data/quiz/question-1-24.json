@@ -1,0 +1,481 @@
+[
+  {
+    "id": 1,
+    "question_text": "<ruby>修理します<rt>しゅうりします</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Mua",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Sửa chữa",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Bán",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Thuê",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question_text": "<ruby>君<rt>きみ</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Ông",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Em (gọi thân mật)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Bà",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Anh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question_text": "<ruby>僕<rt>ぼく</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Cô ấy",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Tôi, tớ (con trai xưng hô)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Anh ấy",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Họ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question_text": "〜君 có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Cô",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Cậu, bạn - (gọi con trai)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Bà",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Ông",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question_text": "〜ちゃん có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Anh",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Bạn, em - (gọi bé gái)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Chú",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Bác",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question_text": "<ruby>祇園祭<rt>ぎおんまつり</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Lễ hội hoa anh đào",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Lễ hội Gion",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Lễ hội pháo hoa",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Lễ hội mùa hè",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question_text": "<ruby>歌舞伎<rt>かぶき</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Kịch Nō",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Kịch Kabuki",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Kịch rối",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Kịch câm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question_text": "ドイツ có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Pháp",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Đức",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Ý",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tây Ban Nha",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question_text": "ラーメン có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Sushi",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Mì ramen",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tempura",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Onigiri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question_text": "そば có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Udon",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Mỳ soba",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Pasta",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Bún",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question_text": "つまらない có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Thú vị",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Chán, nhàm chán",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Vui vẻ",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Hấp dẫn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question_text": "うん có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Không",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Ừ, ừm",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Có lẽ",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Không chắc",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question_text": "ううん có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Có",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Không",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Có thể",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Chắc chắn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question_text": "それに có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Tuy nhiên",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Thêm nữa, hơn nữa",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Do đó",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Vì vậy",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question_text": "〜けど có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Vì",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "~ nhưng mà",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Nếu",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Khi",
+        "is_correct": false
+      }
+    ]
+  },{
+    "id": 16,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Sửa chữa = ____",
+    "correct_answer": "しゅうりします/修理します"
+},
+{
+    "id": 17,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Em (gọi thân mật) = ____",
+    "correct_answer": "きみ/君"
+},
+{
+    "id": 18,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Tôi, tớ (con trai xưng hô) = ____",
+    "correct_answer": "ぼく/僕"
+},
+{
+    "id": 19,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Cậu, bạn - (gọi con trai) = ____",
+    "correct_answer": "~くん/~君"
+},
+{
+    "id": 20,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Bạn, em - (gọi bé gái) = ____",
+    "correct_answer": "~ちゃん"
+},
+{
+    "id": 21,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Lễ hội Gion = ____",
+    "correct_answer": "ぎおんまつり/祇園祭"
+},
+{
+    "id": 22,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Kịch Kabuki = ____",
+    "correct_answer": "かぶき/歌舞伎"
+},
+{
+    "id": 23,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Đức = ____",
+    "correct_answer": "ドイツ"
+},
+{
+    "id": 24,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Mì ramen = ____",
+    "correct_answer": "ラーメン"
+},
+{
+    "id": 25,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Mỳ soba = ____",
+    "correct_answer": "そば"
+},
+{
+    "id": 26,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Chán, nhàm chán = ____",
+    "correct_answer": "つまらない"
+},
+{
+    "id": 27,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Ừ, ừm = ____",
+    "correct_answer": "うん"
+},
+{
+    "id": 28,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Không = ____",
+    "correct_answer": "ううん"
+},
+{
+    "id": 29,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Thêm nữa, hơn nữa = ____",
+    "correct_answer": "それに"
+},
+{
+    "id": 30,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: ~ nhưng mà = ____",
+    "correct_answer": "~けど"
+}
+]

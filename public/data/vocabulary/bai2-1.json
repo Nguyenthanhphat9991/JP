@@ -1,0 +1,330 @@
+[
+    {
+        "index": 1,
+        "word": "これ",
+        "kanji": "",
+        "meaning": "Cái này",
+        "example": "これは<ruby>本<rt>ほん</rt></ruby>です。 (Đây là quyển sách.)",
+        "image": "kore_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "それ",
+        "kanji": "",
+        "meaning": "Cái đó",
+        "example": "それは<ruby>何<rt>なに</rt></ruby>ですか。 (Kia là cái gì?)",
+        "image": "sore_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "あれ",
+        "kanji": "",
+        "meaning": "Cái kia",
+        "example": "あれは<ruby>誰<rt>だれ</rt></ruby>の<ruby>傘<rt>かさ</rt></ruby>ですか。 (Kia là cái ô của ai?)",
+        "image": "are_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "どれ",
+        "kanji": "",
+        "meaning": "Cái nào",
+        "example": "どれがあなたの<ruby>鍵<rt>かぎ</rt></ruby>ですか？ (Cái nào là chìa khóa của bạn?)",
+        "image": "dore_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "コーヒー",
+        "kanji": "",
+        "meaning": "Cà phê",
+        "example": "コーヒーを<ruby>飲<rt>の</rt></ruby>みます。 (Tôi uống cà phê.)",
+        "image": "koohii_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "おさけ/さけ",
+        "kanji": "お酒",
+        "meaning": "Rượu",
+        "example": "お<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みません。 (Tôi không uống rượu.)",
+        "image": "osake_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "チョコレート",
+        "kanji": "",
+        "meaning": "Sô cô la",
+        "example": "チョコレートが<ruby>好<rt>す</rt></ruby>きです。 (Tôi thích sô cô la.)",
+        "image": "chokoreeto_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "えんぴつ",
+        "kanji": "",
+        "meaning": "Bút chì",
+        "example": "<ruby>鉛筆<rt>えんぴつ</rt></ruby>で<ruby>書<rt>か</rt></ruby>きます。 (Tôi viết bằng bút chì.)",
+        "image": "enpitsu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "シャーペン/シャープペン",
+        "kanji": "",
+        "meaning": "Bút chì kim",
+        "example": "シャーペンを<ruby>使<rt>つか</rt></ruby>います。 (Tôi dùng bút chì kim.)",
+        "image": "shaapen_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "ボールペン",
+        "kanji": "",
+        "meaning": "Bút bi",
+        "example": "ボールペンを<ruby>貸<rt>か</rt></ruby>してください。 (Làm ơn cho tôi mượn bút bi.)",
+        "image": "boorupen_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "けしゴム",
+        "kanji": "消しゴム",
+        "meaning": "Cục tẩy",
+        "example": "<ruby>消<rt>け</rt></ruby>しゴムを<ruby>使<rt>つか</rt></ruby>います。 (Tôi dùng cục tẩy.)",
+        "image": "keshigomu_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "ノート",
+        "kanji": "",
+        "meaning": "Vở",
+        "example": "ノートに<ruby>書<rt>か</rt></ruby>きます。 (Tôi viết vào vở.)",
+        "image": "nooto_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "じしょ",
+        "kanji": "辞書",
+        "meaning": "Từ điển",
+        "example": "<ruby>辞書<rt>じしょ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。 (Tôi dùng từ điển.)",
+        "image": "jisho_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "ほん",
+        "kanji": "本",
+        "meaning": "Quyển sách",
+        "example": "<ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。 (Tôi đọc sách.)",
+        "image": "hon_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "マンガ",
+        "kanji": "",
+        "meaning": "Truyện tranh",
+        "example": "マンガを<ruby>読<rt>よ</rt></ruby>みます。 (Tôi đọc truyện tranh.)",
+        "image": "manga_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "ざっし",
+        "kanji": "雑誌",
+        "meaning": "Tạp chí",
+        "example": "<ruby>雑誌<rt>ざっし</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。 (Tôi đọc tạp chí.)",
+        "image": "zasshi_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "しんぶん",
+        "kanji": "新聞",
+        "meaning": "Báo",
+        "example": "<ruby>新聞<rt>しんぶん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>みます。 (Tôi đọc báo.)",
+        "image": "shinbun_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "めいし",
+        "kanji": "名刺",
+        "meaning": "Danh thiếp",
+        "example": "<ruby>名刺<rt>めいし</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>します。 (Tôi trao danh thiếp.)",
+        "image": "meishi_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "カード",
+        "kanji": "",
+        "meaning": "Thẻ",
+        "example": "カードで<ruby>払<rt>はら</rt></ruby>います。 (Tôi trả bằng thẻ.)",
+        "image": "kaado_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "つくえ",
+        "kanji": "机",
+        "meaning": "Cái bàn",
+        "example": "<ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。 (Có quyển sách ở trên bàn.)",
+        "image": "tsukue_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "いす",
+        "kanji": "",
+        "meaning": "Cái ghế",
+        "example": "<ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ります。 (Tôi ngồi trên ghế.)",
+        "image": "isu_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "スマホ/でんわ/ケータイ・電話",
+        "kanji": "",
+        "meaning": "Điện thoại",
+        "example": "スマホで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ります。 (Tôi chụp ảnh bằng điện thoại.)",
+        "image": "sumaho_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "パソコン",
+        "kanji": "",
+        "meaning": "Máy tính xách tay",
+        "example": "パソコンで<ruby>仕事<rt>しごと</rt></ruby>をします。 (Tôi làm việc bằng máy tính xách tay.)",
+        "image": "pasokon_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "コンピューター",
+        "kanji": "",
+        "meaning": "Máy tính",
+        "example": "コンピューターを<ruby>使<rt>つか</rt></ruby>います。 (Tôi sử dụng máy tính.)",
+        "image": "konpyuutaa_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "かばん",
+        "kanji": "",
+        "meaning": "Cái cặp",
+        "example": "かばんの<ruby>中<rt>なか</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>があります。 (Có quyển sách trong cặp.)",
+        "image": "kaban_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "かさ",
+        "kanji": "傘",
+        "meaning": "Cái ô",
+        "example": "<ruby>傘<rt>かさ</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きます。 (Tôi mang ô đi.)",
+        "image": "kasa_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "かぎ",
+        "kanji": "",
+        "meaning": "Chìa khóa",
+        "example": "<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れました。 (Tôi quên chìa khóa.)",
+        "image": "kagi_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "ふでばこ",
+        "kanji": "",
+        "meaning": "Hộp bút",
+        "example": "ふでばこに<ruby>鉛筆<rt>えんぴつ</rt></ruby>があります。 (Có bút chì trong hộp bút.)",
+        "image": "fudebako_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "くるま",
+        "kanji": "車",
+        "meaning": "Xe hơi, ô tô",
+        "example": "<ruby>車<rt>くるま</rt></ruby>で<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi bằng ô tô.)",
+        "image": "kuruma_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "とけい",
+        "kanji": "時計",
+        "meaning": "Đồng hồ",
+        "example": "<ruby>時計<rt>とけい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。 (Tôi xem đồng hồ.)",
+        "image": "tokei_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "なん",
+        "kanji": "何",
+        "meaning": "Cái gì",
+        "example": "これは<ruby>何<rt>なに</rt></ruby>ですか。 (Đây là cái gì?)",
+        "image": "nan_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "えいご",
+        "kanji": "英語",
+        "meaning": "Tiếng Anh",
+        "example": "<ruby>英語<rt>えいご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học tiếng Anh.)",
+        "image": "eigo_N5_bai_1.png"
+    },
+    {
+        "index": 33,
+        "word": "にほんご",
+        "kanji": "日本語",
+        "meaning": "Tiếng Nhật",
+        "example": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>します。 (Tôi nói tiếng Nhật.)",
+        "image": "nihongo_N5_bai_1.png"
+    },
+    {
+        "index": 34,
+        "word": "~ご",
+        "kanji": "語",
+        "meaning": "Tiếng -",
+        "example": "<ruby>韓国語<rt>かんこくご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học tiếng Hàn.)",
+        "image": "go_N5_bai_1.png"
+    },
+    {
+        "index": 35,
+        "word": "つまらないものですが、~",
+        "kanji": "",
+        "meaning": "Chỉ là chút quà nhỏ",
+        "example": "つまらないものですが、どうぞ。 (Đây là chút quà nhỏ, xin mời.)",
+        "image": "tsumaranai_N5_bai_1.png"
+    },
+    {
+        "index": 36,
+        "word": "これから〜",
+        "kanji": "",
+        "meaning": "Từ bây giờ trở đi...",
+        "example": "これからお<ruby>世話<rt>せわ</rt></ruby>になります。 (Từ bây giờ mong được anh/chị giúp đỡ.)",
+        "image": "korekara_N5_bai_1.png"
+    },
+    {
+        "index": 37,
+        "word": "おせわになります",
+        "kanji": "",
+        "meaning": "Mong anh/chị giúp đỡ",
+        "example": "これからお<ruby>世話<rt>せわ</rt></ruby>になります。 (Từ bây giờ mong được anh/chị giúp đỡ.)",
+        "image": "osewa_N5_bai_1.png"
+    },
+    {
+        "index": 38,
+        "word": "どうぞ",
+        "kanji": "",
+        "meaning": "Xin mời",
+        "example": "どうぞお<ruby>入<rt>はい</rt></ruby>りください。 (Xin mời vào.)",
+        "image": "douzo_N5_bai_1.png"
+    },
+    {
+        "index": 39,
+        "word": "(どうも) ありがとうございます",
+        "kanji": "",
+        "meaning": "Chân thành cảm ơn",
+        "example": "どうもありがとうございます。 (Chân thành cảm ơn.)",
+        "image": "arigatou_N5_bai_1.png"
+    },
+    {
+        "index": 40,
+        "word": "こちら〜",
+        "kanji": "",
+        "meaning": "Đây là ...",
+        "example": "こちらは<ruby>田中<rt>たなか</rt></ruby>さんです。 (Đây là anh Tanaka.)",
+        "image": "kochira_N5_bai_1.png"
+    },
+    {
+        "index": 41,
+        "word": "あのー",
+        "kanji": "",
+        "meaning": "À... (kéo dài thời gian trong khi nghĩ nên nói gì)",
+        "example": "あのー、すみませんが、<ruby>駅<rt>えき</rt></ruby>はどちらですか。 (À... xin lỗi, nhà ga ở đâu vậy?)",
+        "image": "ano_N5_bai_1.png"
+    }
+]

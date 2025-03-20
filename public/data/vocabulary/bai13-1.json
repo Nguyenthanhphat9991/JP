@@ -1,0 +1,266 @@
+[
+    {
+        "index": 1,
+        "word": "からい",
+        "kanji": "辛い",
+        "meaning": "Cay",
+        "example": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>辛<rt>から</rt></ruby>いです。 (Món ăn này cay.)",
+        "image": "karai_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "おおい",
+        "kanji": "多い",
+        "meaning": "Đông, nhiều",
+        "example": "<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いです。 (Nhiều người.)",
+        "image": "ooi_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "ひま",
+        "kanji": "",
+        "meaning": "Rảnh",
+        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暇<rt>ひま</rt></ruby>です。 (Hôm nay tôi rảnh.)",
+        "image": "hima_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "ふべん",
+        "kanji": "不便",
+        "meaning": "Bất tiện",
+        "example": "ここは<ruby>不便<rt>ふべん</rt></ruby>です。 (Chỗ này bất tiện.)",
+        "image": "fuben_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "ふくざつ",
+        "kanji": "複雑",
+        "meaning": "Phức tạp",
+        "example": "この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>複雑<rt>ふくざつ</rt></ruby>です。 (Vấn đề này phức tạp.)",
+        "image": "fukuzatsu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "おはなみ",
+        "kanji": "お花見",
+        "meaning": "Ngắm hoa",
+        "example": "<ruby>公園<rt>こうえん</rt></ruby>へお<ruby>花見<rt>はなみ</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi ngắm hoa ở công viên.)",
+        "image": "ohanami_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "しあい",
+        "kanji": "試合",
+        "meaning": "Trận đấu",
+        "example": "<ruby>試合<rt>しあい</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。 (Tôi xem trận đấu.)",
+        "image": "shiai_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "しゅうまつ",
+        "kanji": "週末",
+        "meaning": "Cuối tuần",
+        "example": "<ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしますか。 (Cuối tuần bạn làm gì?)",
+        "image": "shuumatsu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "はじめて",
+        "kanji": "初めて",
+        "meaning": "Lần đầu tiên",
+        "example": "<ruby>初<rt>はじ</rt></ruby>めて<ruby>日本<rt>にほん</rt></ruby>へ<ruby>来<rt>き</rt></ruby>ました。 (Tôi đến Nhật Bản lần đầu tiên.)",
+        "image": "hajimete_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "さっき",
+        "kanji": "",
+        "meaning": "Vừa nãy",
+        "example": "さっき<ruby>電話<rt>でんわ</rt></ruby>がありました。 (Vừa nãy có cuộc điện thoại.)",
+        "image": "sakki_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "はれ",
+        "kanji": "晴れ",
+        "meaning": "Nắng",
+        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>晴<rt>は</rt></ruby>れです。 (Hôm nay trời nắng.)",
+        "image": "hare_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "くもり",
+        "kanji": "曇り",
+        "meaning": "Âm u, nhiều mây",
+        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>曇<rt>くも</rt></ruby>りです。 (Hôm nay trời nhiều mây.)",
+        "image": "kumori_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "アルバイト",
+        "kanji": "",
+        "meaning": "Việc làm thêm",
+        "example": "アルバイトをします。 (Tôi làm việc bán thời gian.)",
+        "image": "arubaito_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "はなびたいかい",
+        "kanji": "花火大会",
+        "meaning": "Lễ hội pháo hoa",
+        "example": "<ruby>花火大会<rt>はなびたいかい</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi lễ hội pháo hoa.)",
+        "image": "hanabi_taikai_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "イベント",
+        "kanji": "",
+        "meaning": "Sự kiện",
+        "example": "イベントに<ruby>参加<rt>さんか</rt></ruby>します。 (Tôi tham gia sự kiện.)",
+        "image": "ibento_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "うみ",
+        "kanji": "海",
+        "meaning": "Biển",
+        "example": "<ruby>海<rt>うみ</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぎます。 (Tôi bơi ở biển.)",
+        "image": "umi_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "プール",
+        "kanji": "",
+        "meaning": "Hồ bơi",
+        "example": "プールで<ruby>泳<rt>およ</rt></ruby>ぎます。 (Tôi bơi ở hồ bơi.)",
+        "image": "puuru_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "つかれます",
+        "kanji": "疲れます",
+        "meaning": "Mệt",
+        "example": "<ruby>仕事<rt>しごと</rt></ruby>で<ruby>疲<rt>つか</rt></ruby>れました。 (Tôi mệt vì công việc.)",
+        "image": "tsukaremasu_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "でかけます",
+        "kanji": "出かけます",
+        "meaning": "Đi ra ngoài",
+        "example": "<ruby>明日<rt>あした</rt></ruby>は<ruby>出<rt>で</rt></ruby>かけます。 (Ngày mai tôi sẽ đi ra ngoài.)",
+        "image": "dekakemasu_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "のぼります",
+        "kanji": "登ります",
+        "meaning": "Leo",
+        "example": "<ruby>山<rt>やま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ります。 (Tôi leo núi.)",
+        "image": "noborimasu_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "あいます",
+        "kanji": "会います",
+        "meaning": "Gặp",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>会<rt>あ</rt></ruby>います。 (Tôi gặp bạn bè.)",
+        "image": "aimasu_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "りょこうします",
+        "kanji": "旅行します",
+        "meaning": "Du lịch",
+        "example": "<ruby>来月<rt>らいげつ</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>します。 (Tháng sau tôi sẽ đi du lịch Kyoto.)",
+        "image": "ryokou_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "およぎます",
+        "kanji": "泳ぎます",
+        "meaning": "Bơi",
+        "example": "<ruby>プール<rt>puuru</rt></ruby>で<ruby>泳<rt>およ</rt></ruby>ぎます。 (Tôi bơi ở hồ bơi.)",
+        "image": "oyogimasu_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "なにか",
+        "kanji": "何か",
+        "meaning": "Cái gì đó",
+        "example": "<ruby>何<rt>なに</rt></ruby>か<ruby>飲<rt>の</rt></ruby>みたいです。 (Tôi muốn uống gì đó.)",
+        "image": "nanika_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "どこか",
+        "kanji": "",
+        "meaning": "Đâu đó",
+        "example": "どこかへ<ruby>行<rt>い</rt></ruby>きたいです。 (Tôi muốn đi đâu đó.)",
+        "image": "dokoka_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "いっしょに",
+        "kanji": "",
+        "meaning": "Cùng nhau",
+        "example": "いっしょに<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ませんか。 (Chúng ta cùng nhau đi xem phim nhé?)",
+        "image": "issho_ni_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "(place)で(event)があります",
+        "kanji": "",
+        "meaning": "Có (sự kiện/ sự việc) ở (địa điểm)",
+        "example": "<ruby>公園<rt>こうえん</rt></ruby>で<ruby>花火大会<rt>はなびたいかい</rt></ruby>があります。 (Có lễ hội pháo hoa ở công viên.)",
+        "image": "de_ga_arimasu_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "みにいきます",
+        "kanji": "見に行きます",
+        "meaning": "Đi xem",
+        "example": "<ruby>花火<rt>はなび</rt></ruby>を<ruby>見<rt>み</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi xem pháo hoa.)",
+        "image": "mi_ni_ikimasu_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "またこんど",
+        "kanji": "また今度",
+        "meaning": "Hẹn lần sau",
+        "example": "また<ruby>今度<rt>こんど</rt></ruby>。 (Hẹn lần sau.)",
+        "image": "mata_kondo_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "ざんねん",
+        "kanji": "",
+        "meaning": "Đáng tiếc",
+        "example": "<ruby>残念<rt>ざんねん</rt></ruby>です。 (Đáng tiếc quá.)",
+        "image": "zannen_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "ちょっと...",
+        "kanji": "",
+        "meaning": "Không được rồi... (từ chối)",
+        "example": "ちょっと... <ruby>都合<rt>つごう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。 (Xin lỗi, tôi không tiện.)",
+        "image": "chotto_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "だめ",
+        "kanji": "",
+        "meaning": "Không được",
+        "example": "それは<ruby>駄目<rt>だめ</rt></ruby>です。 (Cái đó không được.)",
+        "image": "dame_N5_bai_1.png"
+    },
+    {
+        "index": 33,
+        "word": "たぶん だいじょうぶです",
+        "kanji": "多分大丈夫です",
+        "meaning": "Có lẽ là ổn.",
+        "example": "<ruby>多分大丈夫<rt>たぶんだいじょうぶ</rt></ruby>です。 (Có lẽ là ổn.)",
+        "image": "tabun_daijoubu_desu_N5_bai_1.png"
+    }
+]

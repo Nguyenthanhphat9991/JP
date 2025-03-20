@@ -1,0 +1,218 @@
+[
+    {
+        "index": 1,
+        "word": "あげます",
+        "kanji": "上げます",
+        "meaning": "Cho, tặng",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>プレゼント<rt>purezento</rt></ruby>をあげます。 (Tôi tặng quà cho bạn.)",
+        "image": "agemasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "もらいます",
+        "kanji": "貰います",
+        "meaning": "Nhận",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>プレゼント<rt>purezento</rt></ruby>をもらいます。 (Tôi nhận quà từ bạn.)",
+        "image": "moraimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "おしえます",
+        "kanji": "教えます",
+        "meaning": "Chỉ, dạy",
+        "example": "<ruby>学生<rt>がくせい</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えます。 (Tôi dạy tiếng Nhật cho học sinh.)",
+        "image": "oshiemasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "ならいます",
+        "kanji": "習います",
+        "meaning": "Học tập",
+        "example": "<ruby>先生<rt>せんせい</rt></ruby>に<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>習<rt>なら</rt></ruby>います。 (Tôi học tiếng Nhật từ giáo viên.)",
+        "image": "naraimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "でんわ/(電話を)かけます",
+        "kanji": "電話",
+        "meaning": "Gọi điện thoại",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>をかけます。 (Tôi gọi điện thoại cho bạn.)",
+        "image": "denwa_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "おくります",
+        "kanji": "送ります",
+        "meaning": "Gửi",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ります。 (Tôi gửi thư cho bạn.)",
+        "image": "okurimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "かします",
+        "kanji": "貸します",
+        "meaning": "Cho vay, cho mượn",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>貸<rt>か</rt></ruby>します。 (Tôi cho bạn mượn sách.)",
+        "image": "kashimasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "かります",
+        "kanji": "借ります",
+        "meaning": "Vay, mượn",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<ruby>借<rt>か</rt></ruby>ります。 (Tôi mượn sách từ bạn.)",
+        "image": "karimasu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "おかし",
+        "kanji": "お菓子",
+        "meaning": "Bánh kẹo",
+        "example": "<ruby>お菓子<rt>おかし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn bánh kẹo.)",
+        "image": "okashi_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "おとしだま",
+        "kanji": "お年玉",
+        "meaning": "Tiền mừng tuổi",
+        "example": "<ruby>お年玉<rt>おとしだま</rt></ruby>をもらいました。 (Tôi đã nhận được tiền mừng tuổi.)",
+        "image": "otoshidama_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "おみやげ",
+        "kanji": "お土産",
+        "meaning": "Quà (đặc sản)",
+        "example": "<ruby>お土産<rt>おみやげ</rt></ruby>を<ruby>買<rt>か</rt></ruby>いました。 (Tôi đã mua quà.)",
+        "image": "omiyage_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "てがみ",
+        "kanji": "手紙",
+        "meaning": "Thư",
+        "example": "<ruby>手紙<rt>てがみ</rt></ruby>を<ruby>書<rt>か</rt></ruby>きます。 (Tôi viết thư.)",
+        "image": "tegami_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "ボール",
+        "kanji": "",
+        "meaning": "Bóng",
+        "example": "ボールで<ruby>遊<rt>あそ</rt></ruby>びます。 (Tôi chơi với bóng.)",
+        "image": "booru_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "はな",
+        "kanji": "花",
+        "meaning": "Hoa",
+        "example": "<ruby>花<rt>はな</rt></ruby>を<ruby>贈<rt>おく</rt></ruby>ります。 (Tôi tặng hoa.)",
+        "image": "hana_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "ぼうし",
+        "kanji": "帽子",
+        "meaning": "Mũ",
+        "example": "<ruby>帽子<rt>ぼうし</rt></ruby>をかぶります。 (Tôi đội mũ.)",
+        "image": "boushi_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "りょうり",
+        "kanji": "料理",
+        "meaning": "Món ăn, sự nấu ăn",
+        "example": "<ruby>料理<rt>りょうり</rt></ruby>をします。 (Tôi nấu ăn.)",
+        "image": "ryouri_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "カメラ",
+        "kanji": "",
+        "meaning": "Máy ảnh",
+        "example": "カメラで<ruby>写真<rt>しゃしん</rt></ruby>を<ruby>撮<rt>と</rt></ruby>ります。 (Tôi chụp ảnh bằng máy ảnh.)",
+        "image": "kamera_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "ネックレス",
+        "kanji": "",
+        "meaning": "Dây chuyền",
+        "example": "ネックレスを<ruby>贈<rt>おく</rt></ruby>ります。 (Tôi tặng dây chuyền.)",
+        "image": "nekkuresu_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "プレゼント",
+        "kanji": "",
+        "meaning": "Món quà",
+        "example": "プレゼントをあげます。 (Tôi tặng quà.)",
+        "image": "purezento_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "いわい",
+        "kanji": "祝い",
+        "meaning": "Chúc mừng, quà chúc mừng",
+        "example": "<ruby>誕生日<rt>たんじょうび</rt></ruby>の<ruby>祝<rt>いわ</rt></ruby>いをします。 (Tôi tổ chức sinh nhật.)",
+        "image": "iwai_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "おみまい",
+        "kanji": "お見舞い",
+        "meaning": "Thăm nom, thăm người ốm",
+        "example": "<ruby>病院<rt>びょういん</rt></ruby>へお<ruby>見舞<rt>みま</rt></ruby>いに行きます。 (Tôi đi thăm bệnh ở bệnh viện.)",
+        "image": "omimai_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "おしょうがつ",
+        "kanji": "お正月",
+        "meaning": "Tết dương lịch",
+        "example": "お<ruby>正月<rt>しょうがつ</rt></ruby>に<ruby>親戚<rt>しんせき</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>へ行きます。 (Tôi đến nhà họ hàng vào dịp Tết dương lịch.)",
+        "image": "oshougatsu_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "けっこんしき",
+        "kanji": "結婚式",
+        "meaning": "Lễ kết hôn",
+        "example": "<ruby>結婚式<rt>けっこんしき</rt></ruby>に<ruby>招待<rt>しょうたい</rt></ruby>されました。 (Tôi được mời đến lễ kết hôn.)",
+        "image": "kekkonshiki_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "クリスマス",
+        "kanji": "",
+        "meaning": "Giáng sinh",
+        "example": "クリスマスにプレゼントを<ruby>交換<rt>こうかん</rt></ruby>します。 (Chúng tôi trao đổi quà vào dịp Giáng sinh.)",
+        "image": "kurisumasu_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "バレンタインデー",
+        "kanji": "",
+        "meaning": "Ngày Valentine",
+        "example": "バレンタインデーにチョコレートをあげます。 (Tôi tặng sô cô la vào ngày Valentine.)",
+        "image": "barentain_dee_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "ゲームをしましょう",
+        "kanji": "",
+        "meaning": "Cùng chơi trò chơi nào!",
+        "example": "ゲームをしましょう。 (Cùng chơi trò chơi nào!)",
+        "image": "geemu_o_shimashou_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "そうしましょう",
+        "kanji": "",
+        "meaning": "Làm như vậy đi.",
+        "example": "そうしましょう。 (Làm như vậy đi.)",
+        "image": "sou_shimashou_N5_bai_1.png"
+    }
+]

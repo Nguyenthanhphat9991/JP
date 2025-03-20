@@ -1,0 +1,834 @@
+[
+  {
+    "id": 1,
+    "question_text": "<ruby>聞きます<rt>ききます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Nói",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Hỏi",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Nhìn",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Đọc",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question_text": "<ruby>着きます<rt>つきます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đi",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Đến (nơi)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Về",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Rời khỏi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question_text": "<ruby>泊まります<rt>とまります</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đi",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Trú, ở",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Về",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Rời khỏi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question_text": "<ruby>歩きます<rt>あるきます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Chạy",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Đi bộ",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Bơi",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Lái xe",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question_text": "<ruby>眼鏡をかけます<rt>めがねをかけます</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Tháo (mắt kính)",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Đeo (mắt kính)",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Rửa (mắt kính)",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Sửa (mắt kính)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question_text": "<ruby>見学します<rt>けんがくします</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Mua sắm",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Tham quan",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Ăn uống",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Nghỉ ngơi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question_text": "<ruby>眼鏡<rt>めがね</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Mũ",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Kính",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Khăn",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Giày",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question_text": "<ruby>囲碁<rt>いご</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Cờ vua",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Cờ vây",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Cờ tướng",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Cờ ca-rô",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question_text": "<ruby>馬<rt>うま</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Chó",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Ngựa",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Mèo",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Bò",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question_text": "<ruby>お寺<rt>おてら</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đền thờ",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Chùa",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Nhà thờ",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Miếu",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question_text": "<ruby>温泉<rt>おんせん</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Biển",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Suối nước nóng",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Hồ",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Sông",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question_text": "<ruby>金閣寺<rt>きんかくじ</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Chùa Bạc",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Chùa Vàng",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Chùa Đỏ",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Chùa Xanh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question_text": "<ruby>近所<rt>きんじょ</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Bạn bè",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Hàng xóm",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Đồng nghiệp",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Người thân",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question_text": "<ruby>先輩<rt>せんぱい</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đồng nghiệp",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Tiền bối",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Hậu bối",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Bạn bè",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question_text": "<ruby>納豆<rt>なっとう</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Đậu phụ",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Đậu tương lên men",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Đậu phộng",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Đậu xanh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question_text": "<ruby>富士山<rt>ふじさん</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Núi Phú Sĩ",
+        "is_correct": true
+      },
+      {
+        "id": 2,
+        "answer_text": "Núi A-pon",
+        "is_correct": false
+      },
+      {
+        "id": 3,
+        "answer_text": "Núi Hoàng Liên Sơn",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Núi Trường Sơn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question_text": "マンション có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Nhà riêng",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Chung cư",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Biệt thự",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Nhà trọ",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question_text": "<ruby>寂しい<rt>さびしい</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Vui vẻ",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Buồn",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Hạnh phúc",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Ngạc nhiên",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question_text": "ちょうど có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Gần đúng",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Vừa đúng, vừa đủ",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Hơn một chút",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Kém một chút",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question_text": "<ruby>一度<rt>いちど</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Hai lần",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Một lần",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Ba lần",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Nhiều lần",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question_text": "もう一度 có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Lần cuối",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Thêm một lần nữa",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Lần đầu",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Mọi lần",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question_text": "<ruby>一度も<rt>いちども</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Nhiều lần",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Một lần cũng",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Vài lần",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Thường xuyên",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question_text": "ぜひ có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Có thể",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Nhất định",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Có lẽ",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Không chắc",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question_text": "いいなあ có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Buồn quá",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Thật tuyệt.",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Chán quá",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tệ quá",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question_text": "<ruby>思い出<rt>おもいで</rt></ruby> có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Ước mơ",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Kỷ niệm",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Hy vọng",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tương lai",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question_text": "いい<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby>がたくさんできました có nghĩa là gì?",
+    "answers": [
+      {
+        "id": 1,
+        "answer_text": "Tôi đã có nhiều ước mơ đẹp",
+        "is_correct": false
+      },
+      {
+        "id": 2,
+        "answer_text": "Tôi đã có nhiều kỷ niệm đẹp.",
+        "is_correct": true
+      },
+      {
+        "id": 3,
+        "answer_text": "Tôi đã có nhiều hy vọng đẹp",
+        "is_correct": false
+      },
+      {
+        "id": 4,
+        "answer_text": "Tôi đã có nhiều tương lai đẹp",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Hỏi = ____",
+    "correct_answer": "ききます/聞きます"
+  },
+  {
+    "id": 28,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Đến (nơi) = ____",
+    "correct_answer": "つきます/着きます"
+  },
+  {
+    "id": 29,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Trú, ở = ____",
+    "correct_answer": "とまります/泊まります"
+  },
+  {
+    "id": 30,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Đi bộ = ____",
+    "correct_answer": "あるきます/歩きます"
+  },
+  {
+    "id": 31,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Đeo (mắt kính) = ____",
+    "correct_answer": "(めがねを)かけます/(眼鏡を)かけます"
+  },
+  {
+    "id": 32,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Tham quan = ____",
+    "correct_answer": "けんがくします/見学します"
+  },
+  {
+    "id": 33,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Kính = ____",
+    "correct_answer": "めがね/眼鏡"
+  },
+  {
+    "id": 34,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Cờ vây = ____",
+    "correct_answer": "いご/囲碁"
+  },
+  {
+    "id": 35,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Ngựa = ____",
+    "correct_answer": "うま/馬"
+  },
+  {
+    "id": 36,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Chùa = ____",
+    "correct_answer": "おてら/お寺"
+  },
+  {
+    "id": 37,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Suối nước nóng = ____",
+    "correct_answer": "おんせん/温泉"
+  },
+  {
+    "id": 38,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Chùa Vàng = ____",
+    "correct_answer": "きんかくじ/金閣寺"
+  },
+  {
+    "id": 39,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Hàng xóm = ____",
+    "correct_answer": "きんじょ/近所"
+  },
+  {
+    "id": 40,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Tiền bối = ____",
+    "correct_answer": "せんぱい/先輩"
+  },
+  {
+    "id": 41,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Đậu tương lên men = ____",
+    "correct_answer": "なっとう/納豆"
+  },
+  {
+    "id": 42,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Núi Phú Sĩ = ____",
+    "correct_answer": "ふじさん/富士山"
+  },
+  {
+    "id": 43,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Chung cư = ____",
+    "correct_answer": "マンション"
+  },
+  {
+    "id": 44,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Buồn = ____",
+    "correct_answer": "さびしい/寂しい"
+  },
+  {
+    "id": 45,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Vừa đúng, vừa đủ = ____",
+    "correct_answer": "ちょうど"
+  },
+  {
+    "id": 46,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Một lần = ____",
+    "correct_answer": "いちど/一度"
+  },
+  {
+    "id": 47,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Thêm một lần nữa = ____",
+    "correct_answer": "もういちど/もう一度"
+  },
+  {
+    "id": 48,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Một lần cũng = ____",
+    "correct_answer": "いちども/一度も"
+  },
+  {
+    "id": 49,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Nhất định = ____",
+    "correct_answer": "ぜひ"
+  },
+  {
+    "id": 50,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Thật tuyệt. = ____",
+    "correct_answer": "いいなあ"
+  },
+  {
+    "id": 51,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Kỷ niệm = ____",
+    "correct_answer": "おもいで/思い出"
+  },
+  {
+    "id": 52,
+    "type": "fill_in",
+    "question_text": "Điền vào chỗ trống: Tôi đã có nhiều kỷ niệm đẹp. = ____",
+    "correct_answer": "いいおもいでがたくさんできました/いい思い出がたくさんできました"
+  }
+]

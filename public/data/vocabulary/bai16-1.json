@@ -1,0 +1,226 @@
+[
+    {
+        "index": 1,
+        "word": "まちます",
+        "kanji": "待ちます",
+        "meaning": "Chờ đợi",
+        "example": "<ruby>駅<rt>えき</rt></ruby>で<ruby>友達<rt>ともだち</rt></ruby>を<ruby>待<rt>ま</rt></ruby>ちます。 (Tôi đợi bạn ở nhà ga.)",
+        "image": "machimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "すいます",
+        "kanji": "吸います",
+        "meaning": "Hút (thuốc)",
+        "example": "たばこを<ruby>吸<rt>す</rt></ruby>います。 (Tôi hút thuốc.)",
+        "image": "suimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "もちます",
+        "kanji": "持ちます",
+        "meaning": "Mang, cầm",
+        "example": "<ruby>荷物<rt>にもつ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちます。 (Tôi mang hành lý.)",
+        "image": "mochimasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "しります",
+        "kanji": "知ります",
+        "meaning": "Biết",
+        "example": "<ruby>田中<rt>たなか</rt></ruby>さんを<ruby>知<rt>し</rt></ruby>っています。 (Tôi biết anh Tanaka.)",
+        "image": "shirimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "すみます",
+        "kanji": "住みます",
+        "meaning": "Sống",
+        "example": "<ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいます。 (Tôi sống ở Tokyo.)",
+        "image": "sumimasu_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "ひきます",
+        "kanji": "弾きます",
+        "meaning": "Đánh (đàn)",
+        "example": "ピアノを<ruby>弾<rt>ひ</rt></ruby>きます。 (Tôi chơi piano.)",
+        "image": "hikimasu_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "ふります/(あめがふります)",
+        "kanji": "降ります/(雨が降ります)",
+        "meaning": "(Mưa) rơi",
+        "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。 (Trời đang mưa.)",
+        "image": "furimasu_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "おります",
+        "kanji": "降ります",
+        "meaning": "Xuống (xe)",
+        "example": "<ruby>駅<rt>えき</rt></ruby>で<ruby>降<rt>お</rt></ruby>ります。 (Tôi xuống xe ở nhà ga.)",
+        "image": "orimasu_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "はなします",
+        "kanji": "話します",
+        "meaning": "Nói chuyện",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>話<rt>はな</rt></ruby>します。 (Tôi nói chuyện với bạn bè.)",
+        "image": "hanashimasu_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "コピーします",
+        "kanji": "",
+        "meaning": "Copy, phô tô",
+        "example": "コピーをします。 (Tôi sao chép.)",
+        "image": "kopii_shimasu_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "たちます",
+        "kanji": "立ちます",
+        "meaning": "Đứng",
+        "example": "<ruby>立<rt>た</rt></ruby>ってください。 (Xin hãy đứng lên.)",
+        "image": "tachimasu_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "すわります",
+        "kanji": "座ります",
+        "meaning": "Ngồi",
+        "example": "<ruby>座<rt>すわ</rt></ruby>ってください。 (Xin hãy ngồi.)",
+        "image": "suwarimasu_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "さがします",
+        "kanji": "探します",
+        "meaning": "Tìm",
+        "example": "<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>します。 (Tôi tìm chìa khóa.)",
+        "image": "sagashimasu_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "よびます",
+        "kanji": "呼びます",
+        "meaning": "Gọi, kêu",
+        "example": "<ruby>タクシー<rt>takushii</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>びます。 (Tôi gọi taxi.)",
+        "image": "yobimasu_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "つかいます",
+        "kanji": "使います",
+        "meaning": "Sử dụng",
+        "example": "<ruby>パソコン<rt>pasokon</rt></ruby>を<ruby>使<rt>つか</rt></ruby>います。 (Tôi sử dụng máy tính cá nhân.)",
+        "image": "tsukaimasu_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "どくしん",
+        "kanji": "独身",
+        "meaning": "Độc thân",
+        "example": "<ruby>独身<rt>どくしん</rt></ruby>です。 (Tôi độc thân.)",
+        "image": "dokushin_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "たばこ",
+        "kanji": "",
+        "meaning": "Thuốc lá",
+        "example": "たばこを<ruby>吸<rt>す</rt></ruby>います。 (Tôi hút thuốc lá.)",
+        "image": "tabako_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "ピアノ",
+        "kanji": "",
+        "meaning": "Đàn piano",
+        "example": "ピアノを<ruby>弾<rt>ひ</rt></ruby>きます。 (Tôi chơi đàn piano.)",
+        "image": "piano_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "ジョギング",
+        "kanji": "",
+        "meaning": "Chạy bộ",
+        "example": "ジョギングをします。 (Tôi chạy bộ.)",
+        "image": "jogingu_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "じゅうしょ",
+        "kanji": "住所",
+        "meaning": "Địa chỉ",
+        "example": "<ruby>住所<rt>じゅうしょ</rt></ruby>はどこですか。 (Địa chỉ của bạn ở đâu?)",
+        "image": "juusho_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "クラブ",
+        "kanji": "",
+        "meaning": "Câu lạc bộ",
+        "example": "クラブに<ruby>入<rt>はい</rt></ruby>ります。 (Tôi tham gia câu lạc bộ.)",
+        "image": "kurabu_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "りょうしん",
+        "kanji": "両親",
+        "meaning": "Cha mẹ",
+        "example": "<ruby>両親<rt>りょうしん</rt></ruby>に<ruby>会<rt>あ</rt></ruby>います。 (Tôi gặp cha mẹ.)",
+        "image": "ryoushin_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "おにぎり",
+        "kanji": "",
+        "meaning": "Cơm nắm",
+        "example": "おにぎりを<ruby>作<rt>つく</rt></ruby>ります。 (Tôi làm cơm nắm.)",
+        "image": "onigiri_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "しやくしょ",
+        "kanji": "市役所",
+        "meaning": "Toà thị chính",
+        "example": "<ruby>市役所<rt>しやくしょ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi đến tòa thị chính.)",
+        "image": "shiyakusho_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "でんわばんごう",
+        "kanji": "電話番号",
+        "meaning": "Số điện thoại",
+        "example": "<ruby>電話番号<rt>でんわばんごう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。 (Xin hãy cho tôi biết số điện thoại của bạn.)",
+        "image": "denwa_bangou_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "へいじつ",
+        "kanji": "平日",
+        "meaning": "Ngày thường",
+        "example": "<ruby>平日<rt>へいじつ</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいです。 (Ngày thường tôi bận.)",
+        "image": "heijitsu_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "ほか",
+        "kanji": "他",
+        "meaning": "Khác",
+        "example": "ほかに<ruby>何<rt>なに</rt></ruby>かありますか。 (Còn gì khác không?)",
+        "image": "hoka_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "だいじょうぶですか",
+        "kanji": "大丈夫ですか",
+        "meaning": "Bạn có ổn không?",
+        "example": "<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか。 (Bạn có ổn không?)",
+        "image": "daijoubu_desu_ka_N5_bai_1.png"
+    }
+]

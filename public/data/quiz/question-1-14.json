@@ -1,0 +1,1217 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>遅い<rt>おそい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhanh, lẹ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Muộn, chậm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Quan trọng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Dài",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "<ruby>早い<rt>はやい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Muộn, chậm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhanh, lẹ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Dài",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngắn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>大切<rt>たいせつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhanh, lẹ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Quan trọng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngắn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đầu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>長い<rt>ながい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Quan trọng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Dài",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đầu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tóc",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "<ruby>短い<rt>みじかい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Dài",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ngắn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tóc",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Miệng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>頭<rt>あたま</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngắn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đầu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Miệng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mũi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "<ruby>髪<rt>かみ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đầu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tóc",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mũi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tai",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>口<rt>くち</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tóc",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Miệng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tai",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chân",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>鼻<rt>はな</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Miệng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mũi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chân",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tay",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "<ruby>耳<rt>みみ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mũi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tai",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tay",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Lưng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>足<rt>あし</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tai",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chân",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Lưng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mùa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "<ruby>手<rt>て</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chân",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tay",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mùa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mùa xuân",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>背<rt>せ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tay",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Lưng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mùa xuân",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mùa hè",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>季節<rt>きせつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Lưng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mùa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mùa hè",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mùa thu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "<ruby>春<rt>はる</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mùa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mùa xuân",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mùa thu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mùa đông",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>夏<rt>なつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mùa xuân",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mùa hè",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mùa đông",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Khỉ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>秋<rt>あき</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mùa hè",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mùa thu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Khỉ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Voi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "<ruby>冬<rt>ふゆ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mùa thu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mùa đông",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Voi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Núi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "サル có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mùa đông",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Khỉ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Núi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đỉnh Everest",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "ゾウ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Khỉ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Voi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đỉnh Everest",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Từ vựng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "<ruby>山<rt>やま</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Voi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Núi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Từ vựng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nước ngoài",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "エベレスト có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Núi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đỉnh Everest",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nước ngoài",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đồ vật",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "<ruby>言葉<rt>ことば</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đỉnh Everest",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Từ vựng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đồ vật",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Họ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "<ruby>外国<rt>がいこく</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Từ vựng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nước ngoài",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Họ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thứ nhất",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "<ruby>物<rt>もの</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nước ngoài",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đồ vật",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thứ nhất",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Không khí",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "<ruby>名字<rt>みょうじ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đồ vật",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Họ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Không khí",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thịt bò",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "<ruby>一番<rt>いちばん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Họ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thứ nhất",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Không khí",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thịt bò",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question_text": "<ruby>空気<rt>くうき</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thứ nhất",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Không khí",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thịt bò",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thịt gà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "question_text": "<ruby>牛肉<rt>ぎゅうにく</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Không khí",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thịt bò",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thịt gà",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thế giới",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "question_text": "<ruby>鶏肉<rt>とりにく</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thịt bò",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thịt gà",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thế giới",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sự thuận tiện",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "question_text": "<ruby>世界<rt>せかい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thịt gà",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thế giới",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sự thuận tiện",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giá cả",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "question_text": "<ruby>都合<rt>つごう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thế giới",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sự thuận tiện",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Giá cả",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Vật giá",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "question_text": "<ruby>値段<rt>ねだん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Sự thuận tiện",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Giá cả",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Vật giá",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Quần áo",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "question_text": "<ruby>物価<rt>ぶっか</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Giá cả",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Vật giá",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Quần áo",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhiều, đa dạng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "question_text": "<ruby>服<rt>ふく</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Vật giá",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Quần áo",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhiều, đa dạng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Suốt hẳn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "question_text": "いろいろ(な) có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Quần áo",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhiều, đa dạng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Suốt hẳn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cái nào",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "question_text": "ずっと có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhiều, đa dạng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Suốt hẳn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cái nào",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Muộn, chậm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "question_text": "どちら có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Suốt hẳn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái nào",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Muộn, chậm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhanh, lẹ",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 39,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Muộn, chậm = ____",
+        "correct_answer": "おそい/遅い"
+      },
+      {
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhanh, lẹ = ____",
+        "correct_answer": "はやい/早い"
+      },
+      {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quan trọng = ____",
+        "correct_answer": "たいせつ/大切"
+      },
+      {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dài = ____",
+        "correct_answer": "ながい/長い"
+      },
+      {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngắn = ____",
+        "correct_answer": "みじかい/短い"
+      },
+      {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đầu = ____",
+        "correct_answer": "あたま/頭"
+      },
+      {
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tóc = ____",
+        "correct_answer": "かみ/髪"
+      },
+      {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Miệng = ____",
+        "correct_answer": "くち/口"
+      },
+      {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mũi = ____",
+        "correct_answer": "はな/鼻"
+      },
+      {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tai = ____",
+        "correct_answer": "みみ/耳"
+      },
+      {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chân = ____",
+        "correct_answer": "あし/足"
+      },
+      {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tay = ____",
+        "correct_answer": "て/手"
+      },
+      {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lưng = ____",
+        "correct_answer": "せ/背"
+      },
+      {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mùa = ____",
+        "correct_answer": "きせつ/季節"
+      },
+      {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mùa xuân = ____",
+        "correct_answer": "はる/春"
+      },
+      {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mùa hè = ____",
+        "correct_answer": "なつ/夏"
+      },
+      {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mùa thu = ____",
+        "correct_answer": "あき/秋"
+      },
+      {
+        "id": 56,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mùa đông = ____",
+        "correct_answer": "ふゆ/冬"
+      },
+      {
+        "id": 57,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Khỉ = ____",
+        "correct_answer": "サル/猿"
+      },
+      {
+        "id": 58,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Voi = ____",
+        "correct_answer": "ゾウ/象"
+      },
+      {
+        "id": 59,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Núi = ____",
+        "correct_answer": "やま/山"
+      },
+      {
+        "id": 60,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đỉnh Everest = ____",
+        "correct_answer": "エベレスト"
+      },
+      {
+        "id": 61,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Từ vựng = ____",
+        "correct_answer": "ことば/言葉"
+      },
+      {
+        "id": 62,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nước ngoài = ____",
+        "correct_answer": "がいこく/外国"
+      },
+      {
+        "id": 63,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đồ vật = ____",
+        "correct_answer": "もの/物"
+      },
+      {
+        "id": 64,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Họ = ____",
+        "correct_answer": "みょうじ/名字"
+      },
+      {
+        "id": 65,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thứ nhất = ____",
+        "correct_answer": "いちばん/一番"
+      },
+      {
+        "id": 66,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Không khí = ____",
+        "correct_answer": "くうき/空気"
+      },
+      {
+        "id": 67,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thịt bò = ____",
+        "correct_answer": "ぎゅうにく/牛肉"
+      },
+      {
+        "id": 68,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thịt gà = ____",
+        "correct_answer": "とりにく/鶏肉"
+      },
+      {
+        "id": 69,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thế giới = ____",
+        "correct_answer": "せかい/世界"
+      },
+      {
+        "id": 70,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sự thuận tiện = ____",
+        "correct_answer": "つごう/都合"
+      },
+      {
+        "id": 71,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giá cả = ____",
+        "correct_answer": "ねだん/値段"
+      },
+      {
+        "id": 72,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vật giá = ____",
+        "correct_answer": "ぶっか/物価"
+      },
+      {
+        "id": 73,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quần áo = ____",
+        "correct_answer": "ふく/服"
+      },
+      {
+        "id": 74,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhiều, đa dạng = ____",
+        "correct_answer": "いろいろ(な)"
+      },
+      {
+        "id": 75,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Suốt hẳn = ____",
+        "correct_answer": "ずっと"
+      },
+      {
+        "id": 76,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái nào = ____",
+        "correct_answer": "どちら"
+      }
+]

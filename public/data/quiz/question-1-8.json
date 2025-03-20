@@ -1,0 +1,1440 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>兄<rt>あに</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Em trai",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Anh trai",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Em gái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chị gái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "<ruby>弟<rt>おとうと</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Anh trai",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Em trai",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Em gái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chị gái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>姉<rt>あね</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Anh trai",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chị gái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Em gái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Em trai",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>妹<rt>いもうと</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Anh trai",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Em gái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chị gái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Em trai",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "<ruby>兄弟<rt>きょうだい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bố mẹ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Anh chị em",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ông bà",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Con cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>祖父<rt>そふ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bà",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ông",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bố",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mẹ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "<ruby>祖母<rt>そぼ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ông",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bà",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bố",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mẹ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>父<rt>ちち</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mẹ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ba, bố",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ông",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>母<rt>はは</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ba, bố",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mẹ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ông",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "<ruby>子ども<rt>こども</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Người lớn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trẻ em, con nít",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Người già",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thanh niên",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>男の子<rt>おとこのこ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cô bé, bé gái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cậu bé, bé trai",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Người đàn ông",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Người phụ nữ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "<ruby>女の子<rt>おんなのこ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cậu bé, bé trai",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cô bé, bé gái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Người đàn ông",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Người phụ nữ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>男の人<rt>おとこのひと</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cô bé, bé gái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Người đàn ông",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cậu bé, bé trai",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Người phụ nữ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>女の人<rt>おんなのひと</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Người đàn ông",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Người phụ nữ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cậu bé, bé trai",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cô bé, bé gái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "<ruby>お客さん<rt>おきゃくさん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhân viên cửa hàng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Khách hàng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cửa hàng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trong cửa hàng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>店員<rt>てんいん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Khách hàng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhân viên cửa hàng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cửa hàng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trong cửa hàng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>店<rt>みせ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhân viên cửa hàng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cửa hàng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Khách hàng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trong cửa hàng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "<ruby>店内<rt>てんない</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cửa hàng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trong cửa hàng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhân viên cửa hàng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Khách hàng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "<ruby>花瓶<rt>かびん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái tủ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bình hoa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cửa sổ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cửa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>箪笥<rt>たんす</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bình hoa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái tủ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cửa sổ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cửa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "<ruby>窓<rt>まど</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái tủ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cửa sổ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bình hoa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cửa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "ドア có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cửa sổ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cửa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cái tủ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bình hoa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "<ruby>林檎<rt>りんご</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái cốc",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Quả táo",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Điều hòa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cửa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "コップ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Quả táo",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cái cốc",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Điều hòa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cửa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "エアコン có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cái cốc",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Điều hòa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Quả táo",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cửa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "ひとつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "2 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "1 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "3 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "4 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "ふたつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "1 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "2 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "3 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "4 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question_text": "みっつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "2 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "3 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "4 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "5 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "question_text": "よっつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "3 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "4 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "5 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "6 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "question_text": "いつつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "4 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "5 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "6 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "7 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "question_text": "むっつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "5 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "6 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "7 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "8 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "question_text": "ななつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "6 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "7 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "8 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "9 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "question_text": "やっつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "7 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "8 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "9 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "10 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "question_text": "ここのつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "8 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "9 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "10 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "11 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "question_text": "とお có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "9 cái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "10 cái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "11 cái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "12 cái",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "question_text": "いくつ có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bao xa?",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bao nhiêu?",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Khi nào?",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ở đâu?",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "question_text": "<ruby>一人<rt>ひとり</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "2 người",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "1 người",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "3 người",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "4 người",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "question_text": "<ruby>二人<rt>ふたり</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "1 người",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "2 người",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "3 người",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "4 người",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "question_text": "<ruby>三人<rt>さんにん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "2 người",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "3 người",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "4 người",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "5 người",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "question_text": "<ruby>四人<rt>よにん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "3 người",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "4 người",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "5 người",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "6 người",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "question_text": "~<ruby>人<rt>にん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "~ vật",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "~ người",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "~ đồ vật",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "~ cây",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "question_text": "<ruby>何人<rt>なんにん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bao nhiêu đồ vật?",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bao nhiêu người?",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bao nhiêu cây?",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bao nhiêu con vật?",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "question_text": "すごいひとですね có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đẹp trai thật đấy!",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đông người thật đấy!",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngon quá!",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tuyệt vời!",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "question_text": "じゃ... có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xin chào...",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thế thì, vậy thì...",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cảm ơn...",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xin lỗi...",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "question_text": "いいですね có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Không tốt lắm.",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Được đấy nhỉ, hay quá.",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tạm biệt.",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Không cần đâu.",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Anh trai = ____",
+        "correct_answer": "あに/兄"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Em trai = ____",
+        "correct_answer": "おとうと/弟"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chị gái = ____",
+        "correct_answer": "あね/姉"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Em gái = ____",
+        "correct_answer": "いもうと/妹"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Anh chị em = ____",
+        "correct_answer": "きょうだい/兄弟"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ông = ____",
+        "correct_answer": "そふ/祖父"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bà = ____",
+        "correct_answer": "そぼ/祖母"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ba, bố = ____",
+        "correct_answer": "ちち/父"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mẹ = ____",
+        "correct_answer": "はは/母"
+    },
+    {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trẻ em, con nít = ____",
+        "correct_answer": "こども/子ども"
+    },
+    {
+        "id": 56,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cậu bé, bé trai = ____",
+        "correct_answer": "おとこのこ/男の子"
+    },
+    {
+        "id": 57,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cô bé, bé gái = ____",
+        "correct_answer": "おんなのこ/女の子"
+    },
+    {
+        "id": 58,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Người đàn ông = ____",
+        "correct_answer": "おとこのひと/男の人"
+    },
+    {
+        "id": 59,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Người phụ nữ = ____",
+        "correct_answer": "おんなのひと/女の人"
+    },
+    {
+        "id": 60,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Khách hàng = ____",
+        "correct_answer": "おきゃくさん/お客さん"
+    },
+    {
+        "id": 61,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhân viên cửa hàng = ____",
+        "correct_answer": "てんいん/店員"
+    },
+    {
+        "id": 62,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cửa hàng = ____",
+        "correct_answer": "みせ/店"
+    },
+    {
+        "id": 63,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trong cửa hàng = ____",
+        "correct_answer": "てんない/店内"
+    },
+    {
+        "id": 64,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bình hoa = ____",
+        "correct_answer": "かびん/花瓶"
+    },
+    {
+        "id": 65,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái tủ = ____",
+        "correct_answer": "たんす/箪笥"
+    },
+    {
+        "id": 66,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cửa sổ = ____",
+        "correct_answer": "まど/窓"
+    },
+    {
+        "id": 67,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cửa = ____",
+        "correct_answer": "ドア"
+    },
+    {
+        "id": 68,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quả táo = ____",
+        "correct_answer": "りんご/林檎"
+    },
+    {
+        "id": 69,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cái cốc = ____",
+        "correct_answer": "コップ"
+    },
+    {
+        "id": 70,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Điều hòa = ____",
+        "correct_answer": "エアコン"
+    },
+    {
+        "id": 71,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 1 cái = ____",
+        "correct_answer": "ひとつ"
+    },
+    {
+        "id": 72,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 2 cái = ____",
+        "correct_answer": "ふたつ"
+    },
+    {
+        "id": 73,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 3 cái = ____",
+        "correct_answer": "みっつ"
+    },
+    {
+        "id": 74,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 4 cái = ____",
+        "correct_answer": "よっつ"
+    },
+    {
+        "id": 75,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 5 cái = ____",
+        "correct_answer": "いつつ"
+    },
+    {
+        "id": 76,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 6 cái = ____",
+        "correct_answer": "むっつ"
+    },
+    {
+        "id": 77,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 7 cái = ____",
+        "correct_answer": "ななつ"
+    },
+    {
+        "id": 78,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 8 cái = ____",
+        "correct_answer": "やっつ"
+    },
+    {
+        "id": 79,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 9 cái = ____",
+        "correct_answer": "ここのつ"
+    },{
+        "id": 80,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 10 cái = ____",
+        "correct_answer": "とお"
+    },
+    {
+        "id": 81,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bao nhiêu? = ____",
+        "correct_answer": "いくつ"
+    },
+    {
+        "id": 82,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 1 người = ____",
+        "correct_answer": "ひとり/一人"
+    },
+    {
+        "id": 83,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 2 người = ____",
+        "correct_answer": "ふたり/二人"
+    },
+    {
+        "id": 84,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 3 người = ____",
+        "correct_answer": "さんにん/三人"
+    },
+    {
+        "id": 85,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: 4 người = ____",
+        "correct_answer": "よにん/四人"
+    },
+    {
+        "id": 86,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: ~ người = ____",
+        "correct_answer": "~にん/人"
+    },
+    {
+        "id": 87,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bao nhiêu người? = ____",
+        "correct_answer": "なんにん/何人"
+    },
+    {
+        "id": 88,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đông người thật đấy! = ____",
+        "correct_answer": "すごいひとですね"
+    },
+    {
+        "id": 89,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thế thì, vậy thì... = ____",
+        "correct_answer": "じゃ..."
+    },
+    {
+        "id": 90,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Được đấy nhỉ, hay quá = ____",
+        "correct_answer": "いいですね"
+    }
+]

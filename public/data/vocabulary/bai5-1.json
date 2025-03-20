@@ -1,0 +1,258 @@
+[
+    {
+        "index": 1,
+        "word": "おととい",
+        "kanji": "",
+        "meaning": "Hôm kia",
+        "example": "おとといは<ruby>雨<rt>あめ</rt></ruby>でした。 (Hôm kia trời mưa.)",
+        "image": "ototoi_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "きのう",
+        "kanji": "昨日",
+        "meaning": "Hôm qua",
+        "example": "<ruby>昨日<rt>きのう</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。 (Hôm qua tôi đã xem phim với bạn.)",
+        "image": "kinou_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "きょう",
+        "kanji": "今日",
+        "meaning": "Hôm nay",
+        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いです。 (Hôm nay trời nóng.)",
+        "image": "kyou_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "まいにち",
+        "kanji": "毎日",
+        "meaning": "Mỗi ngày",
+        "example": "<ruby>毎日<rt>まいにち</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học mỗi ngày.)",
+        "image": "mainichi_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "けさ",
+        "kanji": "今朝",
+        "meaning": "Sáng nay",
+        "example": "<ruby>今朝<rt>けさ</rt></ruby>は<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きました。 (Sáng nay tôi đã thức dậy sớm.)",
+        "image": "kesa_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "まいあさ",
+        "kanji": "毎朝",
+        "meaning": "Mỗi sáng",
+        "example": "<ruby>毎朝<rt>まいあさ</rt></ruby>コーヒーを<ruby>飲<rt>の</rt></ruby>みます。 (Mỗi sáng tôi uống cà phê.)",
+        "image": "maiasa_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "ひる",
+        "kanji": "昼",
+        "meaning": "Trưa",
+        "example": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn cơm trưa.)",
+        "image": "hiru_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "ばん/よる",
+        "kanji": "晩/夜",
+        "meaning": "Tối",
+        "example": "<ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。 (Tôi nấu cơm tối.)",
+        "image": "ban_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "こんばん",
+        "kanji": "今晩",
+        "meaning": "Tối nay",
+        "example": "<ruby>今晩<rt>こんばん</rt></ruby>は<ruby>友達<rt>ともだち</rt></ruby>と<ruby>会<rt>あ</rt></ruby>います。 (Tối nay tôi gặp bạn.)",
+        "image": "konban_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "まいばん",
+        "kanji": "毎晩",
+        "meaning": "Mỗi tối",
+        "example": "<ruby>毎晩<rt>まいばん</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>します。 (Mỗi tối tôi học bài.)",
+        "image": "maiban_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "じかん",
+        "kanji": "時間",
+        "meaning": "Thời gian",
+        "example": "<ruby>時間<rt>じかん</rt></ruby>がありません。 (Tôi không có thời gian.)",
+        "image": "jikan_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "どのぐらい/どのくらい",
+        "kanji": "",
+        "meaning": "Khoảng bao lâu",
+        "example": "どのぐらい<ruby>時間<rt>じかん</rt></ruby>がかかりますか。 (Mất khoảng bao lâu?)",
+        "image": "donogurai_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "おきます",
+        "kanji": "起き",
+        "meaning": "Thức dậy",
+        "example": "6<ruby>時<rt>じ</rt></ruby>に<ruby>起<rt>お</rt></ruby>きます。 (Tôi thức dậy lúc 6 giờ.)",
+        "image": "okimasu_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "ねます",
+        "kanji": "寝",
+        "meaning": "Ngủ",
+        "example": "11<ruby>時<rt>じ</rt></ruby>に<ruby>寝<rt>ね</rt></ruby>ます。 (Tôi đi ngủ lúc 11 giờ.)",
+        "image": "nemasu_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "おわります",
+        "kanji": "終わ",
+        "meaning": "Kết thúc",
+        "example": "<ruby>会議<rt>かいぎ</rt></ruby>は12<ruby>時<rt>じ</rt></ruby>に<ruby>終<rt>お</rt></ruby>わります。 (Cuộc họp kết thúc lúc 12 giờ.)",
+        "image": "owarimasu_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "かいものします",
+        "kanji": "買い物",
+        "meaning": "Mua sắm",
+        "example": "<ruby>買い物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi mua sắm.)",
+        "image": "kaimonoshimasu_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "さんぽします",
+        "kanji": "散歩",
+        "meaning": "Đi dạo, tản bộ",
+        "example": "<ruby>公園<rt>こうえん</rt></ruby>を<ruby>散歩<rt>さんぽ</rt></ruby>します。 (Tôi đi dạo trong công viên.)",
+        "image": "sanposhimasu_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "せんたくします",
+        "kanji": "洗濯",
+        "meaning": "Giặt giũ",
+        "example": "<ruby>洗濯<rt>せんたく</rt></ruby>をします。 (Tôi giặt đồ.)",
+        "image": "sentakushimasu_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "そうじします",
+        "kanji": "掃除",
+        "meaning": "Dọn dẹp, vệ sinh",
+        "example": "<ruby>部屋<rt>へや</rt></ruby>を<ruby>掃除<rt>そうじ</rt></ruby>します。 (Tôi dọn dẹp phòng.)",
+        "image": "soujishimasu_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "はたらきます",
+        "kanji": "働き",
+        "meaning": "Làm việc",
+        "example": "<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きます。 (Tôi làm việc ở công ty.)",
+        "image": "hatarakimasu_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "べんきょうします",
+        "kanji": "勉強",
+        "meaning": "Học",
+        "example": "<ruby>図書館<rt>としょかん</rt></ruby>で<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học ở thư viện.)",
+        "image": "benkyoushimasu_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "やすみます",
+        "kanji": "休み",
+        "meaning": "Nghỉ",
+        "example": "<ruby>日曜日<rt>にちようび</rt></ruby>は<ruby>休<rt>やす</rt></ruby>みます。 (Chủ nhật tôi nghỉ.)",
+        "image": "yasumimasu_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "おまつり",
+        "kanji": "お祭り",
+        "meaning": "Lễ hội",
+        "example": "<ruby>お祭<rt>まつ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi lễ hội.)",
+        "image": "omatsuri_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "コンサート",
+        "kanji": "",
+        "meaning": "Buổi hòa nhạc",
+        "example": "コンサートへ<ruby>行<rt>い</rt></ruby>きます。 (Tôi đi xem buổi hòa nhạc.)",
+        "image": "konsaato_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "えいが",
+        "kanji": "映画",
+        "meaning": "Phim",
+        "example": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ます。 (Tôi xem phim.)",
+        "image": "eiga_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "はやいですね",
+        "kanji": "",
+        "meaning": "Sớm nhỉ.",
+        "example": "もう7<ruby>時<rt>じ</rt></ruby>ですか。はやいですね。 (Đã 7 giờ rồi à. Sớm nhỉ.)",
+        "image": "hayai_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "ええ",
+        "kanji": "",
+        "meaning": "Vâng.",
+        "example": "ええ、そうです。 (Vâng, đúng vậy.)",
+        "image": "ee_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "そうですか",
+        "kanji": "",
+        "meaning": "Thế à.",
+        "example": "そうですか、<ruby>知<rt>し</rt></ruby>りませんでした。 (Thế à, tôi không biết.)",
+        "image": "sou_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "それから",
+        "kanji": "",
+        "meaning": "Sau đó, ...",
+        "example": "それから、どうしましたか。 (Sau đó, chuyện gì đã xảy ra?)",
+        "image": "sorekara_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "ひる",
+        "kanji": "昼",
+        "meaning": "Buổi trưa",
+        "example": "<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn cơm trưa.)",
+        "image": "hiru_N5_bai_2.png"
+    },
+    {
+        "index": 31,
+        "word": "よる",
+        "kanji": "夜",
+        "meaning": "Buổi tối",
+        "example": "<ruby>夜<rt>よる</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>します。 (Tôi học vào buổi tối.)",
+        "image": "yoru_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "あさ",
+        "kanji": "朝",
+        "meaning": "Buổi sáng",
+        "example": "<ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べます。 (Tôi ăn sáng.)",
+        "image": "asa_N5_bai_1.png"
+    }
+]

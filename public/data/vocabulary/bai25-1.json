@@ -1,0 +1,258 @@
+[
+    {
+        "index": 1,
+        "word": "うります",
+        "kanji": "売ります",
+        "meaning": "Bán",
+        "example": "<ruby>車<rt>くるま</rt></ruby>を<ruby>売<rt>う</rt></ruby>ります。 (Tôi bán xe.)",
+        "image": "urimasu_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "おもいます",
+        "kanji": "思います",
+        "meaning": "Nghĩ",
+        "example": "<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。 (Tôi nghĩ ngày mai trời mưa.)",
+        "image": "omoimasu_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "きをつけます",
+        "kanji": "気を付けます",
+        "meaning": "Để ý, chú ý",
+        "example": "<ruby>気<rt>き</rt></ruby>を<ruby>付<rt>つ</rt></ruby>けてください。 (Hãy chú ý.)",
+        "image": "ki_o_tsukemasu_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "たのみます",
+        "kanji": "頼みます",
+        "meaning": "Nhờ",
+        "example": "<ruby>友達<rt>ともだち</rt></ruby>に<ruby>頼<rt>たの</rt></ruby>みます。 (Tôi nhờ bạn bè.)",
+        "image": "tanomimasu_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "あかちゃん",
+        "kanji": "赤ちゃん",
+        "meaning": "Em bé",
+        "example": "<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>泣<rt>な</rt></ruby>いています。 (Em bé đang khóc.)",
+        "image": "akachan_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "かちょう",
+        "kanji": "課長",
+        "meaning": "Trưởng nhóm",
+        "example": "<ruby>課長<rt>かちょう</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>します。 (Tôi bàn bạc với trưởng nhóm.)",
+        "image": "kachou_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "ぶちょう",
+        "kanji": "部長",
+        "meaning": "Trưởng phòng",
+        "example": "<ruby>部長<rt>ぶちょう</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>します。 (Tôi báo cáo với trưởng phòng.)",
+        "image": "buchou_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "しゃちょう",
+        "kanji": "社長",
+        "meaning": "Giám đốc",
+        "example": "<ruby>社長<rt>しゃちょう</rt></ruby>が<ruby>来<rt>き</rt></ruby>ました。 (Giám đốc đã đến.)",
+        "image": "shachou_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "けいけん",
+        "kanji": "経験",
+        "meaning": "Kinh nghiệm",
+        "example": "<ruby>経験<rt>けいけん</rt></ruby>があります。 (Tôi có kinh nghiệm.)",
+        "image": "keiken_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "こうこうせい",
+        "kanji": "高校生",
+        "meaning": "Học sinh cấp ba",
+        "example": "<ruby>高校生<rt>こうこうせい</rt></ruby>です。 (Tôi là học sinh cấp ba.)",
+        "image": "koukousei_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "こうつう",
+        "kanji": "交通",
+        "meaning": "Giao thông",
+        "example": "<ruby>交通<rt>こうつう</rt></ruby>が<ruby>便利<rt>べんり</rt></ruby>です。 (Giao thông thuận tiện.)",
+        "image": "koutsuu_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "じゆう",
+        "kanji": "自由",
+        "meaning": "Tự do",
+        "example": "<ruby>自由<rt>じゆう</rt></ruby>な<ruby>時間<rt>じかん</rt></ruby>があります。 (Tôi có thời gian tự do.)",
+        "image": "jiyuu_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "スカート",
+        "kanji": "",
+        "meaning": "Váy",
+        "example": "スカートを<ruby>履<rt>は</rt></ruby>きます。 (Tôi mặc váy.)",
+        "image": "sukaato_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "デザイン",
+        "kanji": "",
+        "meaning": "Thiết kế",
+        "example": "デザインが<ruby>素敵<rt>すてき</rt></ruby>です。 (Thiết kế đẹp.)",
+        "image": "dezain_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "ほうそう",
+        "kanji": "放送",
+        "meaning": "Phát thanh",
+        "example": "<ruby>放送<rt>ほうそう</rt></ruby>を<ruby>聞<rt>き</rt></ruby>きます。 (Tôi nghe phát thanh.)",
+        "image": "housou_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "プロポーズ",
+        "kanji": "",
+        "meaning": "Cầu hôn",
+        "example": "プロポーズをしました。 (Tôi đã cầu hôn.)",
+        "image": "puropoozu_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "ゆびわ",
+        "kanji": "指輪",
+        "meaning": "Nhẫn",
+        "example": "<ruby>指輪<rt>ゆびわ</rt></ruby>を<ruby>贈<rt>おく</rt></ruby>ります。 (Tôi tặng nhẫn.)",
+        "image": "yubiwa_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "よてい",
+        "kanji": "予定",
+        "meaning": "Dự định",
+        "example": "<ruby>予定<rt>よてい</rt></ruby>があります。 (Tôi có dự định.)",
+        "image": "yotei_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "ひとりぐらし",
+        "kanji": "一人暮らし",
+        "meaning": "Sống một mình",
+        "example": "<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしています。 (Tôi đang sống một mình.)",
+        "image": "hitorigurashi_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "このあいだ",
+        "kanji": "この間",
+        "meaning": "Gần đây, vừa rồi, hôm nọ",
+        "example": "この<ruby>間<rt>あいだ</rt></ruby>、<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>ました。 (Hôm nọ tôi đã xem phim.)",
+        "image": "kono_aida_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "きっと",
+        "kanji": "",
+        "meaning": "Chắc chắn",
+        "example": "きっと<ruby>来<rt>く</rt></ruby>るでしょう。 (Chắc chắn sẽ đến.)",
+        "image": "kitto_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "そんなに",
+        "kanji": "",
+        "meaning": "Không ~ như vậy đâu",
+        "example": "そんなに<ruby>高<rt>たか</rt></ruby>くないです。 (Không đắt như vậy đâu.)",
+        "image": "sonna_ni_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "たぶん",
+        "kanji": "多分",
+        "meaning": "Có lẽ là",
+        "example": "<ruby>多分<rt>たぶん</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>でしょう。 (Có lẽ ngày mai trời mưa.)",
+        "image": "tabun_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "~について",
+        "kanji": "",
+        "meaning": "Về ~",
+        "example": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>について<ruby>話<rt>はな</rt></ruby>します。 (Tôi nói chuyện về văn hóa Nhật Bản.)",
+        "image": "ni_tsuite_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "ほんとう/ほんとうに",
+        "kanji": "本当/本当に",
+        "meaning": "Thật sự là",
+        "example": "<ruby>本当<rt>ほんとう</rt></ruby>ですか。 (Thật sự vậy sao?)",
+        "image": "hontou_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "もう〜ました",
+        "kanji": "",
+        "meaning": "Đã ~",
+        "example": "もう<ruby>食<rt>た</rt></ruby>べました。 (Tôi đã ăn rồi.)",
+        "image": "mou_mashita_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "もっと",
+        "kanji": "",
+        "meaning": "Hơn nữa",
+        "example": "もっと<ruby>勉強<rt>べんきょう</rt></ruby>したいです。 (Tôi muốn học nhiều hơn nữa.)",
+        "image": "motto_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "いってきます",
+        "kanji": "行ってきます",
+        "meaning": "Tôi đi nhé",
+        "example": "<ruby>行<rt>い</rt></ruby>ってきます。 (Tôi đi nhé.)",
+        "image": "itte_kimasu_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "おやすみなさい",
+        "kanji": "お休みなさい",
+        "meaning": "Chúc ngủ ngon",
+        "example": "お<ruby>休<rt>やす</rt></ruby>みなさい。 (Chúc ngủ ngon.)",
+        "image": "oyasuminasai_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "ごちそうさまでした",
+        "kanji": "御馳走様でした",
+        "meaning": "Xin cảm ơn đã chiêu đãi",
+        "example": "<ruby>御馳走様<rt>ごちそうさま</rt></ruby>でした。 (Xin cảm ơn đã chiêu đãi.)",
+        "image": "gochisousama_deshita_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "そうおもいます",
+        "kanji": "そう思います",
+        "meaning": "Tôi cũng nghĩ vậy",
+        "example": "そう<ruby>思<rt>おも</rt></ruby>います。 (Tôi cũng nghĩ vậy.)",
+        "image": "sou_omoimasu_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "ただいま",
+        "kanji": "ただいま",
+        "meaning": "Tôi đã về đây",
+        "example": "ただいま。 (Tôi đã về đây.)",
+        "image": "tadaima_N5_bai_1.png"
+    }
+]

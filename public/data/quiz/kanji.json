@@ -1,0 +1,730 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>好き<rt>すき</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ghét",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thích",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tuyệt vời",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giỏi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "<ruby>嫌い<rt>きらい</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thích",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ghét",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Giỏi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Kém",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>素敵<rt>すてき</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ghét",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tuyệt vời",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Kém",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giỏi, điểm mạnh",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>上手<rt>じょうず</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tuyệt vời",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Giỏi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Giỏi, điểm mạnh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Kém, điểm yếu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "<ruby>下手<rt>へた</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Giỏi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Kém",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Kém, điểm yếu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Muộn, chậm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "<ruby>得意<rt>とくい</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Kém",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Giỏi, điểm mạnh",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Muộn, chậm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhanh, lẹ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "<ruby>苦手<rt>にがて</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Giỏi, điểm mạnh",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Kém, điểm yếu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhanh, lẹ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Quan trọng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>遅い<rt>おそい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Kém, điểm yếu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Muộn, chậm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Quan trọng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Dài",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>早い<rt>はやい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Muộn, chậm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhanh, lẹ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Dài",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngắn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "<ruby>大切<rt>たいせつ</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhanh, lẹ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Quan trọng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ngắn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhẹ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>長い<rt>ながい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Quan trọng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Dài",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhẹ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tươi sáng, sáng sủa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "<ruby>短い<rt>みじかい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Dài",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ngắn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tươi sáng, sáng sủa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đẹp, ngầu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>軽い<rt>かるい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngắn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhẹ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tươi sáng, sáng sủa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đẹp, ngầu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>明るい<rt>あかるい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngắn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tươi sáng, sáng sủa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đẹp, ngầu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trẻ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "かっこいい có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tươi sáng, sáng sủa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đẹp, ngầu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trẻ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đáng yêu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>若い<rt>わかい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đẹp, ngầu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trẻ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đáng yêu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhiệt tình",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>可愛い<rt>かわいい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trẻ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đáng yêu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhiệt tình",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nghiêm túc, chăm chỉ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "<ruby>熱心<rt>ねっしん</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đáng yêu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhiệt tình",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nghiêm túc, chăm chỉ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Quan hệ tốt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "<ruby>真面目<rt>まじめ</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhiệt tình",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nghiêm túc, chăm chỉ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Quan hệ tốt",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ấm áp",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>仲がいい<rt>なかがいい</rt></ruby> có nghĩa là gì? - (な) -",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nghiêm túc, chăm chỉ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Quan hệ tốt",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ấm áp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mát mẻ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "<ruby>暖かい<rt>あたたかい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Quan hệ tốt",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ấm áp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Mát mẻ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Buồn ngủ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "<ruby>涼しい<rt>すずしい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ấm áp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mát mẻ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Buồn ngủ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "<ruby>眠い<rt>ねむい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mát mẻ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Buồn ngủ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Buồn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "<ruby>痛い<rt>いたい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Buồn ngủ",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đau",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Buồn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chán, nhàm chán",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "<ruby>寂しい<rt>さびしい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text ": "Đau",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Buồn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chán, nhàm chán",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Không",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "つまらない có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đau",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chán, nhàm chán",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ừ, ừm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Không",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "うん có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chán, nhàm chán",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ừ, ừm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Không",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Thích",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question_text": "ううん có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ừ, ừm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Không",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thích",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ghét",
+                "is_correct": false
+            }
+        ]
+    }
+]

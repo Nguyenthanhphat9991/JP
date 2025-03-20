@@ -1,0 +1,1384 @@
+[
+    {
+        "id": 1,
+        "question_text": "<ruby>行き<rt>いき</rt></ruby>ます có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đến",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trở về",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đứng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "<ruby>来<rt>き</rt></ruby>ます có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đến",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trở về",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ngồi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "<ruby>帰り<rt>かえり</rt></ruby>ます có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trở về",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đến",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nằm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "いつも có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thỉnh thoảng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Luôn luôn, lúc nào cũng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thường, hay",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hiếm khi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "よく có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Luôn luôn, lúc nào cũng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thường, hay",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thỉnh thoảng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hiếm khi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "ときどき có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thường, hay",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thỉnh thoảng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Luôn luôn, lúc nào cũng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hiếm khi",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "<ruby>駅<rt>えき</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Công viên",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhà ga",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cửa hàng rau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>田舎<rt>いなか</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhà ga",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Vùng ngoại ô, nông thôn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Công viên",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cửa hàng rau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>公園<rt>こうえん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Vùng ngoại ô, nông thôn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Công viên",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhà ga",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Cửa hàng rau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "<ruby>八百屋<rt>やおや</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Công viên",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cửa hàng rau",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Vùng ngoại ô, nông thôn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhà ga",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>家<rt>いえ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cửa hàng rau",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhà",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Công viên",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trung tâm thương mại",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "<ruby>屋<rt>や</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhà",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cửa hàng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cửa hàng rau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhà hàng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "デパート có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cửa hàng (sách, hoa,...)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trung tâm thương mại",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Nhà hàng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "レストラン có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trung tâm thương mại",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhà hàng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cửa hàng (sách, hoa,...)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "あるいて có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đi xe buýt",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đi bộ",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đi xe đạp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đi tàu điện ngầm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>新幹線<rt>しんかんせん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xe buýt",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tàu siêu tốc",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Xe đạp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tàu điện ngầm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>地下鉄<rt>ちかてつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tàu siêu tốc",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tàu điện ngầm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Xe buýt",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xe đạp",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "<ruby>自転車<rt>じてんしゃ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tàu điện ngầm",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Xe đạp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tàu siêu tốc",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xe buýt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "<ruby>電車<rt>でんしゃ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xe đạp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Xe điện",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tàu điện ngầm",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tàu siêu tốc",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>飛行機<rt>ひこうき</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xe điện",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Máy bay",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Xe đạp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tàu điện ngầm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "タクシー có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Máy bay",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Taxi",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Xe điện",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xe đạp",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "バイク có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Taxi",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Xe máy",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Máy bay",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Xe điện",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "バス có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xe máy",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Xe buýt",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Taxi",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Máy bay",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "<ruby>家族<rt>かぞく</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bạn bè",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Gia đình",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đồng nghiệp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Người yêu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "<ruby>友達<rt>ともだち</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Gia đình",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bạn bè",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đồng nghiệp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Người yêu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "<ruby>同僚<rt>どうりょう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Gia đình",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đồng nghiệp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bạn bè",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Người yêu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "<ruby>恋人<rt>こいびと</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bạn bè",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Người yêu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Gia đình",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đồng nghiệp",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question_text": "<ruby>一人<rt>ひとり</rt></ruby>で có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cùng nhau",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Một mình",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Với bạn bè",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Với gia đình",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "question_text": "<ruby>先週<rt>せんしゅう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tuần này",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tuần trước",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tuần sau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỗi tuần",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "question_text": "<ruby>今週<rt>こんしゅう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tuần trước",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tuần này",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tuần sau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỗi tuần",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "question_text": "<ruby>来週<rt>らいしゅう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tuần này",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tuần sau",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tuần trước",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỗi tuần",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "question_text": "<ruby>毎週<rt>まいしゅう</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tuần trước",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mỗi tuần",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tuần này",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tuần sau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "question_text": "<ruby>先月<rt>せんげつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tháng này",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tháng trước",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tháng sau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỗi tháng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "question_text": "<ruby>今月<rt>こんげつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tháng trước",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tháng này",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tháng sau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỗi tháng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "question_text": "<ruby>来月<rt>らいげつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tháng này",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tháng sau",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tháng trước",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỗi tháng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "question_text": "<ruby>毎月<rt>まいつき</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tháng trước",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mỗi tháng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tháng này",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tháng sau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "question_text": "<ruby>去年<rt>きょねん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Năm nay",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Năm trước",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Năm sau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỗi năm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "question_text": "<ruby>今年<rt>ことし</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Năm trước",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Năm nay",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Năm sau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỗi năm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "question_text": "<ruby>来年<rt>らいねん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Năm nay",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Năm sau",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Năm trước",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Mỗi năm",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "question_text": "<ruby>毎年<rt>まいとし</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Năm trước",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mỗi năm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Năm nay",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Năm sau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "question_text": "うち có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Cửa hàng rau",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Nhà",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Công viên",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trung tâm thương mại",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "question_text": "<ruby>本屋<rt>ほんや</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhà",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cửa hàng sách",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cửa hàng rau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhà hàng",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "question_text": "<ruby>毎年<rt>まいねん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Năm trước",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mỗi năm",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Năm nay",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Năm sau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "question_text": "<ruby>花屋<rt>はなや</rt></ruby> /... có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Nhà",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cửa hàng hoa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cửa hàng rau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Nhà hàng",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đi = ____",
+        "correct_answer": "いきます/行き"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đến = ____",
+        "correct_answer": "きます/来"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trở về = ____",
+        "correct_answer": "かえります/帰り"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Luôn luôn, lúc nào cũng = ____",
+        "correct_answer": "いつも"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thường, hay = ____",
+        "correct_answer": "よく"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thỉnh thoảng = ____",
+        "correct_answer": "ときどき"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhà ga = ____",
+        "correct_answer": "えき/駅"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vùng ngoại ô, nông thôn = ____",
+        "correct_answer": "いなか/田舎"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Công viên = ____",
+        "correct_answer": "こうえん/公園"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cửa hàng rau = ____",
+        "correct_answer": "やおや/八百屋"
+    },
+    {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhà = ____",
+        "correct_answer": "うち/いえ/家"
+    },
+    {
+        "id": 56,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cửa hàng (sách, hoa,...) = ____",
+        "correct_answer": "~や/屋/ほんや/本屋/はなや/花屋"
+    },
+    {
+        "id": 57,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trung tâm thương mại = ____",
+        "correct_answer": "デパート"
+    },
+    {
+        "id": 58,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhà hàng = ____",
+        "correct_answer": "レストラン"
+    },
+    {
+        "id": 59,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đi bộ = ____",
+        "correct_answer": "あるいて"
+    },
+    {
+        "id": 60,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tàu siêu tốc = ____",
+        "correct_answer": "しんかんせん/新幹線"
+    },
+    {
+        "id": 61,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tàu điện ngầm = ____",
+        "correct_answer": "ちかてつ/地下鉄"
+    },
+    {
+        "id": 62,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Xe đạp = ____",
+        "correct_answer": "じてんしゃ/自転車"
+    },
+    {
+        "id": 63,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Xe điện = ____",
+        "correct_answer": "でんしゃ/電車"
+    },
+    {
+        "id": 64,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Máy bay = ____",
+        "correct_answer": "ひこうき/飛行機"
+    },
+    {
+        "id": 65,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Taxi = ____",
+        "correct_answer": "タクシー"
+    },
+    {
+        "id": 66,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Xe máy = ____",
+        "correct_answer": "バイク"
+    },
+    {
+        "id": 67,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Xe buýt = ____",
+        "correct_answer": "バス"
+    },
+    {
+        "id": 68,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Gia đình = ____",
+        "correct_answer": "かぞく/家族"
+    },
+    {
+        "id": 69,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bạn bè = ____",
+        "correct_answer": "ともだち/友達"
+    },
+    {
+        "id": 70,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đồng nghiệp = ____",
+        "correct_answer": "どうりょう/同僚"
+    },
+    {
+        "id": 71,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Người yêu = ____",
+        "correct_answer": "こいびと/恋人"
+    },
+    {
+        "id": 72,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Một mình = ____",
+        "correct_answer": "ひとりで/一人で"
+    },
+    {
+        "id": 73,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tuần trước = ____",
+        "correct_answer": "せんしゅう/先週"
+    },
+    {
+        "id": 74,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tuần này = ____",
+        "correct_answer": "こんしゅう/今週"
+    },
+    {
+        "id": 75,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tuần sau = ____",
+        "correct_answer": "らいしゅう/来週"
+    },
+    {
+        "id": 76,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mỗi tuần = ____",
+        "correct_answer": "まいしゅう/毎週"
+    },
+    {
+        "id": 77,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tháng trước = ____",
+        "correct_answer": "せんげつ/先月"
+    },
+    {
+        "id": 78,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tháng này = ____",
+        "correct_answer": "こんげつ/今月"
+    },{
+        "id": 79,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tháng sau = ____",
+        "correct_answer": "らいげつ/来月"
+    },
+    {
+        "id": 80,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mỗi tháng = ____",
+        "correct_answer": "まいつき/毎月"
+    },
+    {
+        "id": 81,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Năm trước = ____",
+        "correct_answer": "きょねん/去年"
+    },
+    {
+        "id": 82,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Năm nay = ____",
+        "correct_answer": "ことし/今年"
+    },
+    {
+        "id": 83,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Năm sau = ____",
+        "correct_answer": "らいねん/来年"
+    },
+    {
+        "id": 84,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mỗi năm = ____",
+        "correct_answer": "まいとし/まいねん/毎年"
+    }
+]

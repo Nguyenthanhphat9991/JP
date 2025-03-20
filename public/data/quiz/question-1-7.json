@@ -1,0 +1,1051 @@
+[
+    {
+        "id": 1,
+        "question_text": "います có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Có (thực vật/đồ vật)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Có (người/động vật)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Và... (vân vân)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Không có",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question_text": "あります có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Có (người/động vật)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Có (thực vật/đồ vật)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Và... (vân vân)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Không có",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question_text": "やー(など) có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Có (người/động vật)",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Và... (vân vân)",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Có (thực vật/đồ vật)",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Không có",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question_text": "<ruby>教室<rt>きょうしつ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trạm xe buýt",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Lớp học",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Phố, thành phố",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tòa nhà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question_text": "バス<ruby>停<rt>てい</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Lớp học",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trạm xe buýt",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Phố, thành phố",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tòa nhà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question_text": "まち có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trạm xe buýt",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Phố, thành phố",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Lớp học",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Tòa nhà",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question_text": "ビル có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Phố, thành phố",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tòa nhà",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trạm xe buýt",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Lớp học",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question_text": "<ruby>部屋<rt>へや</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tòa nhà",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Căn phòng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Phố, thành phố",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trạm xe buýt",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question_text": "<ruby>上<rt>うえ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Dưới",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trên",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bên trái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bên phải",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question_text": "<ruby>間<rt>あいだ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trên",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Ở giữa",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Dưới",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bên cạnh",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "question_text": "<ruby>左<rt>ひだり</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bên phải",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bên trái",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trên",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Dưới",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "question_text": "<ruby>右<rt>みぎ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Bên trái",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bên phải",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trên",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Dưới",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "question_text": "<ruby>下<rt>した</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trên",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Dưới",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bên trái",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bên phải",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "question_text": "<ruby>後ろ<rt>うしろ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trước",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Sau",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bên cạnh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Gần",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "question_text": "<ruby>近く<rt>ちかく</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Xa",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Gần",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Ở giữa",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Bên ngoài",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "question_text": "<ruby>隣<rt>となり</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Gần",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bên cạnh",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Sau",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Trước",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "question_text": "<ruby>前<rt>まえ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Sau",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trước",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bên cạnh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Ở giữa",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "question_text": "<ruby>中<rt>なか</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Ngoài",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Trong",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Bên cạnh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Gần",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "question_text": "<ruby>外<rt>そと</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Trong",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Bên ngoài",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Trước",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Sau",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "question_text": "<ruby>印鑑<rt>いんかん</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thẻ tín dụng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Con dấu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tiền",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đồ ăn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "question_text": "クレジットカード có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Con dấu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Thẻ tín dụng",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tiền",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đồ ăn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "question_text": "<ruby>お金<rt>おかね</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thẻ tín dụng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tiền",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Con dấu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đồ ăn",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "question_text": "<ruby>食べ物<rt>たべもの</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tiền",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đồ ăn",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Thẻ tín dụng",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đồ uống",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "question_text": "<ruby>飲み物<rt>のみもの</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đồ ăn",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Đồ uống",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tiền",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hộp",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "question_text": "<ruby>箱<rt>はこ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Đồ uống",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Hộp",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Đồ ăn",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hộ chiếu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "question_text": "パスポート có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Hộp",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Hộ chiếu",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tủ lạnh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giường",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "question_text": "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Hộ chiếu",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tủ lạnh",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Hộp",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Giường",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "question_text": "ベッド có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Tủ lạnh",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Giường",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Hộ chiếu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Kệ, giá",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "question_text": "<ruby>棚<rt>たな</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Giường",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Kệ, giá",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Tủ lạnh",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Hộ chiếu",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "question_text": "<ruby>犬<rt>いぬ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mèo",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Chó",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cây",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chim",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "question_text": "<ruby>猫<rt>ねこ</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Chó",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Mèo",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Cây",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chim",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "question_text": "<ruby>木<rt>き</rt></ruby> có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Mèo",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Cây",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Chó",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Chim",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "question_text": "かね có nghĩa là gì?",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "Thẻ tín dụng",
+                "is_correct": false
+            },
+            {
+                "id": 2,
+                "answer_text": "Tiền",
+                "is_correct": true
+            },
+            {
+                "id": 3,
+                "answer_text": "Con dấu",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "Đồ ăn",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 34,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Có (người/động vật) = ____",
+        "correct_answer": "います"
+    },
+    {
+        "id": 35,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Có (thực vật/đồ vật) = ____",
+        "correct_answer": "あります"
+    },
+    {
+        "id": 36,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Và... (vân vân) = ____",
+        "correct_answer": "やー(など)"
+    },
+    {
+        "id": 37,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lớp học = ____",
+        "correct_answer": "きょうしつ/教室"
+    },
+    {
+        "id": 38,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trạm xe buýt = ____",
+        "correct_answer": "バスてい/バス停"
+    },
+    {
+        "id": 39,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Phố, thành phố = ____",
+        "correct_answer": "まち"
+    },
+    {
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tòa nhà = ____",
+        "correct_answer": "ビル"
+    },
+    {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Căn phòng = ____",
+        "correct_answer": "へや/部屋"
+    },
+    {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trên = ____",
+        "correct_answer": "うえ/上"
+    },
+    {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ở giữa = ____",
+        "correct_answer": "あいだ/間"
+    },
+    {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bên trái = ____",
+        "correct_answer": "ひだり/左"
+    },
+    {
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bên phải = ____",
+        "correct_answer": "みぎ/右"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dưới = ____",
+        "correct_answer": "した/下"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sau = ____",
+        "correct_answer": "うしろ/後ろ"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Gần = ____",
+        "correct_answer": "ちかく/近く"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bên cạnh = ____",
+        "correct_answer": "となり/隣"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trước = ____",
+        "correct_answer": "まえ/前"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trong = ____",
+        "correct_answer": "なか/中"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bên ngoài = ____",
+        "correct_answer": "そと/外"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Con dấu = ____",
+        "correct_answer": "いんかん/印鑑"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thẻ tín dụng = ____",
+        "correct_answer": "クレジットカード"
+    },
+    {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tiền = ____",
+        "correct_answer": "かね/おかね/お金"
+    },
+    {
+        "id": 56,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đồ ăn = ____",
+        "correct_answer": "たべもの/食べ物"
+    },
+    {
+        "id": 57,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đồ uống = ____",
+        "correct_answer": "のみもの/飲み物"
+    },
+    {
+        "id": 58,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hộp = ____",
+        "correct_answer": "はこ/箱"
+    },
+    {
+        "id": 59,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hộ chiếu = ____",
+        "correct_answer": "パスポート"
+    },
+    {
+        "id": 60,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tủ lạnh = ____",
+        "correct_answer": "れいぞうこ/冷蔵庫"
+    },
+    {
+        "id": 61,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giường = ____",
+        "correct_answer": "ベッド"
+    },
+    {
+        "id": 62,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Kệ, giá = ____",
+        "correct_answer": "たな/棚"
+    },
+    {
+        "id": 63,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chó = ____",
+        "correct_answer": "いぬ/犬"
+    },
+    {
+        "id": 64,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mèo = ____",
+        "correct_answer": "ねこ/猫"
+    },
+    {
+        "id": 65,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cây = ____",
+        "correct_answer": "き/木"
+    }
+]

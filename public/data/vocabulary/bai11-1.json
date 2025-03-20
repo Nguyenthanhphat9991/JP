@@ -1,0 +1,402 @@
+[
+    {
+        "index": 1,
+        "word": "あつい",
+        "kanji": "暑い",
+        "meaning": "Nóng (thời tiết)",
+        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑<rt>あつ</rt></ruby>いです。 (Hôm nay trời nóng.)",
+        "image": "atsui_N5_bai_1.png"
+    },
+    {
+        "index": 2,
+        "word": "さむい",
+        "kanji": "寒い",
+        "meaning": "Lạnh (thời tiết)",
+        "example": "<ruby>冬<rt>ふゆ</rt></ruby>は<ruby>寒<rt>さむ</rt></ruby>いです。 (Mùa đông trời lạnh.)",
+        "image": "samui_N5_bai_1.png"
+    },
+    {
+        "index": 3,
+        "word": "つめたい",
+        "kanji": "冷たい",
+        "meaning": "Lạnh (đồ ăn/uống/cảm giác)",
+        "example": "ジュースが<ruby>冷<rt>つめ</rt></ruby>たいです。 (Nước ép lạnh.)",
+        "image": "tsumetai_N5_bai_1.png"
+    },
+    {
+        "index": 4,
+        "word": "おもい",
+        "kanji": "重い",
+        "meaning": "Nặng",
+        "example": "この<ruby>荷物<rt>にもつ</rt></ruby>は<ruby>重<rt>おも</rt></ruby>いです。 (Hành lý này nặng.)",
+        "image": "omoi_N5_bai_1.png"
+    },
+    {
+        "index": 5,
+        "word": "たのしい",
+        "kanji": "楽しい",
+        "meaning": "Vui vẻ (bầu không khí, tính chất)",
+        "example": "<ruby>パーティー<rt>paatii</rt></ruby>は<ruby>楽<rt>たの</rt></ruby>しかったです。 (Buổi tiệc rất vui.)",
+        "image": "tanoshii_N5_bai_1.png"
+    },
+    {
+        "index": 6,
+        "word": "うれしい",
+        "kanji": "嬉しい",
+        "meaning": "Vui vẻ (tâm trạng)",
+        "example": "<ruby>プレゼント<rt>purezento</rt></ruby>をもらって<ruby>嬉<rt>うれ</rt></ruby>しいです。 (Tôi vui vì nhận được quà.)",
+        "image": "ureshii_N5_bai_1.png"
+    },
+    {
+        "index": 7,
+        "word": "いそがしい",
+        "kanji": "忙しい",
+        "meaning": "Bận rộn",
+        "example": "<ruby>今日<rt>きょう</rt></ruby>は<ruby>忙<rt>いそが</rt></ruby>しいです。 (Hôm nay tôi bận.)",
+        "image": "isogashii_N5_bai_1.png"
+    },
+    {
+        "index": 8,
+        "word": "おいしい",
+        "kanji": "美味しい",
+        "meaning": "Ngon",
+        "example": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>美味<rt>おい</rt></ruby>しいです。 (Món ăn này ngon.)",
+        "image": "oishii_N5_bai_1.png"
+    },
+    {
+        "index": 9,
+        "word": "まずい",
+        "kanji": "不味い",
+        "meaning": "Tệ, kinh khủng",
+        "example": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>不味<rt>まず</rt></ruby>いです。 (Món ăn này tệ.)",
+        "image": "mazui_N5_bai_1.png"
+    },
+    {
+        "index": 10,
+        "word": "たかい",
+        "kanji": "高い",
+        "meaning": "Đắt đỏ/cao",
+        "example": "この<ruby>建物<rt>たてもの</rt></ruby>は<ruby>高<rt>たか</rt></ruby>いです。 (Tòa nhà này cao.)",
+        "image": "takai_N5_bai_1.png"
+    },
+    {
+        "index": 11,
+        "word": "やすい",
+        "kanji": "安い",
+        "meaning": "Rẻ",
+        "example": "この<ruby>商品<rt>しょうひん</rt></ruby>は<ruby>安<rt>やす</rt></ruby>いです。 (Sản phẩm này rẻ.)",
+        "image": "yasui_N5_bai_1.png"
+    },
+    {
+        "index": 12,
+        "word": "ひくい",
+        "kanji": "低い",
+        "meaning": "Thấp",
+        "example": "この<ruby>テーブル<rt>teeburu</rt></ruby>は<ruby>低<rt>ひく</rt></ruby>いです。 (Cái bàn này thấp.)",
+        "image": "hikui_N5_bai_1.png"
+    },
+    {
+        "index": 13,
+        "word": "おおきい",
+        "kanji": "大きい",
+        "meaning": "To",
+        "example": "この<ruby>箱<rt>はこ</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きいです。 (Cái hộp này to.)",
+        "image": "ookii_N5_bai_1.png"
+    },
+    {
+        "index": 14,
+        "word": "ちいさい",
+        "kanji": "小さい",
+        "meaning": "Nhỏ",
+        "example": "この<ruby>箱<rt>はこ</rt></ruby>は<ruby>小<rt>ちい</rt></ruby>さいです。 (Cái hộp này nhỏ.)",
+        "image": "chiisai_N5_bai_1.png"
+    },
+    {
+        "index": 15,
+        "word": "あたらしい",
+        "kanji": "新しい",
+        "meaning": "Mới",
+        "example": "この<ruby>車<rt>くるま</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しいです。 (Chiếc xe này mới.)",
+        "image": "atarashii_N5_bai_1.png"
+    },
+    {
+        "index": 16,
+        "word": "ふるい",
+        "kanji": "古い",
+        "meaning": "Cũ",
+        "example": "この<ruby>建物<rt>たてもの</rt></ruby>は<ruby>古<rt>ふる</rt></ruby>いです。 (Tòa nhà này cũ.)",
+        "image": "furui_N5_bai_1.png"
+    },
+    {
+        "index": 17,
+        "word": "いい",
+        "kanji": "良い",
+        "meaning": "Tốt",
+        "example": "この<ruby>天気<rt>てんき</rt></ruby>は<ruby>良<rt>い</rt></ruby>いです。 (Thời tiết tốt.)",
+        "image": "ii_N5_bai_1.png"
+    },
+    {
+        "index": 18,
+        "word": "わるい",
+        "kanji": "悪い",
+        "meaning": "Xấu",
+        "example": "この<ruby>天気<rt>てんき</rt></ruby>は<ruby>悪<rt>わる</rt></ruby>いです。 (Thời tiết xấu.)",
+        "image": "warui_N5_bai_1.png"
+    },
+    {
+        "index": 19,
+        "word": "おもしろい",
+        "kanji": "面白い",
+        "meaning": "Thú vị",
+        "example": "この<ruby>映画<rt>えいが</rt></ruby>は<ruby>面白<rt>おもしろ</rt></ruby>いです。 (Bộ phim này thú vị.)",
+        "image": "omoshiroi_N5_bai_1.png"
+    },
+    {
+        "index": 20,
+        "word": "すくない",
+        "kanji": "少ない",
+        "meaning": "Ít",
+        "example": "<ruby>時間<rt>じかん</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないです。 (Thời gian ít.)",
+        "image": "sukunai_N5_bai_1.png"
+    },
+    {
+        "index": 21,
+        "word": "やさしい",
+        "kanji": "優しい",
+        "meaning": "Tốt bụng/dễ",
+        "example": "この<ruby>先生<rt>せんせい</rt></ruby>は<ruby>優<rt>やさ</rt></ruby>しいです。 (Giáo viên này tốt bụng.)",
+        "image": "yasashii_N5_bai_1.png"
+    },
+    {
+        "index": 22,
+        "word": "むずかしい",
+        "kanji": "難しい",
+        "meaning": "Khó",
+        "example": "この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいです。 (Vấn đề này khó.)",
+        "image": "muzukashii_N5_bai_1.png"
+    },
+    {
+        "index": 23,
+        "word": "ちかい",
+        "kanji": "近い",
+        "meaning": "Gần",
+        "example": "うちから<ruby>駅<rt>えき</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>いです。 (Nhà tôi gần ga.)",
+        "image": "chikai_N5_bai_1.png"
+    },
+    {
+        "index": 24,
+        "word": "とおい",
+        "kanji": "遠い",
+        "meaning": "Xa",
+        "example": "うちから<ruby>学校<rt>がっこう</rt></ruby>が<ruby>遠<rt>とお</rt></ruby>いです。 (Nhà tôi xa trường.)",
+        "image": "tooi_N5_bai_1.png"
+    },
+    {
+        "index": 25,
+        "word": "ひろい",
+        "kanji": "広い",
+        "meaning": "Rộng",
+        "example": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>広<rt>ひろ</rt></ruby>いです。 (Căn phòng này rộng.)",
+        "image": "hiroi_N5_bai_1.png"
+    },
+    {
+        "index": 26,
+        "word": "せまい",
+        "kanji": "狭い",
+        "meaning": "Chật, hẹp",
+        "example": "この<ruby>部屋<rt>へや</rt></ruby>は<ruby>狭<rt>せま</rt></ruby>いです。 (Căn phòng này chật.)",
+        "image": "semai_N5_bai_1.png"
+    },
+    {
+        "index": 27,
+        "word": "あおい",
+        "kanji": "青い",
+        "meaning": "Xanh",
+        "example": "<ruby>空<rt>そら</rt></ruby>が<ruby>青<rt>あお</rt></ruby>いです。 (Bầu trời xanh.)",
+        "image": "aoi_N5_bai_1.png"
+    },
+    {
+        "index": 28,
+        "word": "あかい",
+        "kanji": "赤い",
+        "meaning": "Đỏ",
+        "example": "<ruby>林檎<rt>りんご</rt></ruby>が<ruby>赤<rt>あか</rt></ruby>いです。 (Quả táo đỏ.)",
+        "image": "akai_N5_bai_1.png"
+    },
+    {
+        "index": 29,
+        "word": "くろい",
+        "kanji": "黒い",
+        "meaning": "Đen",
+        "example": "<ruby>猫<rt>ねこ</rt></ruby>が<ruby>黒<rt>くろ</rt></ruby>いです。 (Con mèo đen.)",
+        "image": "kuroi_N5_bai_1.png"
+    },
+    {
+        "index": 30,
+        "word": "しろい",
+        "kanji": "白い",
+        "meaning": "Trắng",
+        "example": "<ruby>雪<rt>ゆき</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>いです。 (Tuyết trắng.)",
+        "image": "shiroi_N5_bai_1.png"
+    },
+    {
+        "index": 31,
+        "word": "きれい",
+        "kanji": "綺麗",
+        "meaning": "Đẹp, sạch sẽ",
+        "example": "この<ruby>花<rt>はな</rt></ruby>は<ruby>綺麗<rt>きれい</rt></ruby>です。 (Bông hoa này đẹp.)",
+        "image": "kirei_N5_bai_1.png"
+    },
+    {
+        "index": 32,
+        "word": "しんせつ",
+        "kanji": "親切",
+        "meaning": "Tốt bụng, thân thiện",
+        "example": "あの<ruby>人<rt>ひと</rt></ruby>は<ruby>親切<rt>しんせつ</rt></ruby>です。 (Người đó tốt bụng.)",
+        "image": "shinsetsu_N5_bai_1.png"
+    },
+    {
+        "index": 33,
+        "word": "げんき",
+        "kanji": "元気",
+        "meaning": "Khỏe mạnh",
+        "example": "あなたは<ruby>元気<rt>げんき</rt></ruby>ですか。 (Bạn có khỏe không?)",
+        "image": "genki_N5_bai_1.png"
+    },
+    {
+        "index": 34,
+        "word": "ゆうめい",
+        "kanji": "有名",
+        "meaning": "Nổi tiếng",
+        "example": "この<ruby>歌手<rt>かしゅ</rt></ruby>は<ruby>有名<rt>ゆうめい</rt></ruby>です。 (Ca sĩ này nổi tiếng.)",
+        "image": "yuumei_N5_bai_1.png"
+    },
+    {
+        "index": 35,
+        "word": "しずか",
+        "kanji": "静か",
+        "meaning": "Yên tĩnh",
+        "example": "この<ruby>図書館<rt>としょかん</rt></ruby>は<ruby>静<rt>しず</rt></ruby>かです。 (Thư viện này yên tĩnh.)",
+        "image": "shizuka_N5_bai_1.png"
+    },
+    {
+        "index": 36,
+        "word": "にぎやか",
+        "kanji": "賑やか",
+        "meaning": "Náo nhiệt",
+        "example": "この<ruby>町<rt>まち</rt></ruby>は<ruby>賑<rt>にぎ</rt></ruby>やかです。 (Thị trấn này náo nhiệt.)",
+        "image": "nigiyaka_N5_bai_1.png"
+    },
+    {
+        "index": 37,
+        "word": "たいへん",
+        "kanji": "大変",
+        "meaning": "Vất vả, cực khổ",
+        "example": "<ruby>仕事<rt>しごと</rt></ruby>は<ruby>大変<rt>たいへん</rt></ruby>です。 (Công việc vất vả.)",
+        "image": "taihen_N5_bai_1.png"
+    },
+    {
+        "index": 38,
+        "word": "べんり",
+        "kanji": "便利",
+        "meaning": "Tiện lợi",
+        "example": "この<ruby>場所<rt>ばしょ</rt></ruby>は<ruby>便利<rt>べんり</rt></ruby>です。 (Địa điểm này tiện lợi.)",
+        "image": "benri_N5_bai_1.png"
+    },
+    {
+        "index": 39,
+        "word": "かんたん",
+        "kanji": "簡単",
+        "meaning": "Đơn giản",
+        "example": "この<ruby>料理<rt>りょうり</rt></ruby>は<ruby>簡単<rt>かんたん</rt></ruby>です。 (Món ăn này đơn giản.)",
+        "image": "kantan_N5_bai_1.png"
+    },
+    {
+        "index": 40,
+        "word": "あまり (~ない)",
+        "kanji": "",
+        "meaning": "Không ~ lắm",
+        "example": "あまり<ruby>時間<rt>じかん</rt></ruby>がありません。 (Tôi không có nhiều thời gian lắm.)",
+        "image": "amari_N5_bai_1.png"
+    },
+    {
+        "index": 41,
+        "word": "どんな・どう",
+        "kanji": "",
+        "meaning": "Như thế nào",
+        "example": "どんな<ruby>料理<rt>りょうり</rt></ruby>ですか。 (Món ăn như thế nào?)",
+        "image": "donna_N5_bai_1.png"
+    },
+    {
+        "index": 42,
+        "word": "とても",
+        "kanji": "",
+        "meaning": "Rất",
+        "example": "とても<ruby>楽<rt>たの</rt></ruby>しかったです。 (Rất vui.)",
+        "image": "totemo_N5_bai_1.png"
+    },
+    {
+        "index": 43,
+        "word": "ところ",
+        "kanji": "所",
+        "meaning": "Nơi, chỗ",
+        "example": "<ruby>静<rt>しず</rt></ruby>かな<ruby>所<rt>ところ</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたいです。 (Tôi muốn sống ở một nơi yên tĩnh.)",
+        "image": "tokoro_N5_bai_1.png"
+    },
+    {
+        "index": 44,
+        "word": "そして",
+        "kanji": "",
+        "meaning": "Và",
+        "example": "<ruby>映画<rt>えいが</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、そして<ruby>食事<rt>しょくじ</rt></ruby>をしました。 (Chúng tôi xem phim, và ăn tối.)",
+        "image": "soshite_N5_bai_1.png"
+    },
+    {
+        "index": 45,
+        "word": "~が",
+        "kanji": "",
+        "meaning": "~ nhưng",
+        "example": "これは<ruby>高<rt>たか</rt></ruby>いです<ruby>が</ruby>、<ruby>質<rt>しつ</rt></ruby>がいいです。 (Cái này đắt, nhưng chất lượng tốt.)",
+        "image": "ga_N5_bai_1.png"
+    },
+    {
+        "index": 46,
+        "word": "てんき",
+        "kanji": "天気",
+        "meaning": "Thời tiết",
+        "example": "<ruby>天気<rt>てんき</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いです。 (Thời tiết xấu.)",
+        "image": "tenki_N5_bai_1.png"
+    },
+    {
+        "index": 47,
+        "word": "あめ",
+        "kanji": "雨",
+        "meaning": "Mưa",
+        "example": "<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>っています。 (Trời đang mưa.)",
+        "image": "ame_N5_bai_1.png"
+    },
+    {
+        "index": 48,
+        "word": "ちょっと〜",
+        "kanji": "",
+        "meaning": "Hơi, có chút",
+        "example": "ちょっと<ruby>疲<rt>つか</rt></ruby>れました。 (Tôi hơi mệt.)",
+        "image": "chotto_N5_bai_1.png"
+    },
+    {
+        "index": 49,
+        "word": "まあ〜",
+        "kanji": "",
+        "meaning": "À, thôi thì... có lẽ là",
+        "example": "まあ、いいでしょう。 (À, thôi thì được rồi.)",
+        "image": "maa_N5_bai_1.png"
+    },
+    {
+        "index": 50,
+        "word": "ぜひ来てください",
+        "kanji": "",
+        "meaning": "Nhất định phải đến nhé!",
+        "example": "ぜひ<ruby>来<rt>き</rt></ruby>てください。 (Nhất định phải đến nhé!)",
+        "image": "zehi_kite_kudasai_N5_bai_1.png"
+    }
+]
