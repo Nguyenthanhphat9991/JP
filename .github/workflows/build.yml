@@ -2,31 +2,33 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ "gh-pages" ] 
-    # Hoặc nhánh bạn muốn lắng nghe sự kiện push, ví dụ "master"
+    branches: [ "gh-pages " ]  # Chạy workflow khi có push lên nhánh "main"
+
+permissions:
+  contents: write  # Cấp quyền ghi cho token
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out the code
+      - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Use Node
+      - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '20' # hoặc phiên bản Node LTS bạn muốn
+          node-version: '20'  # Dùng phiên bản Node LTS
 
       - name: Install dependencies
         run: npm install
 
-      - name: Build
+      - name: Build the project
         run: npm run build
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-pages          # Nhánh sẽ chứa code build
-          folder: build             # Thư mục output sau khi build
+          branch: gh-pages         # Nhánh đích chứa file build
+          folder: build            # Thư mục build (Create React App tạo ra thư mục này)
           token: ${{ secrets.GITHUB_TOKEN }}
