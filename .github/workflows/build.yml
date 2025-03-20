@@ -2,31 +2,31 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches:
-      - main  # Trigger khi push lên nhánh chính
+    branches: [ "gh-pages" ] 
+    # Hoặc nhánh bạn muốn lắng nghe sự kiện push, ví dụ "master"
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Check out the code
+        uses: actions/checkout@v2
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Use Node
+        uses: actions/setup-node@v2
         with:
-          node-version: '20' # Hoặc phiên bản Node.js bạn sử dụng
+          node-version: '20' # hoặc phiên bản Node LTS bạn muốn
 
       - name: Install dependencies
         run: npm install
 
-      - name: Build app
+      - name: Build
         run: npm run build
 
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: main  # Branch deploy
-          folder: build     # Thư mục build
-          # Nếu cần, sử dụng PAT để có đủ quyền:
+          branch: gh-pages          # Nhánh sẽ chứa code build
+          folder: build             # Thư mục output sau khi build
+          token: ${{ secrets.GITHUB_TOKEN }}

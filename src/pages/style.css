@@ -3,3 +3,16 @@
     transform: scale(1.02);
     transition: all 0.3s ease-in-out;
 }
+
+.btn-outline-jpg {
+    color: #8D77C0 !important;
+    border: 2px solid #8D77C0 !important;
+    background-color: transparent;
+    transition: all 0.3s ease;
+  }
+  .btn-outline-jpg:hover {
+    color: #fff !important;
+    background-color: #8D77C0 !important;
+    border-color: #8D77C0 !important;
+  }
+  

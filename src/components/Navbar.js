@@ -5,7 +5,13 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light shadow-sm">
       <div className="container">
-        <Link className="navbar-brand text-primary fw-bold" to="/">JPG</Link>
+        <Link
+          className="navbar-brand fw-bold"
+          to="/"
+          style={{ color: "#8D77C0" }}
+        >
+          JPG
+        </Link>
         <button
           className="navbar-toggler"
           type="button"

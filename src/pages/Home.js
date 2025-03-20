@@ -1,4 +1,4 @@
-import { useEffect , React}   from "react";
+import { useEffect, React } from "react";
 import { Link, useLocation } from "react-router-dom";
 import banner from "../assets/images/banner.jpg";
 import course_n3 from "../assets/images/course_n3.jpg";
@@ -26,7 +26,7 @@ const Home = () => {
       <section className="text-center">
         <h2 className="text-secondary fw-bold">Đơn Vị JPG</h2>
         <p className="lead text-muted">
-        Mỗi bước tiến của học viên đều có dấu ấn nhiệt huyết của SenSei, tạo nên một hành trình học tập đầy ý nghĩa.
+          Mỗi bước tiến của học viên đều có dấu ấn nhiệt huyết của SenSei, tạo nên một hành trình học tập đầy ý nghĩa.
         </p>
         <button className="btn btn-primary rounded-pill px-4 py-2 shadow-sm transition">
           Tìm hiểu ngay
@@ -46,7 +46,9 @@ const Home = () => {
                 <div className="card-body">
                   <h5 className="card-title fw-bold">Khóa học {course.level}</h5>
                   <p className="card-text">{course.desc}</p>
-                  <Link to={course.link} className="btn btn-outline-primary rounded-pill transition">Tham gia</Link>
+                  <Link to={course.link} className="btn rounded-pill transition btn-outline-jpg">
+                    Tham gia
+                  </Link>
                 </div>
               </div>
             </div>
