@@ -28,7 +28,7 @@ app.post('/api/report', (req, res) => {
 
   const filePath = path.join(feedbackDir, filename);
   // Tạo nội dung file theo định dạng: question_title: ...\ncontent: ...
-  const fileContent = `question_title: ${question_title}\ncontent: ${content}`;
+  const fileContent = `content: ${content}`;
 
   fs.writeFile(filePath, fileContent, (err) => {
     if (err) {
