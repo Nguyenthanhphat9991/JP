@@ -1,6 +1,6 @@
 // components/QuizPage.js
 import React, { useState } from "react";
-import { useParams, useNavigate } from "react-router-dom";
+import { useParams, useNavigate, Link } from "react-router-dom";
 import { ProgressBar, Button } from "react-bootstrap";
 import { FaFlag } from "react-icons/fa";
 import QuizCard from "../components/QuizCard";
@@ -26,7 +26,7 @@ function QuizPage() {
     handleNextQuestion,
     handleBackQuestion,
     handleResetQuiz,
-  } = useQuiz({ courseId, lessonId, categoryId, maxQuestions: 3 });
+  } = useQuiz({ courseId, lessonId, categoryId, maxQuestions: 25 });
 
   // State cho báo cáo lỗi khi đang làm quiz (chỉ cho câu hiện tại)
   const [showQuizReportModal, setShowQuizReportModal] = useState(false);
@@ -175,6 +175,13 @@ function QuizPage() {
               }`
             : `Ôn tập - Khóa ${courseId} - Bài ${lessonId}`}
         </h2>
+
+        <div className="d-flex justify-content-start mb-3">
+          <Button variant="secondary" onClick={() => navigate(-1)}>
+            Quay lại ôn bài tập khác
+          </Button>
+        </div>
+
         {!showResult ? (
           <>
             <ProgressBar

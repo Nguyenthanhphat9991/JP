@@ -8,6 +8,7 @@ const useQuiz = ({ courseId, lessonId, categoryId, maxQuestions = 3 }) => {
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [showResult, setShowResult] = useState(false);
   const [score, setScore] = useState(0);
+  const [refreshToken, setRefreshToken] = useState(0);
 
   useEffect(() => {
     let filePath = "";
@@ -45,7 +46,7 @@ const useQuiz = ({ courseId, lessonId, categoryId, maxQuestions = 3 }) => {
         setUserAnswers(initialAnswers);
       })
       .catch((err) => console.error("Lỗi fetch dữ liệu:", err));
-  }, [courseId, lessonId, categoryId, maxQuestions]);
+  }, [courseId, lessonId, categoryId, maxQuestions, refreshToken]);
 
   const totalQuestions = questions.length;
   const currentQuestion = questions[currentQuestionIndex] || {};
@@ -110,12 +111,9 @@ const useQuiz = ({ courseId, lessonId, categoryId, maxQuestions = 3 }) => {
 
   const handleResetQuiz = () => {
     setCurrentQuestionIndex(0);
-    const reset = questions.map((q) =>
-      q.type === "choice" ? null : q.type === "fill_in" ? "" : null
-    );
-    setUserAnswers(reset);
     setScore(0);
     setShowResult(false);
+    setRefreshToken(prev => prev + 1); // ép fetch lại dữ liệu và random lại câu hỏi
   };
 
   // Tính toán danh sách câu trả lời sai

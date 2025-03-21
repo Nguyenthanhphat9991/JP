@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "type": "choice",
         "question_text": "<ruby>好き<rt>すき</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -27,6 +28,7 @@
     },
     {
         "id": 2,
+        "type": "choice",
         "question_text": "<ruby>嫌い<rt>きらい</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -53,6 +55,7 @@
     },
     {
         "id": 3,
+        "type": "choice",
         "question_text": "<ruby>素敵<rt>すてき</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -79,6 +82,7 @@
     },
     {
         "id": 4,
+        "type": "choice",
         "question_text": "<ruby>上手<rt>じょうず</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -105,6 +109,7 @@
     },
     {
         "id": 5,
+        "type": "choice",
         "question_text": "<ruby>下手<rt>へた</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -131,6 +136,7 @@
     },
     {
         "id": 6,
+        "type": "choice",
         "question_text": "<ruby>得意<rt>とくい</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -157,6 +163,7 @@
     },
     {
         "id": 7,
+        "type": "choice",
         "question_text": "<ruby>苦手<rt>にがて</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -183,6 +190,7 @@
     },
     {
         "id": 8,
+        "type": "choice",
         "question_text": "<ruby>遅い<rt>おそい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -209,6 +217,7 @@
     },
     {
         "id": 9,
+        "type": "choice",
         "question_text": "<ruby>早い<rt>はやい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -235,6 +244,7 @@
     },
     {
         "id": 10,
+        "type": "choice",
         "question_text": "<ruby>大切<rt>たいせつ</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -261,6 +271,7 @@
     },
     {
         "id": 11,
+        "type": "choice",
         "question_text": "<ruby>長い<rt>ながい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -287,6 +298,7 @@
     },
     {
         "id": 12,
+        "type": "choice",
         "question_text": "<ruby>短い<rt>みじかい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -313,6 +325,7 @@
     },
     {
         "id": 13,
+        "type": "choice",
         "question_text": "<ruby>軽い<rt>かるい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -339,6 +352,7 @@
     },
     {
         "id": 14,
+        "type": "choice",
         "question_text": "<ruby>明るい<rt>あかるい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -365,6 +379,7 @@
     },
     {
         "id": 15,
+        "type": "choice",
         "question_text": "かっこいい có nghĩa là gì?",
         "answers": [
             {
@@ -391,6 +406,7 @@
     },
     {
         "id": 16,
+        "type": "choice",
         "question_text": "<ruby>若い<rt>わかい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -417,6 +433,7 @@
     },
     {
         "id": 17,
+        "type": "choice",
         "question_text": "<ruby>可愛い<rt>かわいい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -443,6 +460,7 @@
     },
     {
         "id": 18,
+        "type": "choice",
         "question_text": "<ruby>熱心<rt>ねっしん</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -469,6 +487,7 @@
     },
     {
         "id": 19,
+        "type": "choice",
         "question_text": "<ruby>真面目<rt>まじめ</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -495,6 +514,7 @@
     },
     {
         "id": 20,
+        "type": "choice",
         "question_text": "<ruby>仲がいい<rt>なかがいい</rt></ruby> có nghĩa là gì? - (な) -",
         "answers": [
             {
@@ -521,6 +541,7 @@
     },
     {
         "id": 21,
+        "type": "choice",
         "question_text": "<ruby>暖かい<rt>あたたかい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -547,6 +568,7 @@
     },
     {
         "id": 22,
+        "type": "choice",
         "question_text": "<ruby>涼しい<rt>すずしい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -573,6 +595,7 @@
     },
     {
         "id": 23,
+        "type": "choice",
         "question_text": "<ruby>眠い<rt>ねむい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -599,6 +622,7 @@
     },
     {
         "id": 24,
+        "type": "choice",
         "question_text": "<ruby>痛い<rt>いたい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -625,6 +649,7 @@
     },
     {
         "id": 25,
+        "type": "choice",
         "question_text": "<ruby>寂しい<rt>さびしい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -651,6 +676,7 @@
     },
     {
         "id": 26,
+        "type": "choice",
         "question_text": "つまらない có nghĩa là gì?",
         "answers": [
             {
@@ -677,6 +703,7 @@
     },
     {
         "id": 27,
+        "type": "choice",
         "question_text": "うん có nghĩa là gì?",
         "answers": [
             {
@@ -703,6 +730,7 @@
     },
     {
         "id": 28,
+        "type": "choice",
         "question_text": "ううん có nghĩa là gì?",
         "answers": [
             {
@@ -726,5 +754,173 @@
                 "is_correct": false
             }
         ]
+    },
+    {
+        "id": 29,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thích (な) = ____",
+        "correct_answer": "すき/好き"
+    },
+    {
+        "id": 30,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ghét (な) = ____",
+        "correct_answer": "きらい/嫌い"
+    },
+    {
+        "id": 31,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tuyệt vời (な) = ____",
+        "correct_answer": "すてき/素敵"
+    },
+    {
+        "id": 32,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giỏi (な) = ____",
+        "correct_answer": "じょうず/上手"
+    },
+    {
+        "id": 33,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Kém (な) = ____",
+        "correct_answer": "へた/下手"
+    },
+    {
+        "id": 34,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giỏi, điểm mạnh (な) = ____",
+        "correct_answer": "とくい/得意"
+    },
+    {
+        "id": 35,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Kém, điểm yếu (な) = ____",
+        "correct_answer": "にがて/苦手"
+    },
+    {
+        "id": 36,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Muộn, chậm = ____",
+        "correct_answer": "おそい/遅い"
+    },
+    {
+        "id": 37,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhanh, lẹ = ____",
+        "correct_answer": "はやい/早い"
+    },
+    {
+        "id": 38,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quan trọng (な) = ____",
+        "correct_answer": "たいせつ/大切"
+    },
+    {
+        "id": 39,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dài = ____",
+        "correct_answer": "ながい/長い"
+    },
+    {
+        "id": 40,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngắn = ____",
+        "correct_answer": "みじかい/短い"
+    },
+    {
+        "id": 41,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhẹ = ____",
+        "correct_answer": "かるい/軽い"
+    },
+    {
+        "id": 42,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tươi sáng, sáng sủa = ____",
+        "correct_answer": "あかるい/明るい"
+    },
+    {
+        "id": 43,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đẹp, ngầu = ____",
+        "correct_answer": "かっこいい"
+    },
+    {
+        "id": 44,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trẻ = ____",
+        "correct_answer": "わかい/若い"
+    },
+    {
+        "id": 45,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đáng yêu = ____",
+        "correct_answer": "かわいい/可愛い"
+    },
+    {
+        "id": 46,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhiệt tình (な) = ____",
+        "correct_answer": "ねっしん/熱心"
+    },
+    {
+        "id": 47,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nghiêm túc, chăm chỉ (な) = ____",
+        "correct_answer": "まじめ/真面目"
+    },
+    {
+        "id": 48,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quan hệ tốt (な) = ____",
+        "correct_answer": "なかがいい/仲がいい"
+    },
+    {
+        "id": 49,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ấm áp = ____",
+        "correct_answer": "あたたかい/暖かい"
+    },
+    {
+        "id": 50,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mát mẻ = ____",
+        "correct_answer": "すずしい/涼しい"
+    },
+    {
+        "id": 51,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Buồn ngủ = ____",
+        "correct_answer": "ねむい/眠い"
+    },
+    {
+        "id": 52,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đau = ____",
+        "correct_answer": "いたい/痛い"
+    },
+    {
+        "id": 53,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Buồn = ____",
+        "correct_answer": "さびしい/寂しい"
+    },
+    {
+        "id": 54,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chán, nhàm chán = ____",
+        "correct_answer": "つまらない"
+    },
+    {
+        "id": 55,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ừ, ừm = ____",
+        "correct_answer": "うん"
+    },
+    {
+        "id": 56,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Không = ____",
+        "correct_answer": "ううん"
     }
 ]

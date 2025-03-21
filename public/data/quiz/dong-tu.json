@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "type": "choice",
         "question_text": "<ruby>起きます<rt>おきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -27,6 +28,7 @@
     },
     {
         "id": 2,
+        "type": "choice",
         "question_text": "<ruby>寝ます<rt>ねます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -53,6 +55,7 @@
     },
     {
         "id": 3,
+        "type": "choice",
         "question_text": "<ruby>終わります<rt>おわります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -79,6 +82,7 @@
     },
     {
         "id": 4,
+        "type": "choice",
         "question_text": "<ruby>買い物します<rt>かいものします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -105,6 +109,7 @@
     },
     {
         "id": 5,
+        "type": "choice",
         "question_text": "<ruby>散歩します<rt>さんぽします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -131,6 +136,7 @@
     },
     {
         "id": 6,
+        "type": "choice",
         "question_text": "<ruby>洗濯します<rt>せんたくします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -157,6 +163,7 @@
     },
     {
         "id": 7,
+        "type": "choice",
         "question_text": "<ruby>掃除します<rt>そうじします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -183,6 +190,7 @@
     },
     {
         "id": 8,
+        "type": "choice",
         "question_text": "<ruby>働きます<rt>はたらきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -209,6 +217,7 @@
     },
     {
         "id": 9,
+        "type": "choice",
         "question_text": "<ruby>勉強します<rt>べんきょうします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -235,6 +244,7 @@
     },
     {
         "id": 10,
+        "type": "choice",
         "question_text": "<ruby>休みます<rt>やすみます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -261,6 +271,7 @@
     },
     {
         "id": 11,
+        "type": "choice",
         "question_text": "<ruby>お祭り<rt>おまつり</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -287,6 +298,7 @@
     },
     {
         "id": 12,
+        "type": "choice",
         "question_text": "<ruby>行きます<rt>いきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -313,6 +325,7 @@
     },
     {
         "id": 13,
+        "type": "choice",
         "question_text": "<ruby>来ます<rt>きます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -339,6 +352,7 @@
     },
     {
         "id": 14,
+        "type": "choice",
         "question_text": "<ruby>帰ります<rt>かえります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -365,6 +379,7 @@
     },
     {
         "id": 15,
+        "type": "choice",
         "question_text": "<ruby>食べます<rt>たべます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -391,6 +406,7 @@
     },
     {
         "id": 16,
+        "type": "choice",
         "question_text": "<ruby>飲みます<rt>のみます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -417,6 +433,7 @@
     },
     {
         "id": 17,
+        "type": "choice",
         "question_text": "<ruby>見ます<rt>みます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -443,6 +460,7 @@
     },
     {
         "id": 18,
+        "type": "choice",
         "question_text": "<ruby>聞きます<rt>ききます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -469,6 +487,7 @@
     },
     {
         "id": 19,
+        "type": "choice",
         "question_text": "<ruby>読みます<rt>よみます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -495,6 +514,7 @@
     },
     {
         "id": 20,
+        "type": "choice",
         "question_text": "<ruby>書きます<rt>かきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -521,6 +541,7 @@
     },
     {
         "id": 21,
+        "type": "choice",
         "question_text": "<ruby>買います<rt>かいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -547,6 +568,7 @@
     },
     {
         "id": 22,
+        "type": "choice",
         "question_text": "<ruby>切ります<rt>きります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -573,6 +595,7 @@
     },
     {
         "id": 23,
+        "type": "choice",
         "question_text": "<ruby>撮ります<rt>とります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -599,6 +622,7 @@
     },
     {
         "id": 24,
+        "type": "choice",
         "question_text": "<ruby>出します<rt>だします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -625,6 +649,7 @@
     },
     {
         "id": 25,
+        "type": "choice",
         "question_text": "<ruby>分けます<rt>わけます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -651,6 +676,7 @@
     },
     {
         "id": 26,
+        "type": "choice",
         "question_text": "<ruby>します<rt>します</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -677,6 +703,7 @@
     },
     {
         "id": 27,
+        "type": "choice",
         "question_text": "<ruby>遅れます<rt>おくます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -703,6 +730,7 @@
     },
     {
         "id": 28,
+        "type": "choice",
         "question_text": "<ruby>作ります<rt>つくります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -729,6 +757,7 @@
     },
     {
         "id": 29,
+        "type": "choice",
         "question_text": "<ruby>分かります<rt>わかります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -755,6 +784,7 @@
     },
     {
         "id": 30,
+        "type": "choice",
         "question_text": "<ruby>方<rt>かた</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -781,6 +811,7 @@
     },
     {
         "id": 31,
+        "type": "choice",
         "question_text": "<ruby>疲れます<rt>つかれます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -807,6 +838,7 @@
     },
     {
         "id": 32,
+        "type": "choice",
         "question_text": "<ruby>出かけます<rt>でかけます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -833,6 +865,7 @@
     },
     {
         "id": 33,
+        "type": "choice",
         "question_text": "<ruby>登ります<rt>のぼります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -859,6 +892,7 @@
     },
     {
         "id": 34,
+        "type": "choice",
         "question_text": "<ruby>会います<rt>あいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -885,6 +919,7 @@
     },
     {
         "id": 35,
+        "type": "choice",
         "question_text": "<ruby>旅行します<rt>りょこうします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -911,6 +946,7 @@
     },
     {
         "id": 36,
+        "type": "choice",
         "question_text": "<ruby>泳ぎます<rt>およぎます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -937,6 +973,7 @@
     },
     {
         "id": 37,
+        "type": "choice",
         "question_text": "<ruby>欲しい<rt>ほしい</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -963,6 +1000,7 @@
     },
     {
         "id": 38,
+        "type": "choice",
         "question_text": "<ruby>遊びます<rt>あそびます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -989,6 +1027,7 @@
     },
     {
         "id": 39,
+        "type": "choice",
         "question_text": "<ruby>浴びます<rt>あびます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1015,6 +1054,7 @@
     },
     {
         "id": 40,
+        "type": "choice",
         "question_text": "<ruby>結婚します<rt>けっこんします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1041,6 +1081,7 @@
     },
     {
         "id": 41,
+        "type": "choice",
         "question_text": "<ruby>迎えます<rt>むかえます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1067,6 +1108,7 @@
     },
     {
         "id": 42,
+        "type": "choice",
         "question_text": "<ruby>食事します<rt>しょくじします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1093,6 +1135,7 @@
     },
     {
         "id": 43,
+        "type": "choice",
         "question_text": "<ruby>授業<rt>じゅぎょう</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1119,6 +1162,7 @@
     },
     {
         "id": 44,
+        "type": "choice",
         "question_text": "<ruby>待ちます<rt>まちます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1145,6 +1189,7 @@
     },
     {
         "id": 45,
+        "type": "choice",
         "question_text": "<ruby>吸います<rt>すいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1171,6 +1216,7 @@
     },
     {
         "id": 46,
+        "type": "choice",
         "question_text": "<ruby>持ちます<rt>もちます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1197,6 +1243,7 @@
     },
     {
         "id": 47,
+        "type": "choice",
         "question_text": "<ruby>知ります<rt>しります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1223,6 +1270,7 @@
     },
     {
         "id": 48,
+        "type": "choice",
         "question_text": "<ruby>住みます<rt>すみます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1249,6 +1297,7 @@
     },
     {
         "id": 49,
+        "type": "choice",
         "question_text": "<ruby>弾きます<rt>ひきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1275,6 +1324,7 @@
     },
     {
         "id": 50,
+        "type": "choice",
         "question_text": "<ruby>降ります<rt>ふります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1301,6 +1351,7 @@
     },
     {
         "id": 52,
+        "type": "choice",
         "question_text": "<ruby>話します<rt>はなします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1327,6 +1378,7 @@
     },
     {
         "id": 53,
+        "type": "choice",
         "question_text": "<ruby>コピーします<rt>コピーします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1353,6 +1405,7 @@
     },
     {
         "id": 54,
+        "type": "choice",
         "question_text": "<ruby>立ちます<rt>たちます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1379,6 +1432,7 @@
     },
     {
         "id": 55,
+        "type": "choice",
         "question_text": "<ruby>座ります<rt>すわります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1405,6 +1459,7 @@
     },
     {
         "id": 56,
+        "type": "choice",
         "question_text": "<ruby>探します<rt>さがします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1431,6 +1486,7 @@
     },
     {
         "id": 57,
+        "type": "choice",
         "question_text": "<ruby>呼びます<rt>よびます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1457,6 +1513,7 @@
     },
     {
         "id": 58,
+        "type": "choice",
         "question_text": "<ruby>使います<rt>つかいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1483,6 +1540,7 @@
     },
     {
         "id": 59,
+        "type": "choice",
         "question_text": "<ruby>入れます<rt>いれます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1509,6 +1567,7 @@
     },
     {
         "id": 60,
+        "type": "choice",
         "question_text": "<ruby>置きます<rt>おきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1535,6 +1594,7 @@
     },
     {
         "id": 61,
+        "type": "choice",
         "question_text": "<ruby>飼います<rt>かいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1561,6 +1621,7 @@
     },
     {
         "id": 62,
+        "type": "choice",
         "question_text": "<ruby>手伝います<rt>てつだいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1587,6 +1648,7 @@
     },
     {
         "id": 63,
+        "type": "choice",
         "question_text": "<ruby>運転します<rt>うんてんします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1613,6 +1675,7 @@
     },
     {
         "id": 64,
+        "type": "choice",
         "question_text": "<ruby>触ります<rt>さわります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1639,6 +1702,7 @@
     },
     {
         "id": 65,
+        "type": "choice",
         "question_text": "<ruby>急ぎます<rt>いそぎます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1665,6 +1729,7 @@
     },
     {
         "id": 66,
+        "type": "choice",
         "question_text": "<ruby>入ります<rt>はいります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1691,6 +1756,7 @@
     },
     {
         "id": 67,
+        "type": "choice",
         "question_text": "<ruby>出ます<rt>でます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1717,6 +1783,7 @@
     },
     {
         "id": 68,
+        "type": "choice",
         "question_text": "<ruby>走ります<rt>はしります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1743,6 +1810,7 @@
     },
     {
         "id": 69,
+        "type": "choice",
         "question_text": "<ruby>曲がります<rt>まがります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1769,6 +1837,7 @@
     },
     {
         "id": 70,
+        "type": "choice",
         "question_text": "<ruby>止めます<rt>とめます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1795,6 +1864,7 @@
     },
     {
         "id": 71,
+        "type": "choice",
         "question_text": "<ruby>取ります<rt>とります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1821,6 +1891,7 @@
     },
     {
         "id": 72,
+        "type": "choice",
         "question_text": "<ruby>開けます<rt>あけます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1847,6 +1918,7 @@
     },
     {
         "id": 73,
+        "type": "choice",
         "question_text": "<ruby>閉めます<rt>しめます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1873,6 +1945,7 @@
     },
     {
         "id": 74,
+        "type": "choice",
         "question_text": "<ruby>消します<rt>けします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1899,6 +1972,7 @@
     },
     {
         "id": 75,
+        "type": "choice",
         "question_text": "<ruby>つけます<rt>つけます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1925,6 +1999,7 @@
     },
     {
         "id": 76,
+        "type": "choice",
         "question_text": "<ruby>洗います<rt>あらいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1951,6 +2026,7 @@
     },
     {
         "id": 77,
+        "type": "choice",
         "question_text": "<ruby>押します<rt>おします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -1977,6 +2053,7 @@
     },
     {
         "id": 78,
+        "type": "choice",
         "question_text": "<ruby>お風呂に入ります<rt>おふろにはいります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2003,6 +2080,7 @@
     },
     {
         "id": 79,
+        "type": "choice",
         "question_text": "<ruby>着ます<rt>きます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2029,6 +2107,7 @@
     },
     {
         "id": 80,
+        "type": "choice",
         "question_text": "<ruby>連れて行きます<rt>つれていきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2055,6 +2134,7 @@
     },
     {
         "id": 81,
+        "type": "choice",
         "question_text": "<ruby>連れて来ます<rt>つれてきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2081,6 +2161,7 @@
     },
     {
         "id": 82,
+        "type": "choice",
         "question_text": "<ruby>並べます<rt>ならべます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2107,6 +2188,7 @@
     },
     {
         "id": 83,
+        "type": "choice",
         "question_text": "<ruby>乗ります<rt>のります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2133,6 +2215,7 @@
     },
     {
         "id": 84,
+        "type": "choice",
         "question_text": "<ruby>払います<rt>はらいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2159,6 +2242,7 @@
     },
     {
         "id": 85,
+        "type": "choice",
         "question_text": "<ruby>磨きます<rt>みがきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2185,6 +2269,7 @@
     },
     {
         "id": 86,
+        "type": "choice",
         "question_text": "<ruby>出ます<rt>でます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2211,6 +2296,7 @@
     },
     {
         "id": 87,
+        "type": "choice",
         "question_text": "<ruby>予約します<rt>よやくします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2237,6 +2323,7 @@
     },
     {
         "id": 88,
+        "type": "choice",
         "question_text": "<ruby>渡ります<rt>わたります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2263,6 +2350,7 @@
     },
     {
         "id": 89,
+        "type": "choice",
         "question_text": "<ruby>辞めます<rt>やめます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2289,6 +2377,7 @@
     },
     {
         "id": 90,
+        "type": "choice",
         "question_text": "<ruby>咲きます<rt>さきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2315,6 +2404,7 @@
     },
     {
         "id": 91,
+        "type": "choice",
         "question_text": "<ruby>準備します<rt>じゅんびします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2341,6 +2431,7 @@
     },
     {
         "id": 92,
+        "type": "choice",
         "question_text": "<ruby>練習します<rt>れんしゅうします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2367,6 +2458,7 @@
     },
     {
         "id": 93,
+        "type": "choice",
         "question_text": "<ruby>卒業します<rt>そつぎょうします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2393,6 +2485,7 @@
     },
     {
         "id": 94,
+        "type": "choice",
         "question_text": "<ruby>運動します<rt>うんどうします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2419,6 +2512,7 @@
     },
     {
         "id": 95,
+        "type": "choice",
         "question_text": "<ruby>持って来ます<rt>もってきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2445,6 +2539,7 @@
     },
     {
         "id": 96,
+        "type": "choice",
         "question_text": "<ruby>持って行きます<rt>もっていきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2471,6 +2566,7 @@
     },
     {
         "id": 97,
+        "type": "choice",
         "question_text": "<ruby>始めます<rt>はじめます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2497,6 +2593,7 @@
     },
     {
         "id": 98,
+        "type": "choice",
         "question_text": "<ruby>なります<rt>なります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2523,6 +2620,7 @@
     },
     {
         "id": 99,
+        "type": "choice",
         "question_text": "<ruby>集めます<rt>あつめます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2549,6 +2647,7 @@
     },
     {
         "id": 100,
+        "type": "choice",
         "question_text": "<ruby>歌います<rt>うたいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2575,6 +2674,7 @@
     },
     {
         "id": 101,
+        "type": "choice",
         "question_text": "<ruby>折ります<rt>おります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2601,6 +2701,7 @@
     },
     {
         "id": 102,
+        "type": "choice",
         "question_text": "<ruby>参加します<rt>さんかします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2627,6 +2728,7 @@
     },
     {
         "id": 103,
+        "type": "choice",
         "question_text": "<ruby>調べます<rt>しらべます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2653,6 +2755,7 @@
     },
     {
         "id": 104,
+        "type": "choice",
         "question_text": "<ruby>電話します<rt>でんわします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2679,6 +2782,7 @@
     },
     {
         "id": 105,
+        "type": "choice",
         "question_text": "<ruby>出来ます<rt>できます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2705,6 +2809,7 @@
     },
     {
         "id": 106,
+        "type": "choice",
         "question_text": "<ruby>言います<rt>いいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2731,6 +2836,7 @@
     },
     {
         "id": 107,
+        "type": "choice",
         "question_text": "<ruby>心配します<rt>しんぱいします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2757,6 +2863,7 @@
     },
     {
         "id": 108,
+        "type": "choice",
         "question_text": "<ruby>捨てます<rt>すてます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2783,6 +2890,7 @@
     },
     {
         "id": 109,
+        "type": "choice",
         "question_text": "<ruby>無くします<rt>なくします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2809,6 +2917,7 @@
     },
     {
         "id": 110,
+        "type": "choice",
         "question_text": "<ruby>騒ぎます<rt>さわぎます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2835,6 +2944,7 @@
     },
     {
         "id": 111,
+        "type": "choice",
         "question_text": "<ruby>忘れます<rt>わすれます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2861,6 +2971,7 @@
     },
     {
         "id": 112,
+        "type": "choice",
         "question_text": "<ruby>電源を<rt>てんげんを</rt></ruby><ruby>切ります<rt>きります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2887,6 +2998,7 @@
     },
     {
         "id": 113,
+        "type": "choice",
         "question_text": "<ruby>見せます<rt>みせます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2913,6 +3025,7 @@
     },
     {
         "id": 114,
+        "type": "choice",
         "question_text": "<ruby>載せます<rt>のせます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2939,6 +3052,7 @@
     },
     {
         "id": 115,
+        "type": "choice",
         "question_text": "<ruby>脱ぎます<rt>ぬぎます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2965,6 +3079,7 @@
     },
     {
         "id": 116,
+        "type": "choice",
         "question_text": "<ruby>残業します<rt>ざんぎょうします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -2991,6 +3106,7 @@
     },
     {
         "id": 117,
+        "type": "choice",
         "question_text": "<ruby>出張します<rt>しゅっちょうします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3017,6 +3133,7 @@
     },
     {
         "id": 118,
+        "type": "choice",
         "question_text": "<ruby>渡します<rt>わたします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3043,6 +3160,7 @@
     },
     {
         "id": 119,
+        "type": "choice",
         "question_text": "<ruby>返します<rt>かえします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3069,6 +3187,7 @@
     },
     {
         "id": 120,
+        "type": "choice",
         "question_text": "<ruby>シートベルトを<rt>シートベルトを</rt></ruby><ruby>締めます<rt>しめます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3095,6 +3214,7 @@
     },
     {
         "id": 121,
+        "type": "choice",
         "question_text": "<ruby>聞きます<rt>ききます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3121,6 +3241,7 @@
     },
     {
         "id": 122,
+        "type": "choice",
         "question_text": "<ruby>着きます<rt>つきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3147,6 +3268,7 @@
     },
     {
         "id": 123,
+        "type": "choice",
         "question_text": "<ruby>泊まります<rt>とまります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3173,6 +3295,7 @@
     },
     {
         "id": 124,
+        "type": "choice",
         "question_text": "<ruby>歩きます<rt>あるきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3199,6 +3322,7 @@
     },
     {
         "id": 125,
+        "type": "choice",
         "question_text": "<ruby>眼鏡を<rt>めがねを</rt></ruby>かけます có nghĩa là gì?",
         "answers": [
             {
@@ -3225,6 +3349,7 @@
     },
     {
         "id": 126,
+        "type": "choice",
         "question_text": "<ruby>見学します<rt>けんがくします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3251,6 +3376,7 @@
     },
     {
         "id": 127,
+        "type": "choice",
         "question_text": "<ruby>修理します<rt>しゅうりします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3277,6 +3403,7 @@
     },
     {
         "id": 128,
+        "type": "choice",
         "question_text": "<ruby>売ります<rt>うります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3303,6 +3430,7 @@
     },
     {
         "id": 129,
+        "type": "choice",
         "question_text": "<ruby>思います<rt>おもいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3329,6 +3457,7 @@
     },
     {
         "id": 130,
+        "type": "choice",
         "question_text": "<ruby>気を付けます<rt>きをつけます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3355,6 +3484,7 @@
     },
     {
         "id": 131,
+        "type": "choice",
         "question_text": "<ruby>頼みます<rt>たのみます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3381,6 +3511,7 @@
     },
     {
         "id": 132,
+        "type": "choice",
         "question_text": "<ruby>生まれます<rt>うまれます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3407,6 +3538,7 @@
     },
     {
         "id": 133,
+        "type": "choice",
         "question_text": "かぶります có nghĩa là gì?",
         "answers": [
             {
@@ -3433,6 +3565,7 @@
     },
     {
         "id": 134,
+        "type": "choice",
         "question_text": "はきます có nghĩa là gì?",
         "answers": [
             {
@@ -3459,6 +3592,7 @@
     },
     {
         "id": 135,
+        "type": "choice",
         "question_text": "<ruby>下ろします<rt>おろします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3485,6 +3619,7 @@
     },
     {
         "id": 136,
+        "type": "choice",
         "question_text": "<ruby>学びます<rt>まなびます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3511,6 +3646,7 @@
     },
     {
         "id": 137,
+        "type": "choice",
         "question_text": "<ruby>要ります<rt>いります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3537,6 +3673,7 @@
     },
     {
         "id": 138,
+        "type": "choice",
         "question_text": "<ruby>役に立ちます<rt>やくにたちます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3563,6 +3700,7 @@
     },
     {
         "id": 139,
+        "type": "choice",
         "question_text": "<ruby>案内します<rt>あんないします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3589,6 +3727,7 @@
     },
     {
         "id": 140,
+        "type": "choice",
         "question_text": "<ruby>紹介します<rt>しょうかいします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3615,6 +3754,7 @@
     },
     {
         "id": 141,
+        "type": "choice",
         "question_text": "<ruby>風邪をひきます<rt>かぜをひきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3641,6 +3781,7 @@
     },
     {
         "id": 142,
+        "type": "choice",
         "question_text": "<ruby>直します<rt>なおします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3667,6 +3808,7 @@
     },
     {
         "id": 143,
+        "type": "choice",
         "question_text": "<ruby>説明します<rt>せつめいします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3693,6 +3835,7 @@
     },
     {
         "id": 144,
+        "type": "choice",
         "question_text": "<ruby>拾います<rt>ひろいます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3719,6 +3862,7 @@
     },
     {
         "id": 145,
+        "type": "choice",
         "question_text": "<ruby>困ります<rt>こまります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3745,6 +3889,7 @@
     },
     {
         "id": 146,
+        "type": "choice",
         "question_text": "くれます có nghĩa là gì?",
         "answers": [
             {
@@ -3771,6 +3916,7 @@
     },
     {
         "id": 147,
+        "type": "choice",
         "question_text": "<ruby>ドアが<rt>ドアが</rt></ruby><ruby>開きます<rt>あきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3797,6 +3943,7 @@
     },
     {
         "id": 148,
+        "type": "choice",
         "question_text": "<ruby>電気が<rt>でんきが</rt></ruby><ruby>点きます<rt>つきます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3823,6 +3970,7 @@
     },
     {
         "id": 149,
+        "type": "choice",
         "question_text": "<ruby>年を取ります<rt>としをとります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3849,6 +3997,7 @@
     },
     {
         "id": 150,
+        "type": "choice",
         "question_text": "<ruby>回します<rt>まわします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3875,6 +4024,7 @@
     },
     {
         "id": 151,
+        "type": "choice",
         "question_text": "<ruby>太ります<rt>ふとります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3901,6 +4051,7 @@
     },
     {
         "id": 152,
+        "type": "choice",
         "question_text": "<ruby>痩せます<rt>やせます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3927,6 +4078,7 @@
     },
     {
         "id": 153,
+        "type": "choice",
         "question_text": "<ruby>戻ります<rt>もどります</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3953,6 +4105,7 @@
     },
     {
         "id": 154,
+        "type": "choice",
         "question_text": "<ruby>考えます<rt>かんがえます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -3979,6 +4132,7 @@
     },
     {
         "id": 155,
+        "type": "choice",
         "question_text": "<ruby>安心します<rt>あんしんします</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
@@ -4002,5 +4156,935 @@
                 "is_correct": false
             }
         ]
+    },
+    {
+        "id": 156,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thức dậy = ____",
+        "correct_answer": "おきます/起き"
+    },
+    {
+        "id": 157,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngủ = ____",
+        "correct_answer": "ねます/寝"
+    },
+    {
+        "id": 158,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Kết thúc = ____",
+        "correct_answer": "おわります/終わ"
+    },
+    {
+        "id": 159,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mua sắm = ____",
+        "correct_answer": "かいものします/買い物"
+    },
+    {
+        "id": 160,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đi dạo, tản bộ = ____",
+        "correct_answer": "さんぽします/散歩"
+    },
+    {
+        "id": 161,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giặt giũ = ____",
+        "correct_answer": "せんたくします/洗濯"
+    },
+    {
+        "id": 162,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dọn dẹp, vệ sinh = ____",
+        "correct_answer": "そうじします/掃除"
+    },
+    {
+        "id": 163,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Làm việc = ____",
+        "correct_answer": "はたらきます/働き"
+    },
+    {
+        "id": 164,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Học = ____",
+        "correct_answer": "べんきょうします/勉強"
+    },
+    {
+        "id": 165,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nghỉ = ____",
+        "correct_answer": "やすみます/休み"
+    },
+    {
+        "id": 166,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lễ hội = ____",
+        "correct_answer": "おまつり/お祭り"
+    },
+    {
+        "id": 167,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đi = ____",
+        "correct_answer": "いきます/行き"
+    },
+    {
+        "id": 168,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đến = ____",
+        "correct_answer": "きます/来"
+    },
+    {
+        "id": 169,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trở về = ____",
+        "correct_answer": "かえります/帰り"
+    },
+    {
+        "id": 170,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ăn = ____",
+        "correct_answer": "たべます/食べます"
+    },
+    {
+        "id": 171,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Uống = ____",
+        "correct_answer": "のみます/飲みます"
+    },
+    {
+        "id": 172,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhìn = ____",
+        "correct_answer": "みます/見ます"
+    },
+    {
+        "id": 173,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nghe = ____",
+        "correct_answer": "ききます/聞きます"
+    },
+    {
+        "id": 174,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đọc = ____",
+        "correct_answer": "よみます/読みます"
+    },
+    {
+        "id": 175,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Viết = ____",
+        "correct_answer": "かきます/書きます"
+    },
+    {
+        "id": 176,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mua = ____",
+        "correct_answer": "かいます/買います"
+    },
+    {
+        "id": 177,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cắt = ____",
+        "correct_answer": "きります/切ります"
+    },
+    {
+        "id": 178,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chụp (ảnh) = ____",
+        "correct_answer": "とります/撮ります"
+    },
+    {
+        "id": 179,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nộp (bài), đổ (rác) = ____",
+        "correct_answer": "だします/出します"
+    },
+    {
+        "id": 180,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Phân loại, phân chia = ____",
+        "correct_answer": "わけます/分けます"
+    },
+    {
+        "id": 181,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Làm = ____",
+        "correct_answer": "します"
+    },
+    {
+        "id": 182,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đến muộn = ____",
+        "correct_answer": "おくれます/遅れます"
+    },
+    {
+        "id": 183,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Làm, nấu... = ____",
+        "correct_answer": "つくります/作ります"
+    },
+    {
+        "id": 184,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hiểu, biết = ____",
+        "correct_answer": "わかります/分かります"
+    },
+    {
+        "id": 185,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cách - (cách đọc, cách làm) = ____",
+        "correct_answer": "~かた/方/よみかた/読み方/つくりかた/作り方"
+    },
+    {
+        "id": 186,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mệt = ____",
+        "correct_answer": "つかれます/疲れます"
+    },
+    {
+        "id": 187,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đi ra ngoài = ____",
+        "correct_answer": "でかけます/出かけます"
+    },
+    {
+        "id": 188,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Leo = ____",
+        "correct_answer": "のぼります/登ります"
+    },
+    {
+        "id": 189,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Gặp = ____",
+        "correct_answer": "あいます/会います"
+    },
+    {
+        "id": 190,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Du lịch = ____",
+        "correct_answer": "りょこうします/旅行します"
+    },
+    {
+        "id": 191,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bơi = ____",
+        "correct_answer": "およぎます/泳ぎます"
+    },
+    {
+        "id": 192,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Muốn = ____",
+        "correct_answer": "ほしい/欲しい"
+    },
+    {
+        "id": 193,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chơi = ____",
+        "correct_answer": "あそびます/遊びます"
+    },
+    {
+        "id": 194,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tắm = ____",
+        "correct_answer": "あびます/浴びます"
+    },
+    {
+        "id": 195,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Kết hôn = ____",
+        "correct_answer": "けっこんします/結婚します"
+    },
+    {
+        "id": 196,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đón = ____",
+        "correct_answer": "むかえます/迎えます"
+    },
+    {
+        "id": 197,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dùng bữa = ____",
+        "correct_answer": "しょくじします/食事します"
+    },
+    {
+        "id": 198,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giờ học = ____",
+        "correct_answer": "じゅぎょう/授業"
+    },
+    {
+        "id": 199,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chờ đợi = ____",
+        "correct_answer": "まちます/待ちます"
+    },
+    {
+        "id": 200,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hút (thuốc) = ____",
+        "correct_answer": "すいます/吸います"
+    },
+    {
+        "id": 201,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mang, cầm = ____",
+        "correct_answer": "もちます/持ちます"
+    },
+    {
+        "id": 202,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Biết = ____",
+        "correct_answer": "しります/知ります"
+    },
+    {
+        "id": 203,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sống = ____",
+        "correct_answer": "すみます/住みます"
+    },
+    {
+        "id": 204,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đánh (đàn) = ____",
+        "correct_answer": "ひきます/弾きます"
+    },
+    {
+        "id": 205,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: (Mưa) rơi = ____",
+        "correct_answer": "ふります/降ります/あめがふります/雨が降ります"
+    },
+    {
+        "id": 206,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Xuống (xe) = ____",
+        "correct_answer": "おります/降ります"
+    },
+    {
+        "id": 207,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nói chuyện = ____",
+        "correct_answer": "はなします/話します"
+    },
+    {
+        "id": 208,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Copy, phô tô = ____",
+        "correct_answer": "コピーします"
+    },
+    {
+        "id": 209,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đứng = ____",
+        "correct_answer": "たちます/立ちます"
+    },
+    {
+        "id": 210,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngồi = ____",
+        "correct_answer": "すわります/座ります"
+    },
+    {
+        "id": 211,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tìm = ____",
+        "correct_answer": "さがします/探します"
+    },
+    {
+        "id": 212,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Gọi, kêu = ____",
+        "correct_answer": "よびます/呼びます"
+    },
+    {
+        "id": 213,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sử dụng = ____",
+        "correct_answer": "つかいます/使います"
+    },
+    {
+        "id": 214,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cho vào = ____",
+        "correct_answer": "いれます/入れます"
+    },
+    {
+        "id": 215,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đặt, để = ____",
+        "correct_answer": "おきます/置きます"
+    },
+    {
+        "id": 216,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nuôi = ____",
+        "correct_answer": "かいます/飼います"
+    },
+    {
+        "id": 217,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giúp = ____",
+        "correct_answer": "てつだいます/手伝います"
+    },
+    {
+        "id": 218,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lái = ____",
+        "correct_answer": "うんてんします/運転します"
+    },
+    {
+        "id": 219,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chạm = ____",
+        "correct_answer": "さわります/触ります"
+    },
+    {
+        "id": 220,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vội = ____",
+        "correct_answer": "いそぎます/急ぎます"
+    },
+    {
+        "id": 221,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vào = ____",
+        "correct_answer": "はいります/入ります"
+    },
+    {
+        "id": 222,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ra = ____",
+        "correct_answer": "でます/出ます"
+    },
+    {
+        "id": 223,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chạy = ____",
+        "correct_answer": "はしります/走ります"
+    },
+    {
+        "id": 224,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quẹo, rẽ = ____",
+        "correct_answer": "まがります/曲がります"
+    },
+    {
+        "id": 225,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Dừng lại = ____",
+        "correct_answer": "とめます/止めます"
+    },
+    {
+        "id": 226,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lấy = ____",
+        "correct_answer": "とります/取ります"
+    },
+    {
+        "id": 227,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mở = ____",
+        "correct_answer": "あけます/開けます"
+    },
+    {
+        "id": 228,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đóng = ____",
+        "correct_answer": "しめます/閉めます"
+    },
+    {
+        "id": 229,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tắt, xóa = ____",
+        "correct_answer": "けします/消します"
+    },
+    {
+        "id": 230,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bật = ____",
+        "correct_answer": "つけます"
+    },
+    {
+        "id": 231,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Rửa = ____",
+        "correct_answer": "あらいます/洗います"
+    },
+    {
+        "id": 232,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ấn, nhấn = ____",
+        "correct_answer": "おします/押します"
+    },
+    {
+        "id": 233,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tắm bồn = ____",
+        "correct_answer": "おふろにはいります/お風呂に入ります"
+    },
+    {
+        "id": 234,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mặc (đồ) = ____",
+        "correct_answer": "きます/着ます"
+    },
+    {
+        "id": 235,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đưa đi = ____",
+        "correct_answer": "つれていきます/連れて行きます"
+    },
+    {
+        "id": 236,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đưa đến = ____",
+        "correct_answer": "つれてきます/連れて来ます"
+    },
+    {
+        "id": 237,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sắp xếp = ____",
+        "correct_answer": "ならべます/並べます"
+    },
+    {
+        "id": 238,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lên (xe) = ____",
+        "correct_answer": "のります/乗ります"
+    },
+    {
+        "id": 239,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trả tiền = ____",
+        "correct_answer": "はらいます/払います"
+    },
+    {
+        "id": 240,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đánh, chải = ____",
+        "correct_answer": "みがきます/磨きます"
+    },
+    {
+        "id": 241,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: (Nước) ra, xuất hiện = ____",
+        "correct_answer": "(みずが)でます/(水が)出ます"
+    },
+    {
+        "id": 242,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đặt trước = ____",
+        "correct_answer": "よやくします/予約します"
+    },
+    {
+        "id": 243,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Băng qua = ____",
+        "correct_answer": "わたります/渡ります"
+    },
+    {
+        "id": 244,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nghĩ (việc) = ____",
+        "correct_answer": "(かいしゃを)やめます/(会社を)辞めます"
+    },
+    {
+        "id": 245,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: (Hoa) nở = ____",
+        "correct_answer": "(はなが)さきます/(花が)咲きます"
+    },
+    {
+        "id": 246,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chuẩn bị = ____",
+        "correct_answer": "じゅんびします/準備します"
+    },
+    {
+        "id": 247,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Luyện tập = ____",
+        "correct_answer": "れんしゅうします/練習します"
+    },
+    {
+        "id": 248,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tốt nghiệp = ____",
+        "correct_answer": "そつぎょうします/卒業します"
+    },
+    {
+        "id": 249,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vận động = ____",
+        "correct_answer": "うんどうします/運動します"
+    },
+    {
+        "id": 250,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mang đến = ____",
+        "correct_answer": "もってきます/持って来ます"
+    },
+    {
+        "id": 251,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mang đi = ____",
+        "correct_answer": "もっていきます/持って行きます"
+    },
+    {
+        "id": 252,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bắt đầu = ____",
+        "correct_answer": "はじめます/始めます"
+    },
+    {
+        "id": 253,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trở nên, trở thành = ____",
+        "correct_answer": "なります"
+    },
+    {
+        "id": 254,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sưu tập, thu thập = ____",
+        "correct_answer": "(きってを)あつめます/(切手を)集めます"
+    },
+    {
+        "id": 255,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hát = ____",
+        "correct_answer": "(うたを)うたいます/(歌を)歌います"
+    },
+    {
+        "id": 256,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bẻ, gấp = ____",
+        "correct_answer": "(おりがみを)おります/(折り紙を)折ります"
+    },
+    {
+        "id": 257,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tham gia = ____",
+        "correct_answer": "さんかします/参加します"
+    },
+    {
+        "id": 258,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tìm kiếm, tra cứu = ____",
+        "correct_answer": "(インターネットで)しらべます/(インターネットで)調べます"
+    },
+    {
+        "id": 259,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Gọi điện thoại = ____",
+        "correct_answer": "でんわします/電話します"
+    },
+    {
+        "id": 260,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Có thể = ____",
+        "correct_answer": "できます/出来ます"
+    },
+    {
+        "id": 261,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nói = ____",
+        "correct_answer": "いいます/言います"
+    },
+    {
+        "id": 262,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lo lắng = ____",
+        "correct_answer": "しんぱいします/心配します"
+    },
+    {
+        "id": 263,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vứt = ____",
+        "correct_answer": "すてます/捨てます"
+    },
+    {
+        "id": 264,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Làm mất = ____",
+        "correct_answer": "なくします/無くします"
+    },
+    {
+        "id": 265,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Làm ồn = ____",
+        "correct_answer": "さわぎます/騒ぎます"
+    },
+    {
+        "id": 266,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quên = ____",
+        "correct_answer": "わすれます/忘れます"
+    },
+    {
+        "id": 267,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Ngắt, tắt (nguồn điện) = ____",
+        "correct_answer": "てんげんをきります/電源を切ります"
+    },
+    {
+        "id": 268,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cho xem = ____",
+        "correct_answer": "みせます/見せます"
+    },
+    {
+        "id": 269,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Chất lên (xe) = ____",
+        "correct_answer": "のせます/載せます"
+    },
+    {
+        "id": 270,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cởi = ____",
+        "correct_answer": "ぬぎます/脱ぎます"
+    },
+    {
+        "id": 271,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Làm thêm giờ = ____",
+        "correct_answer": "ざんぎょうします/残業します"
+    },
+    {
+        "id": 272,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đi công tác = ____",
+        "correct_answer": "しゅっちょうします/出張します"
+    },
+    {
+        "id": 273,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trao, đưa = ____",
+        "correct_answer": "わたします/渡します"
+    },
+    {
+        "id": 274,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trả lại = ____",
+        "correct_answer": "かえします/返します"
+    },
+    {
+        "id": 275,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thắt dây an toàn = ____",
+        "correct_answer": "(シートベルトを)しめます/(シートベルトを)締めます"
+    },
+    {
+        "id": 276,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hỏi = ____",
+        "correct_answer": "ききます/聞きます"
+    },
+    {
+        "id": 277,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đến (nơi) = ____",
+        "correct_answer": "つきます/着きます"
+    },
+    {
+        "id": 278,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Trú, ở = ____",
+        "correct_answer": "とまります/泊まります"
+    },
+    {
+        "id": 279,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đi bộ = ____",
+        "correct_answer": "あるきます/歩きます"
+    },
+    {
+        "id": 280,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đeo (mắt kính) = ____",
+        "correct_answer": "(めがねを)かけます/(眼鏡を)かけます"
+    },
+    {
+        "id": 281,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tham quan = ____",
+        "correct_answer": "けんがくします/見学します"
+    },
+    {
+        "id": 282,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sửa chữa = ____",
+        "correct_answer": "しゅうりします/修理します"
+    },
+    {
+        "id": 283,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bán = ____",
+        "correct_answer": "うります/売ります"
+    },
+    {
+        "id": 284,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nghĩ = ____",
+        "correct_answer": "おもいます/思います"
+    },
+    {
+        "id": 285,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Để ý, chú ý = ____",
+        "correct_answer": "きをつけます/気を付けます"
+    },
+    {
+        "id": 286,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Nhờ = ____",
+        "correct_answer": "たのみます/頼みます"
+    },
+    {
+        "id": 287,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Được sinh ra = ____",
+        "correct_answer": "うまれます/生まれます"
+    },
+    {
+        "id": 288,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Đội (nón, mũ) = ____",
+        "correct_answer": "かぶります"
+    },
+    {
+        "id": 289,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Mặc (quần, váy...)/Đi (tất, giày...) = ____",
+        "correct_answer": "はきます"
+    },
+    {
+        "id": 290,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Rút (tiền) = ____",
+        "correct_answer": "おろします/下ろします"
+    },
+    {
+        "id": 291,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Học = ____",
+        "correct_answer": "まなびます/学びます"
+    },
+    {
+        "id": 292,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Cần = ____",
+        "correct_answer": "いります/要ります"
+    },
+    {
+        "id": 293,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Có ích = ____",
+        "correct_answer": "やくにたちます/役に立ちます"
+    },
+    {
+        "id": 294,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Hướng dẫn = ____",
+        "correct_answer": "あんないします/案内します"
+    },
+    {
+        "id": 295,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Giới thiệu = ____",
+        "correct_answer": "しょうかいします/紹介します"
+    },
+    {
+        "id": 296,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bị cảm = ____",
+        "correct_answer": "かぜをひきます/風邪をひきます"
+    },
+    {
+        "id": 297,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Sửa chữa = ____",
+        "correct_answer": "なおします/直します"
+    },
+    {
+        "id": 298,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Thuyết minh, giải thích = ____",
+        "correct_answer": "せつめいします/説明します"
+    },
+    {
+        "id": 299,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Lượm, nhặt = ____",
+        "correct_answer": "ひろいます/拾います"
+    },
+    {
+        "id": 300,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Bối rối, khó khăn = ____",
+        "correct_answer": "こまります/困ります"
+    },
+    {
+        "id": 301,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Tặng, cho (người khác cho mình) = ____",
+        "correct_answer": "くれます"
+    },
+    {
+        "id": 302,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: (Cửa) mở = ____",
+        "correct_answer": "(ドアが)あきます/(ドアが)開きます"
+    },
+    {
+        "id": 303,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: (Đèn) sáng = ____",
+        "correct_answer": "(でんきが)つきます/(電気が)点きます"
+    },
+    {
+        "id": 304,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Già đi, lớn tuổi = ____",
+        "correct_answer": "としをとります/年を取ります"
+    },
+    {
+        "id": 305,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Vặn, xoay = ____",
+        "correct_answer": "まわします/回します"
+    },
+    {
+        "id": 306,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Béo = ____",
+        "correct_answer": "ふとります/太ります"
+    },
+    {
+        "id": 307,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Gầy = ____",
+        "correct_answer": "やせます/痩せます"
+    },
+    {
+        "id": 308,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Quay lại, trở lại = ____",
+        "correct_answer": "もどります/戻ります"
+    },
+    {
+        "id": 309,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: Suy nghĩ = ____",
+        "correct_answer": "かんがえます/考えます"
+    },
+    {
+        "id": 310,
+        "type": "fill_in",
+        "question_text": "Điền vào chỗ trống: An tâm = ____",
+        "correct_answer": "あんしんします/安心します"
     }
 ]

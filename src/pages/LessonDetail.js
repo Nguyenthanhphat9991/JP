@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useParams, Link } from "react-router-dom"; // Import Link
+import { useParams, Link } from "react-router-dom";
 import LessonStatus from "./LessonStatus";
 
 const users = [
@@ -24,27 +24,21 @@ const users = [
 const LessonDetail = () => {
     const { courseId, categoryId } = useParams();
     const [lessonStatus, setLessonStatus] = useState({});
+    const [courses, setCourses] = useState([]);
 
-    // State lưu danh sách khóa học lấy từ JSON
-      const [courses, setCourses] = useState([]);
-    
-      // Fetch dữ liệu từ /public/data/courses.json khi component mount
-      useEffect(() => {
+    useEffect(() => {
         fetch("/data/courses.json")
-          .then((res) => {
-            if (!res.ok) {
-              throw new Error("Không thể tải dữ liệu từ /data/courses.json");
-            }
-            return res.json();
-          })
-          .then((data) => {
-            // Giả sử file JSON có cấu trúc { "courses": [...] }
-            setCourses(data.courses);
-          })
-          .catch((err) => console.error("Lỗi fetch:", err));
-      }, []);
-
-
+            .then((res) => {
+                if (!res.ok) {
+                    throw new Error("Không thể tải dữ liệu từ /data/courses.json");
+                }
+                return res.json();
+            })
+            .then((data) => {
+                setCourses(data.courses);
+            })
+            .catch((err) => console.error("Lỗi fetch:", err));
+    }, []);
 
     const course = courses.find(course => course.id === courseId);
     const category = course?.categorys.find(cat => cat.id === Number(categoryId));
@@ -68,7 +62,24 @@ const LessonDetail = () => {
 
     return (
         <div className="container my-5">
-            <h2 className="text-secondary fw-bold text-center">Danh Sách Bài Học: {courseId}</h2>
+            <nav aria-label="breadcrumb">
+                <ol className="breadcrumb bg-transparent px-0">
+                    <li className="breadcrumb-item">
+                        <Link to="/">Trang Chủ</Link>
+                    </li>
+                    <li className="breadcrumb-item">
+                        <Link to={`/courses/${courseId}`}>Khóa học {Number(courseId) === 1 ? "N5" : Number(courseId) === 2 ? "N4" : Number(courseId) === 3 ? "N3" : courseId}</Link>
+                    </li>
+                    <li className="breadcrumb-item active" aria-current="page">
+                        Danh sách bài học
+                    </li>
+                </ol>
+            </nav>
+
+            <h2 className="text-secondary fw-bold text-center">
+                Danh Sách Bài Học: {Number(courseId) === 1 ? "N5" : Number(courseId) === 2 ? "N4" : Number(courseId) === 3 ? "N3" : courseId}
+            </h2>
+
             <div className="row justify-content-center">
                 {category?.lessons.map((lesson) => (
                     <div key={lesson.id} className="col-md-2 mb-4">
@@ -76,8 +87,10 @@ const LessonDetail = () => {
                             <div className="card-body">
                                 <LessonStatus status={lessonStatus[lesson.id] || 'open'} />
                                 <h6 className="fw-bold text-secondary mt-2">{lesson.title}</h6>
-                                {/* <div className="text-warning">★★★★★</div> */}
-                                <Link to={`/courses/${courseId}/categories/${categoryId}/lessons/${lesson.id}/lesson-content`} className="btn btn-primary rounded-pill px-4 py-2 shadow-sm transition">
+                                <Link
+                                    to={`/courses/${courseId}/categories/${categoryId}/lessons/${lesson.id}/lesson-content`}
+                                    className="btn btn-primary rounded-pill px-4 py-2 shadow-sm transition"
+                                >
                                     Xem Bài
                                 </Link>
                             </div>
