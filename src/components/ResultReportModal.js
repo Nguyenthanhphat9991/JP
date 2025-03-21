@@ -62,9 +62,9 @@ const ResultReportModal = ({
                     handleReportItemChange(idx, "selectedQuestionIndex", Number(e.target.value))
                   }
                 >
-                  {questions.map((q, i) => (
+                  {(questions || []).map((q, i) => (
                     <option key={i} value={i}>
-                      {`Câu ${i + 1}: ${q.question_text.slice(0, 50)}...`}
+                      {`Câu ${i + 1}: ${q.question ? q.question.slice(0, 50) : 'Không có nội dung câu hỏi'}...`}
                     </option>
                   ))}
                 </Form.Control>

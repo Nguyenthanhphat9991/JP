@@ -11,7 +11,6 @@ app.use(cors());
 app.use(express.json());
 
 app.post('/api/report', (req, res) => {
-  console.log('req.body', req.body);
 
   const { filename, content, question_title } = req.body;
   if (!filename || !content || !question_title) {

@@ -106,6 +106,7 @@ const useQuiz = ({ courseId, lessonId, categoryId, maxQuestions = 3 }) => {
       setCurrentQuestionIndex((prev) => prev - 1);
     }
   };
+  
 
   const handleResetQuiz = () => {
     setCurrentQuestionIndex(0);

@@ -14,7 +14,6 @@ const VocabularyFlashcards = () => {
 
   useEffect(() => {
     const fileName = `/data/vocabulary/bai${lessonId}-${courseId}.json`;
-  console.log('fileName:', fileName);
 
     fetch(`${fileName}`)
       .then(response => {
