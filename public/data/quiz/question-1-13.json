@@ -2,6 +2,7 @@
     {
         "id": 1,
         "question_text": "<ruby>辛い<rt>からい</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -28,6 +29,7 @@
     {
         "id": 2,
         "question_text": "<ruby>多い<rt>おおい</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -54,6 +56,7 @@
     {
         "id": 3,
         "question_text": "ひま có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -80,6 +83,7 @@
     {
         "id": 4,
         "question_text": "<ruby>不便<rt>ふべん</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -106,6 +110,7 @@
     {
         "id": 5,
         "question_text": "<ruby>複雑<rt>ふくざつ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -132,6 +137,7 @@
     {
         "id": 6,
         "question_text": "<ruby>お花見<rt>おはなみ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -158,6 +164,7 @@
     {
         "id": 7,
         "question_text": "<ruby>試合<rt>しあい</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -184,6 +191,7 @@
     {
         "id": 8,
         "question_text": "<ruby>週末<rt>しゅうまつ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -210,6 +218,7 @@
     {
         "id": 9,
         "question_text": "<ruby>初めて<rt>はじめて</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -236,6 +245,7 @@
     {
         "id": 10,
         "question_text": "さっき có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -262,6 +272,7 @@
     {
         "id": 11,
         "question_text": "<ruby>晴れ<rt>はれ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -288,6 +299,7 @@
     {
         "id": 12,
         "question_text": "<ruby>曇り<rt>くもり</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -314,6 +326,7 @@
     {
         "id": 13,
         "question_text": "アルバイト có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -340,6 +353,7 @@
     {
         "id": 14,
         "question_text": "<ruby>花火大会<rt>はなびたいかい</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -366,6 +380,7 @@
     {
         "id": 15,
         "question_text": "イベント có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -392,6 +407,7 @@
     {
         "id": 16,
         "question_text": "<ruby>海<rt>うみ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -418,6 +434,7 @@
     {
         "id": 17,
         "question_text": "プール có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -444,6 +461,7 @@
     {
         "id": 18,
         "question_text": "<ruby>疲れます<rt>つかれます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -470,6 +488,7 @@
     {
         "id": 19,
         "question_text": "<ruby>出かけます<rt>でかけます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -496,6 +515,7 @@
     {
         "id": 20,
         "question_text": "<ruby>登ります<rt>のぼります</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -522,6 +542,7 @@
     {
         "id": 21,
         "question_text": "<ruby>会います<rt>あいます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -548,6 +569,7 @@
     {
         "id": 22,
         "question_text": "<ruby>旅行します<rt>りょこうします</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -574,6 +596,7 @@
     {
         "id": 23,
         "question_text": "<ruby>泳ぎます<rt>およぎます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -600,6 +623,7 @@
     {
         "id": 24,
         "question_text": "<ruby>何か<rt>なにか</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -626,6 +650,7 @@
     {
         "id": 25,
         "question_text": "どこか có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -652,6 +677,7 @@
     {
         "id": 26,
         "question_text": "いっしょに có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -678,6 +704,7 @@
     {
         "id": 27,
         "question_text": "(place)で(event)があります có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -704,6 +731,7 @@
     {
         "id": 28,
         "question_text": "<ruby>見に行きます<rt>みにいきます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -730,6 +758,7 @@
     {
         "id": 29,
         "question_text": "<ruby>また今度<rt>またこんど</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -756,6 +785,7 @@
     {
         "id": 30,
         "question_text": "ざんねん có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -782,6 +812,7 @@
     {
         "id": 31,
         "question_text": "ちょっと... có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -808,6 +839,7 @@
     {
         "id": 32,
         "question_text": "だめ có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -834,6 +866,7 @@
     {
         "id": 33,
         "question_text": "<ruby>多分大丈夫です<rt>たぶんだいじょうぶです</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -856,7 +889,8 @@
                 "is_correct": false
             }
         ]
-    },{
+    },
+    {
         "id": 34,
         "type": "fill_in",
         "question_text": "Điền vào chỗ trống: Cay = ____",

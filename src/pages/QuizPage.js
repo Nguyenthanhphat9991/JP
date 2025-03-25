@@ -1,6 +1,6 @@
 // components/QuizPage.js
 import React, { useState } from "react";
-import { useParams, useNavigate, Link } from "react-router-dom";
+import { useParams, useNavigate } from "react-router-dom";
 import { ProgressBar, Button } from "react-bootstrap";
 import { FaFlag } from "react-icons/fa";
 import QuizCard from "../components/QuizCard";
@@ -12,6 +12,7 @@ import "./QuizPage.css";
 function QuizPage() {
   const { courseId, lessonId, categoryId } = useParams();
   const navigate = useNavigate();
+  const isDev = process.env.NODE_ENV === "development";
 
   const {
     userAnswers,
@@ -26,7 +27,7 @@ function QuizPage() {
     handleNextQuestion,
     handleBackQuestion,
     handleResetQuiz,
-  } = useQuiz({ courseId, lessonId, categoryId, maxQuestions: 25 });
+  } = useQuiz({ courseId, lessonId, categoryId, maxQuestions: isDev ? 3 : 25 });
 
   // State cho báo cáo lỗi khi đang làm quiz (chỉ cho câu hiện tại)
   const [showQuizReportModal, setShowQuizReportModal] = useState(false);
@@ -41,6 +42,23 @@ function QuizPage() {
     setShowQuizReportModal(true);
   };
 
+  const getCourseName = (courseId) => {
+    return Number(courseId) === 1 ? "N5" : Number(courseId) === 2 ? "N4" : Number(courseId) === 3 ? "N3" : "";
+  };
+
+  const getCategoryName = (categoryId) => {
+    return Number(categoryId) === 2
+      ? "động từ"
+      : Number(categoryId) === 1
+      ? "Theo bài"
+      : Number(categoryId) === 3
+      ? "tính từ"
+      : Number(categoryId) === 4
+      ? "kanji"
+      : "";
+  };
+
+
   const handleSubmitQuizReport = () => {
     if (!quizReportFeedback.trim()) {
       alert("Vui lòng nhập nội dung báo cáo.");
@@ -53,15 +71,15 @@ function QuizPage() {
     const yyyy = now.getFullYear();
     const hh = String(now.getHours()).padStart(2, "0");
     const mn = String(now.getMinutes()).padStart(2, "0");
-    const filename = `${yyyy}${mm}${dd}-${hh}${mn}${seconds}-${courseId}-${lessonId}-${categoryId}.txt`;
+    const filename = `${yyyy}${mm}${dd}-${hh}${mn}${seconds}-${getCourseName(courseId)}-${lessonId}-${getCategoryName(categoryId)}.txt`;
 
     const payload = {
       filename,
-      content: `Câu: ${currentQuestion.question_text}\nNội dung: ${quizReportFeedback}`,
+      content: `Nội dung: ${quizReportFeedback}`,
       question_title: currentQuestion.question_text,
     };
 
-    fetch("http://localhost:3001/api/report", {
+    fetch("/api/report", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
@@ -131,7 +149,7 @@ function QuizPage() {
       question_title: "Nhiều câu",
     };
 
-    fetch("http://localhost:3001/api/report", {
+    fetch("/api/report", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(payload),
@@ -156,29 +174,33 @@ function QuizPage() {
       <div className="quiz-inner">
         <h2 className="mb-4 text-center quiz-title">
           {Number(categoryId) !== 1
-            ? `Ôn tập - Khóa ${
-                Number(courseId) === 1
-                  ? "N5"
-                  : Number(courseId) === 2
-                  ? "N4"
-                  : Number(courseId) === 3
+            ? `Ôn tập - Khóa ${Number(courseId) === 1
+              ? "N5"
+              : Number(courseId) === 2
+                ? "N4"
+                : Number(courseId) === 3
                   ? "N3"
                   : ""
-              } - Luyện tập ${
-                Number(categoryId) === 2
-                  ? "động từ"
-                  : Number(categoryId) === 3
-                  ? "tính từ"
-                  : Number(categoryId) === 4
+            } - Luyện tập ${Number(categoryId) === 2
+              ? "động từ"
+              : Number(categoryId) === 3
+                ? "tính từ"
+                : Number(categoryId) === 4
                   ? "kanji"
                   : ""
-              }`
-            : `Ôn tập - Khóa ${courseId} - Bài ${lessonId}`}
+            }`
+            : `Ôn tập - Khóa ${Number(courseId) === 1
+              ? "N5"
+              : Number(courseId) === 2
+                ? "N4"
+                : Number(courseId) === 3
+                  ? "N3"
+                  : ""} - Bài ${lessonId}`}
         </h2>
 
         <div className="d-flex justify-content-start mb-3">
           <Button variant="secondary" onClick={() => navigate(-1)}>
-            Quay lại ôn bài tập khác
+            Quay lại ôn bài tập từ vựng
           </Button>
         </div>
 
@@ -194,7 +216,8 @@ function QuizPage() {
               currentQuestionIndex={currentQuestionIndex}
               totalQuestions={totalQuestions}
               // Sử dụng giá trị từ userAnswers để truyền cho QuizCard; nếu là fill_in, đảm bảo không null
-              userAnswer={userAnswers[currentQuestionIndex] || ""}
+              // userAnswer={userAnswers[currentQuestionIndex] || ""}
+              userAnswer={userAnswers[currentQuestionIndex] ?? ""}
               handleChoiceChange={handleChoiceChange}
               handleFillInChange={handleFillInChange}
               handleNextQuestion={handleNextQuestion}

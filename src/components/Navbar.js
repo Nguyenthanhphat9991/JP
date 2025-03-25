@@ -26,13 +26,7 @@ const Navbar = () => {
         <div className="collapse navbar-collapse" id="navbarNav">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link className="nav-link" to="/">Giới thiệu</Link>
-            </li>
-            <li className="nav-item">
               <Link className="nav-link" to="/#danh-sach-khoa-hoc">Khóa học</Link>
-            </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/contact">Liên hệ</Link>
             </li>
           </ul>
         </div>

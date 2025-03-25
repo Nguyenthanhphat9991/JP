@@ -704,7 +704,7 @@
     {
         "id": 27,
         "type": "choice",
-        "question_text": "<ruby>遅れます<rt>おくます</rt></ruby> có nghĩa là gì?",
+        "question_text": "<ruby>遅れます<rt>おくれます</rt></ruby> có nghĩa là gì?",
         "answers": [
             {
                 "id": 1,
@@ -4227,7 +4227,7 @@
         "id": 167,
         "type": "fill_in",
         "question_text": "Điền vào chỗ trống: Đi = ____",
-        "correct_answer": "いきます/行き"
+        "correct_answer": "いきます/行きます"
     },
     {
         "id": 168,
@@ -4689,13 +4689,13 @@
         "id": 244,
         "type": "fill_in",
         "question_text": "Điền vào chỗ trống: Nghĩ (việc) = ____",
-        "correct_answer": "(かいしゃを)やめます/(会社を)辞めます"
+        "correct_answer": "(かいしゃを)やめます/(会社を)辞めます/かいしゃをやめます/会社を辞めます"
     },
     {
         "id": 245,
         "type": "fill_in",
         "question_text": "Điền vào chỗ trống: (Hoa) nở = ____",
-        "correct_answer": "(はなが)さきます/(花が)咲きます"
+        "correct_answer": "はながさきます/(花が)咲きます/さきます"
     },
     {
         "id": 246,

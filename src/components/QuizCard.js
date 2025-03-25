@@ -46,7 +46,9 @@ const QuizCard = ({
             id={`answer-${ans.id}`}
             name={`question-${currentQuestion.id}`}
             checked={userAnswer === idx}
-            onChange={() => handleChoiceChange(idx)}
+            onChange={() => 
+              handleChoiceChange(idx)
+            }
           />
           <label className="form-check-label" htmlFor={`answer-${ans.id}`}>
             {ans.answer_text}

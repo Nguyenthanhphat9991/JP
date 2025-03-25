@@ -2,6 +2,7 @@
     {
         "id": 1,
         "question_text": "<ruby>食べます<rt>たべます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -28,6 +29,7 @@
     {
         "id": 2,
         "question_text": "<ruby>飲みます<rt>のみます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -54,6 +56,7 @@
     {
         "id": 3,
         "question_text": "<ruby>見ます<rt>みます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -80,6 +83,7 @@
     {
         "id": 4,
         "question_text": "<ruby>聞きます<rt>ききます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -106,6 +110,7 @@
     {
         "id": 5,
         "question_text": "<ruby>読みます<rt>よみます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -132,6 +137,7 @@
     {
         "id": 6,
         "question_text": "<ruby>書きます<rt>かきます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -158,6 +164,7 @@
     {
         "id": 7,
         "question_text": "<ruby>買います<rt>かいます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -184,6 +191,7 @@
     {
         "id": 8,
         "question_text": "<ruby>切ります<rt>きります</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -210,6 +218,7 @@
     {
         "id": 9,
         "question_text": "<ruby>撮ります<rt>とります</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -236,6 +245,7 @@
     {
         "id": 10,
         "question_text": "<ruby>出します<rt>だします</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -262,6 +272,7 @@
     {
         "id": 11,
         "question_text": "<ruby>分けます<rt>わけます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -288,6 +299,7 @@
     {
         "id": 12,
         "question_text": "します có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -314,6 +326,7 @@
     {
         "id": 13,
         "question_text": "<ruby>魚<rt>さかな</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -340,6 +353,7 @@
     {
         "id": 14,
         "question_text": "<ruby>卵<rt>たまご</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -366,6 +380,7 @@
     {
         "id": 15,
         "question_text": "<ruby>ご飯<rt>ごはん</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -392,6 +407,7 @@
     {
         "id": 16,
         "question_text": "<ruby>肉<rt>にく</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -418,6 +434,7 @@
     {
         "id": 17,
         "question_text": "<ruby>果物<rt>くだもの</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -444,6 +461,7 @@
     {
         "id": 18,
         "question_text": "<ruby>野菜<rt>やさい</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -470,6 +488,7 @@
     {
         "id": 19,
         "question_text": "<ruby>お茶<rt>おちゃ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -496,6 +515,7 @@
     {
         "id": 20,
         "question_text": "<ruby>牛乳<rt>ぎゅうにゅう</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -522,6 +542,7 @@
     {
         "id": 21,
         "question_text": "ジュース có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -548,6 +569,7 @@
     {
         "id": 22,
         "question_text": "ビール có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -574,6 +596,7 @@
     {
         "id": 23,
         "question_text": "<ruby>水<rt>みず</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -600,6 +623,7 @@
     {
         "id": 24,
         "question_text": "<ruby>音楽<rt>おんがく</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -626,6 +650,7 @@
     {
         "id": 25,
         "question_text": "<ruby>写真<rt>しゃしん</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -652,6 +677,7 @@
     {
         "id": 26,
         "question_text": "サッカー có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -678,6 +704,7 @@
     {
         "id": 27,
         "question_text": "テレビ có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -704,6 +731,7 @@
     {
         "id": 28,
         "question_text": "メール có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -730,6 +758,7 @@
     {
         "id": 29,
         "question_text": "メッセージ có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -756,6 +785,7 @@
     {
         "id": 30,
         "question_text": "<ruby>紙<rt>かみ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -782,6 +812,7 @@
     {
         "id": 31,
         "question_text": "<ruby>宿題<rt>しゅくだい</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -808,6 +839,7 @@
     {
         "id": 32,
         "question_text": "ゴミ có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -834,6 +866,7 @@
     {
         "id": 33,
         "question_text": "パーティー có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -860,6 +893,7 @@
     {
         "id": 34,
         "question_text": "レポート có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -886,6 +920,7 @@
     {
         "id": 35,
         "question_text": "ナイフ có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -912,6 +947,7 @@
     {
         "id": 36,
         "question_text": "スプーン có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -938,6 +974,7 @@
     {
         "id": 37,
         "question_text": "はし có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -964,6 +1001,7 @@
     {
         "id": 38,
         "question_text": "<ruby>鋏<rt>はさみ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -990,6 +1028,7 @@
     {
         "id": 39,
         "question_text": "ミルク có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -1012,7 +1051,8 @@
                 "is_correct": false
             }
         ]
-    },{
+    },
+    {
         "id": 40,
         "type": "fill_in",
         "question_text": "Điền vào chỗ trống: Ăn = ____",
@@ -1215,7 +1255,8 @@
         "type": "fill_in",
         "question_text": "Điền vào chỗ trống: Báo cáo = ____",
         "correct_answer": "レポート"
-    },{
+    },
+    {
         "id": 74,
         "type": "fill_in",
         "question_text": "Điền vào chỗ trống: Dao = ____",

@@ -9,7 +9,7 @@ const ResultReportModal = ({
   courseId,
   lessonId,
   categoryId,
-  questions,
+  incorrectQuestions,
   reportItems,
   handleReportItemChange,
   addReportItem,
@@ -62,9 +62,9 @@ const ResultReportModal = ({
                     handleReportItemChange(idx, "selectedQuestionIndex", Number(e.target.value))
                   }
                 >
-                  {(questions || []).map((q, i) => (
+                  {(incorrectQuestions || []).map((q, i) => (
                     <option key={i} value={i}>
-                      {`Câu ${i + 1}: ${q.question ? q.question.slice(0, 50) : 'Không có nội dung câu hỏi'}...`}
+                      {`Câu ${q.questionIndex}: ${q.question?.slice(0, 50)}...`}
                     </option>
                   ))}
                 </Form.Control>

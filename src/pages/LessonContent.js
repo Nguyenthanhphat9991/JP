@@ -16,7 +16,7 @@ const LessonContent = () => {
                 {/* Breadcrumb */}
                 <nav aria-label="breadcrumb">
                     <ol className="breadcrumb bg-transparent">
-                        <li className="breadcrumb-item"><Link to="/courses">Khóa học</Link></li>
+                        <li className="breadcrumb-item"><Link to="">Khóa học</Link></li>
                         <li className="breadcrumb-item"><Link to={`/courses/${courseId}`}>Khóa học {Number(courseId) === 1 ? "N5" : Number(courseId) === 2 ? "N4" : Number(courseId) === 3 ? "N3" : courseId}</Link></li>
                         <li className="breadcrumb-item active" aria-current="page">Bài {lessonId}</li>
                     </ol>

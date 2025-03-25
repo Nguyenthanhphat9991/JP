@@ -26,7 +26,10 @@ const Home = () => {
       <section className="text-center">
         <h2 className="text-secondary fw-bold">Đơn Vị JPG</h2>
         <p className="lead text-muted">
-          Mỗi bước tiến của học viên đều có dấu ấn nhiệt huyết của SenSei, tạo nên một hành trình học tập đầy ý nghĩa.
+          Học viên đang không ngừng cố gắng, và phía sau là sự đồng hành đầy nhiệt huyết từ giảng viên cùng đội ngũ admin.
+        </p>
+        <p className="lead text-muted">
+          Cảm ơn vì chúng ta đã luôn song hành.
         </p>
         <button className="btn btn-primary rounded-pill px-4 py-2 shadow-sm transition">
           Tìm hiểu ngay

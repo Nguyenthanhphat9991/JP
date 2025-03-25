@@ -1,44 +1,53 @@
 // server.js
+
 const express = require('express');
-const fs = require('fs');
 const cors = require('cors');
 const path = require('path');
+const admin = require('firebase-admin');
+require('dotenv').config(); // nếu bạn có dùng .env
 
+// 🚀 KHỞI TẠO APP
 const app = express();
-
-// Cho phép tất cả các origin (hoặc cấu hình cụ thể)
 app.use(cors());
 app.use(express.json());
 
-app.post('/api/report', (req, res) => {
+// 🔐 KẾT NỐI FIREBASE
+const serviceAccount = require('./firebaseServiceKey.json'); // Đảm bảo file đúng vị trí
 
+admin.initializeApp({
+  credential: admin.credential.cert(serviceAccount),
+  databaseURL: "https://feedback-jp-default-rtdb.asia-southeast1.firebasedatabase.app/" // 🔁 Cập nhật đúng URL
+});
+
+const db = admin.database();
+
+// 📩 API: Gửi báo cáo
+app.post('/report', (req, res) => {
   const { filename, content, question_title } = req.body;
+
   if (!filename || !content || !question_title) {
-    return res.status(400).json({ error: 'Missing filename or content' });
+    return res.status(400).json({ error: 'Missing filename, content, or title' });
   }
 
-  // Đường dẫn thư mục feedback trong src (hoặc bạn có thể chọn thư mục khác)
-  const feedbackDir = path.join(__dirname, 'src', 'feedback');
+  const feedbackRef = db.ref('feedbacks'); // 👈 Dữ liệu sẽ nằm trong "feedbacks" node
+  const feedbackItem = {
+    filename,
+    question_title,
+    content,
+    created_at: new Date().toISOString()
+  };
 
-  // Tạo thư mục nếu chưa tồn tại
-  if (!fs.existsSync(feedbackDir)) {
-    fs.mkdirSync(feedbackDir, { recursive: true });
-  }
-
-  const filePath = path.join(feedbackDir, filename);
-  // Tạo nội dung file theo định dạng: question_title: ...\ncontent: ...
-  const fileContent = `content: ${content}`;
-
-  fs.writeFile(filePath, fileContent, (err) => {
-    if (err) {
-      console.error(err);
-      return res.status(500).json({ error: 'Failed to write file' });
+  feedbackRef.push(feedbackItem, (error) => {
+    if (error) {
+      console.error('Firebase write error:', error);
+      return res.status(500).json({ error: 'Failed to save to Firebase' });
     }
-    res.json({ message: 'Report saved successfully' });
+    res.json({ message: 'Report saved to Firebase successfully' });
   });
 });
 
-const PORT = 3001;
+// 🔥 SERVER KHỞI CHẠY
+const PORT = process.env.PORT || 3001;
 app.listen(PORT, () => {
-  console.log(`Server listening on port ${PORT}`);
+  console.log(`🚀 Server is running on port ${PORT}`);
 });

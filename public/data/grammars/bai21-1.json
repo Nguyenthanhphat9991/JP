@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "title": "Thể phủ định「ない」",
+    "typeFormat": 2,
+    "structure": [
+      "V　<span class='span'>ない</span>"
+    ],
+    "usage": [
+      "Thể phủ định dạng ngắn của động từ.",
+      "Diễn tả 'không làm V'."
+    ],
+    "structures": [
+      {
+        "group": "グループⅠ",
+        "groupType": 1,
+        "rules": [
+          {
+            "rule": "cột い → cột あ",
+            "examples": [
+              {
+                "from": "<ruby>行<rt>い</rt></ruby><span class='underline'>きます</span>",
+                "to": "<ruby>行<rt>い</rt></ruby>かない"
+              },
+              {
+                "from": "<ruby>飲<rt>の</rt></ruby><span class='underline'>みます</span>",
+                "to": "<ruby>飲<rt>の</rt></ruby>まない"
+              },
+              {
+                "from": "<ruby>立<rt>た</rt></ruby><span class='underline'>ちます</span>",
+                "to": "<ruby>立<rt>た</rt></ruby>たない"
+              }
+            ]
+          },
+          {
+            "rule": "_い → _わ",
+            "examples": [
+              {
+                "from": "<ruby>言<rt>い</rt></ruby><span class='underline'>います</span>",
+                "to": "<ruby>言<rt>い</rt></ruby>わない"
+              },
+              {
+                "from": "<ruby>買<rt>か</rt></ruby><span class='underline'>います</span>",
+                "to": "<ruby>買<rt>か</rt></ruby>わない"
+              }
+            ]
+          },
+          {
+            "rule": "<span class='span'>あります → ない</span>",
+            "ruleType": 1,
+            "examples": [
+              {
+                "from": "あります",
+                "to": "ない"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group": "グループⅡ",
+        "rules": [
+          {
+            "rule": "ます → ない",
+            "examples": [
+              {
+                "from": "<ruby>食<rt>た</rt></ruby>べ<span class='underline'>ます</span>",
+                "to": "<ruby>食<rt>た</rt></ruby>べない"
+              },
+              {
+                "from": "<ruby>借<rt>か</rt></ruby>り<span class='underline'>ます</span>",
+                "to": "<ruby>借<rt>か</rt></ruby>りない"
+              },
+              {
+                "from": "(<ruby>服<rt>ふく</rt></ruby>を)<span class='underline'><ruby>着<rt>き</rt></ruby>ます</span>",
+                "to": "<ruby>着<rt>き</rt></ruby>ない"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "group": "グループⅢ",
+        "groupType": 1,
+        "rules": [
+          {
+            "rule": "します → しない",
+            "examples": [
+              {
+                "from": "<ruby>勉強<rt>べんきょう</rt></ruby><span class='underline'>します</span>",
+                "to": "<ruby>勉強<rt>べんきょう</rt></ruby>しない"
+              },
+              {
+                "from": "コピー<span class='underline'>します</span>",
+                "to": "コピーしない"
+              }
+            ]
+          },
+          {
+            "rule": "<ruby>来<rt>き</rt></ruby>ます → <ruby>来<rt>こ</rt></ruby>ない",
+            "examples": [
+              {
+                "from": "（そこへ）<ruby>来<rt>き</rt></ruby>ます",
+                "to": "<ruby>来<rt>こ</rt></ruby>ない"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "jp": "<ruby>朝<rt>あさ</rt></ruby>　ごはんを　<span class='span'><ruby>食<rt>た</rt></ruby>べない</span>。",
+        "vn": "Không ăn sáng."
+      },
+      {
+        "jp": "<ruby>大<rt>おお</rt></ruby>きい　<ruby>声<rt>こえ</rt></ruby>で　<span class='span'><ruby>話<rt>はな</rt></ruby>さない</span>。",
+        "vn": "Không nói chuyện to."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Mãi mà không thấy nhắn lại",
+    "typeFormat": 1,
+    "structure": [
+      "<span class='span'>なかなか</span>　～ない"
+    ],
+    "usage": [
+      "Diễn tả tình trạng nào đó cứ kéo dài mãi/khó để làm gì đó",
+      "Mãi mà~/Khó mà~"
+    ],
+    "examples": [
+      {
+        "jp": "<ruby>返事<rt>へんじ</rt></ruby>、<span class='span'>なかなか</span>　<ruby>来<rt>こ</rt></ruby>ないね。",
+        "vn": "Mãi mà không thấy nhắn lại nhỉ."
+      },
+      {
+        "jp": "<ruby>病気<rt>びょうき</rt></ruby>が　<span class='span'>なかなか</span>　よく　<ruby>な<rt></rt></ruby>りません。",
+        "vn": "Bệnh mãi mà không thấy đỡ hơn."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Đừng trả lời tin nhắn chậm!",
+    "typeFormat": 1,
+    "structure": [
+      "～<span class='span'>ないでください。</span>"
+    ],
+    "usage": [
+      "Đề nghị/khuyên người khác đừng làm hành động nào đó",
+      "Đừng ~"
+    ],
+    "examples": [
+      {
+        "jp": "これから、<ruby>返事<rt>へんじ</rt></ruby>は　<ruby>遅<rt>おそ</rt></ruby>く　<span class='span'>しないでください</span>。",
+        "vn": "Từ giờ đừng trả lời tin nhắn chậm nữa."
+      },
+      {
+        "jp": "あのミルクは　古いですから、<span class='span'><ruby>飲<rt>の</rt></ruby>まないでください</span>。",
+        "vn": "Vì sữa đó cũ rồi nên xin đừng uống."
+      }
+    ]
+  }
+]

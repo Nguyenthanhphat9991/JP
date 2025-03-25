@@ -117,16 +117,11 @@ h2 {
 
 /* Nút điều hướng cố định ở cuối trang */
 .flashcard-nav {
-    position: fixed;
-    bottom: 20px;
-    left: 50%;
-    transform: translateX(-50%);
-    background: rgba(255, 234, 240, 0.95);
-    /* Tông hồng nhạt trong suốt */
-    padding: 10px 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-    z-index: 1000;
+    position: relative;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
 }
 
 /* Style cho button */
@@ -150,17 +145,17 @@ h2 {
     }
 }
 
-.flashcard:hover .flashcard-inner {
+/* .flashcard:hover .flashcard-inner {
     transform: rotateY(180deg);
-}
+} */
 
 /* Định dạng Furigana */
 ruby {
     font-size: 24px;
-    font-weight: bold;
+    font-weight: normal;
   }
   rt {
-    font-weight: bold; /* Làm đậm chữ chú thích */
+    font-weight: normal; /* Làm đậm chữ chú thích */
     font-size: 14px; /* Điều chỉnh kích thước Furigana */
     position: relative;
     top: -2px; /* Tạo khoảng cách giữa Kanji và Furigana */

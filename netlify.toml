@@ -1,0 +1,8 @@
+[build]
+  functions = "netlify/functions"
+  publish = "build" # folder chứa React sau khi build
+
+[[redirects]]
+  from = "/api/report"
+  to = "/.netlify/functions/report"
+  status = 200

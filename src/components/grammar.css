@@ -4,29 +4,33 @@ body {
 }
 
 .grammar-card {
-    background: white;
-    border-radius: 12px;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    padding: 20px;
+    background: rgb(166, 211, 186);
+    border-radius: 16px;
+    box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.08);
+    padding: 24px;
     margin-top: 20px;
     transition: transform 0.3s ease-in-out;
 }
 
 .grammar-card:hover {
-    transform: scale(1.02);
+    transform: scale(1.015);
 }
 
 .section-title {
     font-weight: bold;
-    font-size: 20px;
-    margin-bottom: 10px;
+    font-size: 30px;
+    margin-bottom: 16px;
+    color: #1565c0;
 }
 
-.formula, .usage, .example {
+.formula,
+.usage,
+.example {
     background: #fffaf0;
-    padding: 15px;
-    border-radius: 10px;
-    margin-top: 10px;
+    padding: 20px;
+    border-radius: 12px;
+    margin-top: 16px;
+    border-left: 5px solid #ffcc80;
 }
 
 .example:hover {
@@ -34,17 +38,105 @@ body {
 }
 
 .icon {
-    font-size: 18px;
-    margin-right: 8px;
+    font-size: 40px;
+    margin-right: 10px;
 }
 
 .japanese-text {
-    font-size: 18px;
-    font-weight: bold;
-    color: #1a237e;
+    font-size: 25px;
+    font-weight: normal;
+    color: #000000;
+    line-height: 1.6;
 }
 
 .translation {
     font-style: italic;
     color: #6c757d;
+    margin-left: 12px;
+    font-size: 24px;
+}
+
+/* Furigana */
+ruby {
+    font-size: 30px;
+    font-weight: normal;
+}
+
+rt {
+    font-weight: normal;
+    font-size: 36px;
+    position: relative;
+    top: -6px;
+    color: #f57c00;
+}
+
+.span {
+    font-weight: bold;
+    color: #db4926;
+}
+
+.underline {
+    text-decoration: underline;
+    text-underline-offset: 5px;
+    text-decoration-thickness: 1.5px;
+}
+
+.grammar-box {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    margin-bottom: 20px;
+}
+
+.grammar-title {
+    font-weight: bold;
+    font-size: 22px;
+    color: #1565c0;
+    margin-bottom: 16px;
+}
+
+.formula,
+.usage,
+.example {
+    background: #fffaf0;
+    padding: 16px;
+    border-radius: 12px;
+    margin-top: 16px;
+    border-left: 5px solid #ffcc80;
+}
+
+/* Thống nhất table */
+.table-header {
+    border: 1px solid #00bcd4;
+    padding: 10px;
+}
+
+.table-cell {
+    border: 1px solid #00bcd4;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.circle-number {
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    border-radius: 50%;
+    background-color: #ffcc80;
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+}
+
+.notes {
+    font-size: 15px;
+    color: #5d4037;
+}
+
+.notes ul {
+    list-style-type: "✦ ";
+    padding-left: 20px;
 }

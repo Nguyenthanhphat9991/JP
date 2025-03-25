@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Phải đặt chỗ trước hôm nay.",
+    "typeFormat": 1,
+    "structure": [
+      "V<span class='span'>な<del>い</del>ければ　なりません</span>"
+    ],
+    "usage": [
+      "Phải làm V",
+      "Văn nói: ～<span class='span'>ないと</span>（※ Không dùng với người trên mình）"
+    ],
+    "examples": [
+      {
+        "jp": "<ruby>今日<rt>きょう</rt></ruby>の11<ruby>時<rt>じ</rt></ruby>までに、<ruby>予約<rt>よやく</rt></ruby>しなければ　なりません。",
+        "vn": "Cần phải đặt bàn trước 11 giờ hôm nay."
+      },
+      {
+        "jp": "<ruby>飛行機<rt>ひこうき</rt></ruby>に　<ruby>乗<rt>の</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、パスポートを　<ruby>見<rt>み</rt></ruby>せなければ　なりません。",
+        "vn": "Trước khi lên máy bay phải cho xem hộ chiếu."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Trước ...",
+    "typeFormat": 1,
+    "structure": [
+      "<span class='span'>～までに</span>"
+    ],
+    "usage": [
+      "Biểu thị thời hạn của 1 hành động nào đó.",
+      "Thường đi kèm mẫu「～なければ　なりません」"
+    ],
+    "notes": [
+      "<span class='span'>〜まで</span>：thời điểm kết thúc hành động.",
+      "<span class='span'>〜までに</span>：hành động được tiến hành trước thời điểm nào đó."
+    ],
+    "examples": [
+      {
+        "jp": "<ruby>授業<rt>じゅぎょう</rt></ruby>は　6<ruby>時半<rt>じはん</rt></ruby>から　9<ruby>時<rt>じ</rt></ruby>まで　です。<ruby>学生<rt>がくせい</rt></ruby>は　6<ruby>時半<rt>じはん</rt></ruby><span class='span'>までに</span>　<ruby>学校<rt>がっこう</rt></ruby>へ　<ruby>行<rt>い</rt></ruby>かなければなりません。",
+        "vn": "Giờ học là từ 6 giờ rưỡi đến 9 giờ. Học sinh phải đến trường trước 6 giờ rưỡi."
+      }
+    ]
+  },{
+    "id": 3,
+    "title": "Ở Nhật không cần đưa tiền boa.",
+    "typeFormat": 1,
+    "structure": [
+      "V<span class='span'>な<del>い</del>くてもいい</span>です。"
+    ],
+    "usage": [
+      "Không cần làm V"
+    ],
+    "examples": [
+      {
+        "jp": "<ruby>日本<rt>にほん</rt></ruby>では　チップを　<ruby>渡<rt>わた</rt></ruby>さなくてもいいです。",
+        "vn": "Ở Nhật không cần đưa tiền boa."
+      },
+      {
+        "jp": "<ruby>土曜日<rt>どようび</rt></ruby>と　<ruby>日曜日<rt>にちようび</rt></ruby>は　<ruby>朝早<rt>あさはや</rt></ruby>く　<ruby>起<rt>お</rt></ruby>きなくても　いいです。",
+        "vn": "Sáng thứ bảy và chủ nhật không cần dậy sớm cũng được."
+      }
+    ]
+  }
+  
+]

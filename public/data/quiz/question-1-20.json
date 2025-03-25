@@ -2,6 +2,7 @@
     {
         "id": 1,
         "question_text": "<ruby>切手を集めます<rt>きってをあつめます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -28,6 +29,7 @@
     {
         "id": 2,
         "question_text": "<ruby>歌を歌います<rt>うたをうたいます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -54,6 +56,7 @@
     {
         "id": 3,
         "question_text": "<ruby>折り紙を折ります<rt>おりがみをおります</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -80,6 +83,7 @@
     {
         "id": 4,
         "question_text": "参加します có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -106,6 +110,7 @@
     {
         "id": 5,
         "question_text": "<ruby>インターネットで調べます<rt>インターネットでしらべます</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -132,6 +137,7 @@
     {
         "id": 6,
         "question_text": "電話します có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -158,6 +164,7 @@
     {
         "id": 7,
         "question_text": "出来ます có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -184,6 +191,7 @@
     {
         "id": 8,
         "question_text": "<ruby>折り紙<rt>おりがみ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -210,6 +218,7 @@
     {
         "id": 9,
         "question_text": "ブラジル có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -236,6 +245,7 @@
     {
         "id": 10,
         "question_text": "<ruby>外国語<rt>がいこくご</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -262,6 +272,7 @@
     {
         "id": 11,
         "question_text": "インターネット có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -288,6 +299,7 @@
     {
         "id": 12,
         "question_text": "<ruby>漢字<rt>かんじ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -314,6 +326,7 @@
     {
         "id": 13,
         "question_text": "<ruby>切手<rt>きって</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -340,6 +353,7 @@
     {
         "id": 14,
         "question_text": "<ruby>着物<rt>きもの</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -366,6 +380,7 @@
     {
         "id": 15,
         "question_text": "ギター có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -392,6 +407,7 @@
     {
         "id": 16,
         "question_text": "<ruby>事故<rt>じこ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -418,6 +434,7 @@
     {
         "id": 17,
         "question_text": "<ruby>地震<rt>じしん</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -444,6 +461,7 @@
     {
         "id": 18,
         "question_text": "<ruby>趣味<rt>しゅみ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -470,6 +488,7 @@
     {
         "id": 19,
         "question_text": "<ruby>鶴<rt>つる</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -496,6 +515,7 @@
     {
         "id": 20,
         "question_text": "<ruby>履歴書<rt>りれきしょ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -522,6 +542,7 @@
     {
         "id": 21,
         "question_text": "ホテル có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -548,6 +569,7 @@
     {
         "id": 22,
         "question_text": "<ruby>読書<rt>どくしょ</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -574,6 +596,7 @@
     {
         "id": 23,
         "question_text": "メートル có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -600,6 +623,7 @@
     {
         "id": 24,
         "question_text": "<ruby>特に<rt>とくに</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -626,6 +650,7 @@
     {
         "id": 25,
         "question_text": "もちろんです có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -652,6 +677,7 @@
     {
         "id": 26,
         "question_text": "<ruby>頑張ります<rt>がんばります</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -678,6 +704,7 @@
     {
         "id": 27,
         "question_text": "よければ、~ có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -704,6 +731,7 @@
     {
         "id": 28,
         "question_text": "<ruby>楽器<rt>がっき</rt></ruby> có nghĩa là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
@@ -726,7 +754,8 @@
                 "is_correct": false
             }
         ]
-    },{
+    },
+    {
         "id": 29,
         "type": "fill_in",
         "question_text": "Điền vào chỗ trống: Sưu tập, thu thập = ____",

@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "title": "Trận đấu được tổ chức ở công viên.",
+        "typeFormat": 1,
+        "structure": [
+            "(địa điểm)<span class='span'>で　</span>N<span class='span'>が　あります</span>。 "
+        ],
+        "usage": [
+            "N được tổ chức ở (địa điểm)"
+        ],
+        "examples": [
+            {
+                "jp": "<ruby>公園<rt>こうえん</rt></ruby><span class='span'>で</span>　A<ruby>社<rt>しゃ</rt></ruby>と <ruby>試合<rt>しあい</rt></ruby><span class='span'>が　あります</span>よ。",
+                "vn": "Trận đấu với công ty A được tổ chức ở công viên."
+            },
+            {
+                "jp": "<ruby>ハノイ大学<rt>だいがく</rt></ruby><span class='span'>で</span> JLPT <span class='span'>が　あります。</span>",
+                "vn": "Kỳ thi năng lực tiếng Nhật được tổ chức ở đại học Hà Nội."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Sở thích của tôi là bóng đá.",
+        "typeFormat": 1,
+        "structure": [
+            "<ruby>趣味<rt>しゅみ</rt></ruby>は　<span class='span'>N</span>　です。",
+            "<ruby>趣味<rt>しゅみ</rt></ruby>は　<span class='span'>Vること</span>　です。"
+        ],
+        "usage": [
+            "Sở thích của tôi là ～"
+        ],
+        "examples": [
+            {
+                "jp": "<ruby>趣味<rt>しゅみ</rt></ruby>は　<span class='span'>サッカー</span>です。",
+                "vn": "Sở thích của tôi là bóng đá."
+            },
+            {
+                "jp": "<ruby>趣味<rt>しゅみ</rt></ruby>は　<span class='span'>サッカーを　すること</span>です。",
+                "vn": "Sở thích của tôi là chơi bóng đá."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Vること : Danh từ hóa động từ",
+        "typeFormat": 1,
+        "structure": [
+            "<span class='span'>Vること</span>：Danh từ hóa động từ"
+        ],
+        "usage": [
+            "Có thể làm tân ngữ, chủ ngữ, vị ngữ,..."
+        ],
+        "examples": [
+            {
+                "jp": "<ruby>泳<rt>およ</rt></ruby>ぐことが　<ruby>得意<rt>とくい</rt></ruby>です。",
+                "vn": "Tôi giỏi việc bơi lội."
+            },
+            {
+                "jp": "<ruby>漢字<rt>かんじ</rt></ruby>を　<ruby>覚<rt>おぼ</rt></ruby>えることは　<ruby>大変<rt>たいへん</rt></ruby>です。",
+                "vn": "Việc học chữ Hán thật là vất vả."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Bạn có thể chơi bóng đá không?",
+        "typeFormat": 1,
+        "structure": [
+            "N<span class='span'>が　できます。</span>",
+            "Vること<span class='span'>が　できます。</span>"
+        ],
+        "usage": [
+            "Có thể làm N.",
+            "Có thể làm V~được.",
+            "Có 2 ý nghĩa: <p>　Diễn tả khả năng, năng lực của bản thân.</p><p>　Diễn tả trong tình huống, phạm vi nào đó có thể làm gì.</p>"
+        ],
+        "examples": [
+            {
+                "jp": "<ruby>漢字<rt>かんじ</rt></ruby>を　<ruby>書<rt>か</rt></ruby>くこと<span class='span'>が　できます</span>。",
+                "vn": "Tôi có thể viết được chữ hán."
+            },
+            {
+                "jp": "サッカー<span class='span'>が　できます</span>か。",
+                "vn": "Bạn có thể chơi bóng đá không?"
+            },
+            {
+                "jp": "➜ はい、できます。",
+                "vn": "Vâng, tôi có thể."
+            },
+            {
+                "jp": "<ruby>映画館<rt>えいがかん</rt></ruby>で　たばこを　<ruby>吸<rt>す</rt></ruby>うこと<span class='span'>が　できます</span>か？",
+                "vn": "Trong rạp chiếu phim có thể hút thuốc lá không?"
+            },
+            {
+                "jp": "➜ いいえ、できません。",
+                "vn": "Không, không thể."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Tôi có thể chạy đường dài nhưng không thể chạy nhanh",
+        "typeFormat": 1,
+        "structure": [
+            "N1 <span class='span'>は</span>～<span class='span'>が</span>、N2 <span class='span'>は</span>～"
+        ],
+        "usage": [
+            "N1 <span class='span'>thì</span>... <span class='span'>nhưng</span> N2 <span class='span'>thì</span>...",
+            "Dùng để nhấn mạnh sự trái ngược giữa 2 vế."
+        ],
+        "examples": [
+            {
+                "jp": "<ruby>長い時間<rt>ながいじかん</rt></ruby>　<ruby>走<rt>はし</rt></ruby>ること<span class='span'>は</span>　できます<span class='span'>が</span>、　<ruby>速<rt>はや</rt></ruby>く <ruby>走<rt>はし</rt></ruby>ること<span class='span'>は</span>　できません。",
+                "vn": "Tôi có thể chạy đường dài nhưng không thể chạy nhanh."
+            },
+            {
+                "jp": "<ruby>猫<rt>ねこ</rt></ruby><span class='span'>は</span>　<ruby>好<rt>す</rt></ruby>きです<span class='span'>が</span>、　<ruby>犬<rt>いぬ</rt></ruby><span class='span'>は</span>　あまり　<ruby>好<rt>す</rt></ruby>きじゃ　ありません。",
+                "vn": "Tôi thích mèo nhưng không thích chó cho lắm."
+            }
+        ]
+    }
+]

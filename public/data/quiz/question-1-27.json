@@ -2,6 +2,7 @@
   {
     "id": 1,
     "question_text": "<ruby>案内します<rt>あんないします</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -28,6 +29,7 @@
   {
     "id": 2,
     "question_text": "<ruby>紹介します<rt>しょうかいします</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -54,6 +56,7 @@
   {
     "id": 3,
     "question_text": "<ruby>風邪をひきます<rt>かぜをひきます</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -80,6 +83,7 @@
   {
     "id": 4,
     "question_text": "<ruby>直します<rt>なおします</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -106,6 +110,7 @@
   {
     "id": 5,
     "question_text": "<ruby>説明します<rt>せつめいします</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -132,6 +137,7 @@
   {
     "id": 6,
     "question_text": "<ruby>拾います<rt>ひろいます</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -158,6 +164,7 @@
   {
     "id": 7,
     "question_text": "<ruby>困ります<rt>こまります</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -184,6 +191,7 @@
   {
     "id": 8,
     "question_text": "くれます có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -210,6 +218,7 @@
   {
     "id": 9,
     "question_text": "<ruby>すき焼き<rt>すきやき</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -236,6 +245,7 @@
   {
     "id": 10,
     "question_text": "<ruby>小学校<rt>しょうがっこう</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -262,6 +272,7 @@
   {
     "id": 11,
     "question_text": "<ruby>中学校<rt>ちゅうがっこう</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -288,6 +299,7 @@
   {
     "id": 12,
     "question_text": "<ruby>お茶碗<rt>おちゃわん</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -314,6 +326,7 @@
   {
     "id": 13,
     "question_text": "<ruby>お皿<rt>おさら</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -340,6 +353,7 @@
   {
     "id": 14,
     "question_text": "<ruby>空港<rt>くうこう</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -366,6 +380,7 @@
   {
     "id": 15,
     "question_text": "<ruby>お守り<rt>おまもり</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -392,6 +407,7 @@
   {
     "id": 16,
     "question_text": "<ruby>人形<rt>にんぎょう</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -418,6 +434,7 @@
   {
     "id": 17,
     "question_text": "オレンジ có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -444,6 +461,7 @@
   {
     "id": 18,
     "question_text": "<ruby>調子<rt>ちょうし</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -470,6 +488,7 @@
   {
     "id": 19,
     "question_text": "<ruby>全部<rt>ぜんぶ</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,

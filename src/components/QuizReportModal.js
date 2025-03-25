@@ -44,10 +44,14 @@ const QuizReportModal = ({
             <Form.Label>Category</Form.Label>
             <Form.Control type="text" value={getCategoryName(categoryId)} disabled />
           </Form.Group>
+
+          {Number(categoryId) === 1 && (
           <Form.Group controlId="formLessonId" className="mt-2">
             <Form.Label>Bài số</Form.Label>
             <Form.Control type="text" value={lessonId} disabled />
           </Form.Group>
+      )}
+
           <Form.Group controlId="formQuestion" className="mt-2">
             <Form.Label>Question</Form.Label>
             <Form.Control type="text" value={currentQuestion.question_text} disabled />

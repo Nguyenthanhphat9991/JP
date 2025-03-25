@@ -2,6 +2,7 @@
   {
     "id": 1,
     "question_text": "<ruby>修理します<rt>しゅうりします</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -28,6 +29,7 @@
   {
     "id": 2,
     "question_text": "<ruby>君<rt>きみ</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -54,6 +56,7 @@
   {
     "id": 3,
     "question_text": "<ruby>僕<rt>ぼく</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -80,6 +83,7 @@
   {
     "id": 4,
     "question_text": "〜君 có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -106,6 +110,7 @@
   {
     "id": 5,
     "question_text": "〜ちゃん có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -132,6 +137,7 @@
   {
     "id": 6,
     "question_text": "<ruby>祇園祭<rt>ぎおんまつり</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -158,6 +164,7 @@
   {
     "id": 7,
     "question_text": "<ruby>歌舞伎<rt>かぶき</rt></ruby> có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -184,6 +191,7 @@
   {
     "id": 8,
     "question_text": "ドイツ có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -210,6 +218,7 @@
   {
     "id": 9,
     "question_text": "ラーメン có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -236,6 +245,7 @@
   {
     "id": 10,
     "question_text": "そば có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -262,6 +272,7 @@
   {
     "id": 11,
     "question_text": "つまらない có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -288,6 +299,7 @@
   {
     "id": 12,
     "question_text": "うん có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -314,6 +326,7 @@
   {
     "id": 13,
     "question_text": "ううん có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -340,6 +353,7 @@
   {
     "id": 14,
     "question_text": "それに có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -366,6 +380,7 @@
   {
     "id": 15,
     "question_text": "〜けど có nghĩa là gì?",
+    "type": "choice",
     "answers": [
       {
         "id": 1,
@@ -388,94 +403,95 @@
         "is_correct": false
       }
     ]
-  },{
+  },
+  {
     "id": 16,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Sửa chữa = ____",
     "correct_answer": "しゅうりします/修理します"
-},
-{
+  },
+  {
     "id": 17,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Em (gọi thân mật) = ____",
     "correct_answer": "きみ/君"
-},
-{
+  },
+  {
     "id": 18,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Tôi, tớ (con trai xưng hô) = ____",
     "correct_answer": "ぼく/僕"
-},
-{
+  },
+  {
     "id": 19,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Cậu, bạn - (gọi con trai) = ____",
     "correct_answer": "~くん/~君"
-},
-{
+  },
+  {
     "id": 20,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Bạn, em - (gọi bé gái) = ____",
     "correct_answer": "~ちゃん"
-},
-{
+  },
+  {
     "id": 21,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Lễ hội Gion = ____",
     "correct_answer": "ぎおんまつり/祇園祭"
-},
-{
+  },
+  {
     "id": 22,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Kịch Kabuki = ____",
     "correct_answer": "かぶき/歌舞伎"
-},
-{
+  },
+  {
     "id": 23,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Đức = ____",
     "correct_answer": "ドイツ"
-},
-{
+  },
+  {
     "id": 24,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Mì ramen = ____",
     "correct_answer": "ラーメン"
-},
-{
+  },
+  {
     "id": 25,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Mỳ soba = ____",
     "correct_answer": "そば"
-},
-{
+  },
+  {
     "id": 26,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Chán, nhàm chán = ____",
     "correct_answer": "つまらない"
-},
-{
+  },
+  {
     "id": 27,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Ừ, ừm = ____",
     "correct_answer": "うん"
-},
-{
+  },
+  {
     "id": 28,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Không = ____",
     "correct_answer": "ううん"
-},
-{
+  },
+  {
     "id": 29,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: Thêm nữa, hơn nữa = ____",
     "correct_answer": "それに"
-},
-{
+  },
+  {
     "id": 30,
     "type": "fill_in",
     "question_text": "Điền vào chỗ trống: ~ nhưng mà = ____",
     "correct_answer": "~けど"
-}
+  }
 ]

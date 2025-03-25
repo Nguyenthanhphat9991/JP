@@ -1,730 +1,2080 @@
 [
     {
         "id": 1,
-        "question_text": "<ruby>好き<rt>すき</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "一 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Ghét",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Thích",
+                "answer_text": "いち",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "に",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Tuyệt vời",
+                "answer_text": "さん",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Giỏi",
+                "answer_text": "ご",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 2,
-        "question_text": "<ruby>嫌い<rt>きらい</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "一 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Thích",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Ghét",
+                "answer_text": "いち",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "し",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Giỏi",
+                "answer_text": "ろく",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Kém",
+                "answer_text": "なな",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 3,
-        "question_text": "<ruby>素敵<rt>すてき</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "一 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Ghét",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Tuyệt vời",
+                "answer_text": "いち",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "にち",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Kém",
+                "answer_text": "みっ",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Giỏi, điểm mạnh",
+                "answer_text": "ひと",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 4,
-        "question_text": "<ruby>上手<rt>じょうず</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "一つ đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Tuyệt vời",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Giỏi",
+                "answer_text": "ひとつ",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "いちつ",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Giỏi, điểm mạnh",
+                "answer_text": "いちに",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Kém, điểm yếu",
+                "answer_text": "ひと",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 5,
-        "question_text": "<ruby>下手<rt>へた</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "一 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Giỏi",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Kém",
+                "answer_text": "いち",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "ご",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Kém, điểm yếu",
+                "answer_text": "ろく",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Muộn, chậm",
+                "answer_text": "はち",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 6,
-        "question_text": "<ruby>得意<rt>とくい</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "に đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Kém",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Giỏi, điểm mạnh",
+                "answer_text": "に",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "いち",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Muộn, chậm",
+                "answer_text": "さん",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Nhanh, lẹ",
+                "answer_text": "し",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 7,
-        "question_text": "<ruby>苦手<rt>にがて</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "二 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Giỏi, điểm mạnh",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Kém, điểm yếu",
+                "answer_text": "に",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "よん",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Nhanh, lẹ",
+                "answer_text": "なな",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Quan trọng",
+                "answer_text": "はち",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 8,
-        "question_text": "<ruby>遅い<rt>おそい</rt></ruby> có nghĩa là gì?",
+        "question_text": "二 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Kém, điểm yếu",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Muộn, chậm",
+                "answer_text": "に",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "みっ",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Quan trọng",
+                "answer_text": "ご",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Dài",
+                "answer_text": "く",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 9,
-        "question_text": "<ruby>早い<rt>はやい</rt></ruby> có nghĩa là gì?",
+        "question_text": "二つ đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Muộn, chậm",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Nhanh, lẹ",
+                "answer_text": "ふたつ",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "にちつ",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Dài",
+                "answer_text": "ふたり",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Ngắn",
+                "answer_text": "ふたち",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 10,
-        "question_text": "<ruby>大切<rt>たいせつ</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "二 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Nhanh, lẹ",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Quan trọng",
+                "answer_text": "に",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "よっ",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Ngắn",
+                "answer_text": "さん",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Nhẹ",
+                "answer_text": "ひと",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 11,
-        "question_text": "<ruby>長い<rt>ながい</rt></ruby> có nghĩa là gì?",
+        "question_text": "三 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Quan trọng",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Dài",
+                "answer_text": "さん",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "し",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Nhẹ",
+                "answer_text": "ご",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Tươi sáng, sáng sủa",
+                "answer_text": "に",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 12,
-        "question_text": "<ruby>短い<rt>みじかい</rt></ruby> có nghĩa là gì?",
+        "question_text": "三 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Dài",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Ngắn",
+                "answer_text": "さん",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "みっつ",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Tươi sáng, sáng sủa",
+                "answer_text": "み",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Đẹp, ngầu",
+                "answer_text": "ろく",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 13,
-        "question_text": "<ruby>軽い<rt>かるい</rt></ruby> có nghĩa là gì?",
+        "question_text": "三 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Ngắn",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Nhẹ",
+                "answer_text": "さん",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "よん",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Tươi sáng, sáng sủa",
+                "answer_text": "なな",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Đẹp, ngầu",
+                "answer_text": "はち",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 14,
-        "question_text": "<ruby>明るい<rt>あかるい</rt></ruby> có nghĩa là gì?",
+        "question_text": "三つ đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Ngắn",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Tươi sáng, sáng sủa",
+                "answer_text": "みっつ",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "さんつ",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Đẹp, ngầu",
+                "answer_text": "さんち",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Trẻ",
+                "answer_text": "みつ",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 15,
-        "question_text": "かっこいい có nghĩa là gì?",
+        "question_text": "四 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Tươi sáng, sáng sủa",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Đẹp, ngầu",
+                "answer_text": "よん",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "しち",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Trẻ",
+                "answer_text": "く",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Đáng yêu",
+                "answer_text": "はち",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 16,
-        "question_text": "<ruby>若い<rt>わかい</rt></ruby> có nghĩa là gì?",
+        "question_text": "四 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Đẹp, ngầu",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Trẻ",
+                "answer_text": "し",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "しち",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Đáng yêu",
+                "answer_text": "なな",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Nhiệt tình",
+                "answer_text": "じゅう",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 17,
-        "question_text": "<ruby>可愛い<rt>かわいい</rt></ruby> có nghĩa là gì?",
+        "question_text": "四つ đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Trẻ",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Đáng yêu",
+                "answer_text": "よっつ",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "よつ",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Nhiệt tình",
+                "answer_text": "しつ",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Nghiêm túc, chăm chỉ",
+                "answer_text": "しっつ",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 18,
-        "question_text": "<ruby>熱心<rt>ねっしん</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "四 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Đáng yêu",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Nhiệt tình",
+                "answer_text": "よん",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "さん",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Nghiêm túc, chăm chỉ",
+                "answer_text": "ご",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Quan hệ tốt",
+                "answer_text": "に",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 19,
-        "question_text": "<ruby>真面目<rt>まじめ</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "四 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Nhiệt tình",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Nghiêm túc, chăm chỉ",
+                "answer_text": "し",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "いち",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Quan hệ tốt",
+                "answer_text": "みっ",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Ấm áp",
+                "answer_text": "なな",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 20,
-        "question_text": "<ruby>仲がいい<rt>なかがいい</rt></ruby> có nghĩa là gì? - (な) -",
+        "question_text": "五 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Nghiêm túc, chăm chỉ",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Quan hệ tốt",
+                "answer_text": "ご",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "ろく",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Ấm áp",
+                "answer_text": "きゅう",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Mát mẻ",
+                "answer_text": "はち",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 21,
-        "question_text": "<ruby>暖かい<rt>あたたかい</rt></ruby> có nghĩa là gì?",
+        "question_text": "五 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Quan hệ tốt",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Ấm áp",
+                "answer_text": "ご",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "じゅう",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Mát mẻ",
+                "answer_text": "ろく",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Buồn ngủ",
+                "answer_text": "なな",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 22,
-        "question_text": "<ruby>涼しい<rt>すずしい</rt></ruby> có nghĩa là gì?",
+        "question_text": "十 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Ấm áp",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Mát mẻ",
+                "answer_text": "じゅう",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "ご",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Buồn ngủ",
+                "answer_text": "きゅう",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Đau",
+                "answer_text": "はち",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 23,
-        "question_text": "<ruby>眠い<rt>ねむい</rt></ruby> có nghĩa là gì?",
+        "question_text": "月 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Mát mẻ",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Buồn ngủ",
+                "answer_text": "つき",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "ひ",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Đau",
+                "answer_text": "みず",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Buồn",
+                "answer_text": "きん",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 24,
-        "question_text": "<ruby>痛い<rt>いたい</rt></ruby> có nghĩa là gì?",
+        "question_text": "五つ đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Buồn ngủ",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Đau",
+                "answer_text": "いつつ",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "ごつ",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Buồn",
+                "answer_text": "ご",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Chán, nhàm chán",
+                "answer_text": "ごん",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 25,
-        "question_text": "<ruby>寂しい<rt>さびしい</rt></ruby> có nghĩa là gì?",
+        "question_text": "十 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text ": "Đau",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Buồn",
+                "answer_text": "じゅう",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "いち",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Chán, nhàm chán",
+                "answer_text": "はち",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Không",
+                "answer_text": "ろく",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 26,
-        "question_text": "つまらない có nghĩa là gì?",
+        "question_text": "火 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Đau",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Chán, nhàm chán",
+                "answer_text": "ひ",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "みず",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Ừ, ừm",
+                "answer_text": "つち",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Không",
+                "answer_text": "き",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 27,
-        "question_text": "うん có nghĩa là gì?",
+        "question_text": "六 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Chán, nhàm chán",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Ừ, ừm",
+                "answer_text": "ろく",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "なな",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Không",
+                "answer_text": "ご",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Thích",
+                "answer_text": "はち",
                 "is_correct": false
             }
         ]
     },
     {
         "id": 28,
-        "question_text": "ううん có nghĩa là gì?",
+        "question_text": "十 đọc là gì?",
+        "type": "choice",
         "answers": [
             {
                 "id": 1,
-                "answer_text": "Ừ, ừm",
-                "is_correct": false
-            },
-            {
-                "id": 2,
-                "answer_text": "Không",
+                "answer_text": "じゅう",
                 "is_correct": true
             },
             {
+                "id": 2,
+                "answer_text": "ろく",
+                "is_correct": false
+            },
+            {
                 "id": 3,
-                "answer_text": "Thích",
+                "answer_text": "しち",
                 "is_correct": false
             },
             {
                 "id": 4,
-                "answer_text": "Ghét",
+                "answer_text": "さん",
                 "is_correct": false
             }
         ]
-    }
+    },
+    {
+        "id": 29,
+        "question_text": "火 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "ひ",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "き",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "みず",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "つち",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "question_text": "六 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "ろく",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "はち",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "なな",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "しち",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "question_text": "十 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "じゅう",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "いち",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "ご",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "く",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "question_text": "火 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "ひ",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "みず",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "つち",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "かぜ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "question_text": "六 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "ろく",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "しち",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "さん",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "く",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "question_text": "百 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "ひゃく",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "せん",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "まん",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "じゅう",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "question_text": "水 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "みず",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "ひ",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "つち",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "もく",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "question_text": "六つ đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "むっつ",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "ろくつ",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "むつ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "ろっつ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "question_text": "三百 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "さんびゃく",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "さんひゃく",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "さんぴゃく",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "さんにゃく",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "question_text": "水 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "みず",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "き",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "もく",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "か",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "question_text": "六 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "ろく",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "しち",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "く",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "に",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "question_text": "六百 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "ろっぴゃく",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "ろくひゃく",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "ろっひゃく",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "ろっにゃく",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "question_text": "木 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "き",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "もく",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "ひ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "みず",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "question_text": "七 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "なな",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "しち",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "ななつ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "ななっつ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "question_text": "千 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "せん",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "ひゃく",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "まん",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "じゅう",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "question_text": "木 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "もく",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "きん",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "か",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "ど",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "question_text": "七 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "しち",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "なな",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "し",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "きゅう",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "question_text": "三千 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "さんぜん",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "さんせん",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "さんち",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "さんまん",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "question_text": "金 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "きん",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "おかね",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "かね",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "き",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "question_text": "七 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "なな",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "きゅう",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "ろく",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "し",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "question_text": "一万円 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "いちまんえん",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "いっせんえん",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "ひゃくえん",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "いちせんえん",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "question_text": "お金 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "おかね",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "きん",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "おきん",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "かに",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "question_text": "七つ đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "ななつ",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "しちつ",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "なっつ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "なな",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "question_text": "万 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "まん",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "せん",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "ひゃく",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "じゅう",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "question_text": "土 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "つち",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "ど",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "か",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "みず",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "question_text": "七 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "なな",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "しち",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "はち",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "ろく",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "question_text": "円 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "えん",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "まる",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "えに",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "まん",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "question_text": "土 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "ど",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "つち",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "き",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "もく",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "question_text": "八 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "はち",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "はつ",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "や",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "よん",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "question_text": "何 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "なに",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "いつ",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "どこ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "だれ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "question_text": "今 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "いま",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "きょう",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "あした",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "けさ",
+                "is_correct": false
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "question_text": "八 đọc là gì?",
+        "type": "choice",
+        "answers": [
+            {
+                "id": 1,
+                "answer_text": "はち",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer_text": "はっ",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer_text": "やっ",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer_text": "よう",
+                "is_correct": false
+            }
+        ]
+    },{
+        "id": 61,
+        "question_text": "何 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "なん",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "なに",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "な",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "ね",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "question_text": "今 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "いま",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "けさ",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "こんばん",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "あした",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "question_text": "八 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "はち",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "はっ",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "やっ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "よう",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "question_text": "日 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "ひ",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "にち",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "か",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "じつ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "question_text": "今 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "いま",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "こん",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "きょう",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "けさ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "question_text": "八つ đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "やっつ",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "はっつ",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "はちつ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "やつ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "question_text": "日 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "にち",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "ひ",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "か",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "じつ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "question_text": "今日 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "きょう",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "こんにち",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "いまひ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "けさ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "question_text": "八 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "はち",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "や",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "やつ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "よう",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "question_text": "日 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "にち",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "ひ",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "じつ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "か",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "question_text": "年 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "とし",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "ねん",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "き",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "じ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "question_text": "九 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "きゅう",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "く",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "きゅ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "きょ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "question_text": "日 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "ひ",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "か",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "じつ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "にち",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "question_text": "年 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "ねん",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "とし",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "じ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "にち",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "question_text": "九つ đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "ここのつ",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "きゅうつ",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "くつ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "ここつ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "question_text": "四月 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "しがつ",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "よんがつ",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "しつき",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "よつがつ",
+            "is_correct": false
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "question_text": "年 đọc là gì?",
+        "type": "choice",
+        "answers": [
+          {
+            "id": 1,
+            "answer_text": "とし",
+            "is_correct": true
+          },
+          {
+            "id": 2,
+            "answer_text": "ねん",
+            "is_correct": false
+          },
+          {
+            "id": 3,
+            "answer_text": "じ",
+            "is_correct": false
+          },
+          {
+            "id": 4,
+            "answer_text": "ひ",
+            "is_correct": false
+          }
+        ]
+      }
 ]

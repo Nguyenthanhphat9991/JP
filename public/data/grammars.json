@@ -1,39 +1,118 @@
 [
-    {
-      "title": "～てもいいですか？",
-      "formula": "Động từ thể て + もいいですか？",
-      "usage": [
-        "Dùng để xin phép làm một việc gì đó.",
-        "Người nghe có thể trả lời bằng 「はい、いいです」hoặc「いいえ、だめです」."
-      ],
-      "examples": [
-        {
-          "question": "ここでたばこを吸ってもいいですか？",
-          "translation": "Tôi có thể hút thuốc ở đây không?"
-        },
-        {
-          "answer": "いいえ、ここでは吸ってはいけません。",
-          "translation": "Không, ở đây không được hút thuốc."
-        }
-      ]
-    },
-    {
-      "title": "～なければなりません",
-      "formula": "Động từ thể ない (bỏ い) + なければなりません",
-      "usage": [
-        "Diễn tả sự bắt buộc phải làm một việc gì đó.",
-        "Dùng trong văn nói lịch sự."
-      ],
-      "examples": [
-        {
-          "question": "毎日勉強しなければなりません。",
-          "translation": "Tôi phải học mỗi ngày."
-        },
-        {
-          "answer": "仕事に行かなければなりません。",
-          "translation": "Tôi phải đi làm."
-        }
-      ]
-    }
-  ]
-  
+  {
+    "title": "Mình đã thân thiết hơn với Rikimi",
+    "typeFormat": 1,
+    "structure": [
+      "A <del>い</del> → <span class='span'>く</span> なります。",
+      "A <del>な</del>／N → <span class='span'>に</span> なります。"
+    ],
+    "usage": [
+      "Biểu thị sự thay đổi về trạng thái."
+    ],
+    "examples": [
+      {
+        "jp": "リキミちゃんと <ruby>仲<rt>なか</rt></ruby>が よく なりました。",
+        "vn": "Mình đã thân thiết hơn với Rikimi."
+      },
+      {
+        "jp": "<ruby>掃除<rt>そうじ</rt></ruby>しましたから、<ruby>部屋<rt>へや</rt></ruby>が きれいに なりました。",
+        "vn": "Vì đã dọn dẹp xong căn phòng trở nên sạch sẽ hơn."
+      },
+      {
+        "jp": "<ruby>将来<rt>しょうらい</rt></ruby> <ruby>医者<rt>いしゃ</rt></ruby>に なりたいです。",
+        "vn": "Tương lai, tôi muốn trở thành bác sĩ."
+      }
+    ]
+  },
+  {
+    "title": "Thể từ điển「る」",
+    "typeFormat": 2,
+    "usage": [
+      "Là thể cơ bản của động từ, được dùng trong từ điển."
+    ],
+    "structure": [
+      {
+        "group": "グループⅠ",
+        "rule": "cột い → cột う",
+        "examples": [
+          {
+            "from": "<ruby>行<rt>い</rt></ruby><span class='underline'>き</span>ます",
+            "to": "<ruby>行<rt>い</rt></ruby>く"
+          },
+          {
+            "from": "<ruby>飲<rt>の</rt></ruby><span class='underline'>み</span>ます",
+            "to": "<ruby>飲<rt>の</rt></ruby>む"
+          },
+          {
+            "from": "な<span class='underline'>り</span>ます",
+            "to": "なる"
+          }
+        ]
+      },
+      {
+        "group": "グループⅡ",
+        "rule": "ます → る",
+        "examples": [
+          {
+            "from": "<ruby>食<rt>た</rt></ruby>べ<span class='underline'>ます</span>",
+            "to": "<ruby>食<rt>た</rt></ruby>べる"
+          },
+          {
+            "from": "<ruby>見<rt>み</rt></ruby><span class='underline'>ます</span>",
+            "to": "<ruby>見<rt>み</rt></ruby>る"
+          },
+          {
+            "from": "<ruby>借<rt>か</rt></ruby>り<span class='underline'>ます</span>",
+            "to": "<ruby>借<rt>か</rt></ruby>りる"
+          }
+        ]
+      },
+      {
+        "group": "グループⅢ",
+        "rule": "します → する / 来ます → 来る",
+        "examples": [
+          {
+            "from": "<ruby>勉強<rt>べんきょう</rt></ruby><span class='underline'>します</span>",
+            "to": "<ruby>勉強<rt>べんきょう</rt></ruby>する"
+          },
+          {
+            "from": "コピー<span class='underline'>します</span>",
+            "to": "コピーする"
+          },
+          {
+            "from": "<ruby>持<rt>も</rt></ruby>って<span class='underline'><ruby>来<rt>き</rt></ruby>ます</span>",
+            "to": "<ruby>持<rt>も</rt></ruby>って<ruby>来<rt>く</rt></ruby>る"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trước khi đi tôi sẽ đặt nhà hàng và mua hoa",
+    "typeFormat": 1,
+    "structure": [
+      "<span class='span'>Vる</span> まえに、～",
+      "<span class='span'>Nの</span> まえに、～",
+      "<span class='span'>(khoảng thời gian)</span> まえに、～"
+    ],
+    "usage": [
+      "Trước khi làm V thì ~",
+      "Trước khi N thì ~",
+      "(khoảng thời gian) trước ~"
+    ],
+    "examples": [
+      {
+        "jp": "<ruby>行<rt>い</rt></ruby>くまえに、レストランを <ruby>予約<rt>よやく</rt></ruby>して、<ruby>花<rt>はな</rt></ruby>を <ruby>買<rt>か</rt></ruby>います。",
+        "vn": "Trước khi đi tôi sẽ đặt nhà hàng và mua hoa."
+      },
+      {
+        "jp": "<ruby>食事<rt>しょくじ</rt></ruby>のまえに、<ruby>花<rt>はな</rt></ruby>を あげます。",
+        "vn": "Tôi tặng hoa trước khi ăn."
+      },
+      {
+        "jp": "<ruby>いつ<rt></rt></ruby> <ruby>日本<rt>にほん</rt></ruby>へ 来ましたか。→ <span class='span'>2か月まえに</span> 来ました。",
+        "vn": "Bạn đến Nhật khi nào? → Tôi đến đây 2 tháng trước."
+      }
+    ]
+  }
+]
